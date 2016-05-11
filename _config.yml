@@ -6,16 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Threelogy
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  In a world dominated by highly scripted, acted out wedding videos, Threelogy has been steadfast and bullishly stubborn in keeping theris natural, candid and real. And we wouldn't have it any other way. And quite frankly, you should too.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+sass:
+    style: :compressed
 
 # Build settings
 markdown: kramdown
+
+collections:
+  wedding:
+    output: true
+    permalink: /wedding/:path/
+
+
+
