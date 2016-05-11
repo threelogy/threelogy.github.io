@@ -23,6 +23,18 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
 <script type="text/javascript" src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+  $(function(){
+    $(window).scroll(function() {
+      if ($(document).scrollTop() > 50 && $(document).width() >= 992) {
+        $('nav').addClass('navbar-shrink');
+      } else {
+        $('nav').removeClass('navbar-shrink');
+      }
+    });
+  });
+
+</script>
 
 </body>
 
