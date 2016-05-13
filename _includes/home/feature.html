@@ -1,39 +1,35 @@
-<div class="container-padding container no-gutter">
-    <div class="col-md-5 feature-thumbnail-container">
+<div class="container-padding container-fluid no-gutter">
+    <div class="col-md-4 left-section">
+        <h2 class="header-section">Featued</h2>
         <div id="thumbs" class="navigation">
             <ul class="thumbs noscript">
-                <li>
-                    <a class="thumb" name="leaf" href="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015.jpg" title="Title #0">
-                        <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #0" />
-                    </a>
-                    <div class="caption">
-                        <div class="download">
-                            <a href="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_b.jpg">Download Original</a>
-                        </div>
-                        <div class="image-title">Title #0</div>
-                        <div class="image-desc">Description</div>
-                    </div>
-                </li>
-
-                <li>
-                    <a class="thumb" name="drop" href="http://farm3.static.flickr.com/2404/2538171134_2f77bc00d9.jpg" title="Title #1">
-                        <img src="http://farm3.static.flickr.com/2404/2538171134_2f77bc00d9_s.jpg" alt="Title #1" />
-                    </a>
-                    <div class="caption">
-                        Any html can be placed here ...
-                    </div>
-                </li>
+                {% assign sorted-wedding = site.wedding | sort: "rank" | reverse %}
+                {% for featureWedding in sorted-wedding %}
+                    {% if featureWedding.feature == true %}
+                        <li>
+                            <a class="thumb" href="{{ featureWedding.image }}" >
+                                <img src="{{ featureWedding.thumb }}" />
+                            </a>
+                            <div class="caption">
+                                <div class="image-title">{{ featureWedding.rank }} {{ featureWedding.title }}</div>
+                                <div class="image-desc">{{ featureWedding.description }}</div>
+                            </div>
+                        </li>
+                    {% endif %}
+                {% endfor %}
 
             </ul>
         </div>
     </div>
 
-    <div class="col-md-7 feature-content-container">
-        <div id="gallery" class="content">
-            <div class="slideshow-container">
+    <div class="col-md-8 right-section no-gutter">
+        <h2 class="header-section">Stories</h2>
+        <div id="gallery" class="content clearfix">
+            <div class="slideshow-container col-md-6">
                 <div id="loading" class="loader"></div>
-                <div id="slideshow" class="slideshow"></div>
+                <div id="slideshow" class="slideshow clearfix"></div>
             </div>
+            <div id="caption" class="caption-container col-md-6"></div>
         </div>
     </div>
 
