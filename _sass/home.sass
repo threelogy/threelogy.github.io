@@ -58,19 +58,27 @@
     .header-section
       font-family: "Sequel-Regular", "sans-serif"
       padding-left: 38px
+      margin-bottom: 30px
   .right-section
     .header-section
       font-family: "Sequel-Regular", "sans-serif"
+      margin-bottom: 30px
     #gallery
       border-top: 2px solid #B61F3E
-      border-left: 2px solid #B61F3E
       border-bottom: 2px solid #B61F3E
       position: relative
+      .border-left
+        border-left: 2px solid #B61F3E
+        height: 270px
+        position: absolute
+        top: -10px
+        left: 10px
       .slideshow-container
-        height: 290px
+        height: 250px
         padding-top: 20px
         padding-bottom: 20px
         position: relative
+        display: block
         .slideshow
           .image-wrapper
             display: block
@@ -78,11 +86,13 @@
             .advance-link
               display: block
               img
-                height: 250px
+                padding: 0 15px
+                width: 100%
+                height: auto
       .caption-container
         display: block
         position: relative
-        height: 290px
+        height: 250px
         padding-top: 20px
         padding-bottom: 20px
         .image-caption

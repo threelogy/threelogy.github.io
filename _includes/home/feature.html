@@ -1,6 +1,6 @@
-<div class="container-padding container-fluid no-gutter">
+<div class="container-padding container">
     <div class="col-md-4 left-section">
-        <h2 class="header-section">Featued</h2>
+        <h2 class="header-section">Featured</h2>
         <div id="thumbs" class="navigation">
             <ul class="thumbs noscript">
                 {% assign sorted-wedding = site.wedding | sort: "rank" | reverse %}
@@ -11,7 +11,7 @@
                                 <img src="{{ featureWedding.thumb }}" />
                             </a>
                             <div class="caption">
-                                <div class="image-title">{{ featureWedding.rank }} {{ featureWedding.title }}</div>
+                                <div class="image-title">{{ featureWedding.title }}</div>
                                 <div class="image-desc">{{ featureWedding.description }}</div>
                             </div>
                         </li>
@@ -22,9 +22,10 @@
         </div>
     </div>
 
-    <div class="col-md-8 right-section no-gutter">
+    <div class="col-md-8 right-section">
         <h2 class="header-section">Stories</h2>
         <div id="gallery" class="content clearfix">
+            <span class="border-left"></span>
             <div class="slideshow-container col-md-6">
                 <div id="loading" class="loader"></div>
                 <div id="slideshow" class="slideshow clearfix"></div>
