@@ -12,8 +12,8 @@ div.loader {
 
 ul.thumbs li {
 	float: left;
-	padding: 0;
-	margin: 5px 10px 5px 0;
+	padding: 5px;
+	margin: 0;
 	list-style: none;
 }
 
