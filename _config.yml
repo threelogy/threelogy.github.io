@@ -10,10 +10,14 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
+sass:
+    style: compressed
+
 collections:
   wedding:
     output: true
     permalink: /wedding/:path/
+
 
 
 
