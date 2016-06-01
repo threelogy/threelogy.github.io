@@ -4,6 +4,7 @@ body
 .reel-list-container
   min-height: 100vh
   .grid
+    overflow: hidden
     .reel-image-item
       position: relative
       .popup-vimeo
@@ -13,9 +14,11 @@ body
         .reel-image
           position: relative
           height: 250px
-          transition: all 700ms ease-in-out
-          //&:hover
-          //  transform: scale(1.1,1.1)
+          transition: all 300ms ease-in-out
+          z-index: 2
+          &:hover
+            z-index: 5
+            transform: scale(1.03,1.03)
           .reel-title
             color: white
             text-align: center
