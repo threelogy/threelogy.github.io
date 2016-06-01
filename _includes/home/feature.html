@@ -4,7 +4,7 @@
         <div id="thumbs" class="navigation">
             <ul class="thumbs clearfix noscript">
                 {% assign sorted-wedding = site.reel | sort: "rank" | reverse %}
-                {% for featureWedding in sorted-wedding | limit: 7 %}
+                {% for featureWedding in sorted-wedding  %}
                     {% if featureWedding.feature == true %}
                         <li class="col-md-6">
                             <a class="thumb" href="{{ featureWedding.image }}" >
