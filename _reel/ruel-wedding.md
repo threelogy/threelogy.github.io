@@ -1,5 +1,5 @@
 ---
-
+layout: reel
 rank: 7
 feature: false
 title: John Doe's Wedding
