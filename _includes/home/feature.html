@@ -3,8 +3,8 @@
         <h2 class="header-section">Featured</h2>
         <div id="thumbs" class="navigation">
             <ul class="thumbs clearfix noscript">
-                {% assign sorted-wedding = site.wedding | sort: "rank" | reverse %}
-                {% for featureWedding in sorted-wedding %}
+                {% assign sorted-wedding = site.reel | sort: "rank" | reverse %}
+                {% for featureWedding in sorted-wedding | limit: 7 %}
                     {% if featureWedding.feature == true %}
                         <li class="col-md-6">
                             <a class="thumb" href="{{ featureWedding.image }}" >

@@ -1,5 +1,8 @@
+- name: Home
+  url: /
+
 - name: Reel
-  url:
+  url: /reel/
 
 - name: Blog
   url:

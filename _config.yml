@@ -14,9 +14,9 @@ sass:
     style: compressed
 
 collections:
-  wedding:
+  reel:
     output: true
-    permalink: /wedding/:path/
+    permalink: /reel/:path/
 
 
 

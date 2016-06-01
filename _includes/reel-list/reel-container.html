@@ -1,0 +1,7 @@
+<div class="container reel-list-container">
+    {% for reel-list in site.reel %}
+        <div class="col-md-4 no-gutter reel-image-list ">
+            <div class="reel-image" style="background-image: url('{{ reel-list.image }}');"></div>
+        </div>
+    {% endfor %}
+</div>
