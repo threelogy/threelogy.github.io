@@ -5,6 +5,18 @@ body
   min-height: 100vh
   .reel-image-list
     .reel-image
-      background-size: cover
-      background-position: center
+      position: relative
       height: 250px
+      transition: all 700ms ease-in-out
+      //&:hover
+      //  transform: scale(1.1,1.1)
+      .reel-title
+        color: white
+        text-align: center
+        font-size: 17px
+        position: absolute
+        top: 50%
+        transform: translateY(-50%)
+        margin: 0
+        left: 0
+        right: 0
