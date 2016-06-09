@@ -1,0 +1,40 @@
+<div class="container-padding container">
+    <div class="col-md-4 left-section">
+        <h2 class="header-section">Featured</h2>
+        <div id="thumbs" class="navigation">
+            <ul class="thumbs clearfix noscript">
+                {% assign sorted-wedding = site.reel | sort: "rank" | reverse %}
+                {% for featureWedding in sorted-wedding  %}
+                    {% if featureWedding.feature == true %}
+                        <li class="col-md-6">
+                            <a class="thumb" href="{{ featureWedding.image }}" >
+                                <img class="img-responsive center-block" src="{{ featureWedding.image }}" />
+                            </a>
+                            <div class="caption">
+                                <div class="image-title">{{ featureWedding.title }}</div>
+                                <div class="image-desc">{{ featureWedding.description }}</div>
+                                <div class="image-link">
+                                    <a href="#">READ MORE</a>
+                                </div>
+                            </div>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="col-md-8 right-section">
+        <h2 class="header-section">Stories</h2>
+        <div id="gallery" class="content clearfix">
+            <span class="border-left"></span>
+            <div class="slideshow-container col-md-7">
+                <div id="loading" class="loader"></div>
+                <div id="slideshow" class="slideshow clearfix"></div>
+            </div>
+            <div id="caption" class="caption-container col-md-5"></div>
+        </div>
+    </div>
+
+</div>

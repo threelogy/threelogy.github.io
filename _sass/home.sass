@@ -54,59 +54,30 @@
       display: inline-block
 
 #feature
-  .left-section
-    .header-section
-      font-family: "Sequel-Regular", "sans-serif"
-      margin-bottom: 30px
-    .navigation
-      padding-left: 0
-      .thumbs
-        padding-left: 0
-  .right-section
-    .header-section
-      font-family: "Sequel-Regular", "sans-serif"
-      margin-bottom: 30px
-    #gallery
-      border-top: 2px solid #B61F3E
-      border-bottom: 2px solid #B61F3E
+  .feature-content
+    overflow: hidden
+    .reel-image-item
       position: relative
-      .border-left
-        border-left: 2px solid #B61F3E
-        height: 375px
-        position: absolute
-        top: -10px
-        left: 10px
-      .slideshow-container
-        height: 255px
-        margin-top: 50px
-        margin-bottom: 50px
-        position: relative
-        display: block
-        .slideshow
-          .image-wrapper
-            display: block
+      .popup-vimeo
+        text-decoration: none
+        border: 0
+        outline: none
+        .reel-image
+          position: relative
+          height: 250px
+          transition: all 300ms ease-in-out
+          z-index: 2
+          &:hover
+            z-index: 5
+            transform: scale(1.03,1.03)
+          .reel-title
+            color: white
+            text-align: center
+            font-size: 17px
             position: absolute
-            .advance-link
-              display: block
-              img
-                padding: 0 15px
-                width: 100%
-                height: auto
-      .caption-container
-        display: block
-        position: relative
-        height: 255px
-        margin-top: 50px
-        margin-bottom: 50px
-        .image-caption
-          position: absolute
-          top: 0
-          left: 0
-          padding: 20px 0
-          .image-desc
-            margin: 15px auto
-          .image-link
-            a
-              text-decoration: none
-              color: #B61F3E
+            top: 50%
+            transform: translateY(-50%)
+            margin: 0
+            left: 0
+            right: 0
           
