@@ -1,7 +1,7 @@
 - id: 1
   bg-image: /img/rates-bg/bg1.jpg
   title: The Threelogy
-  price: "Php 130,000"
+  price: "PHP 130,000"
   package:
     - package-name: Three HD cameras
     - package-name: Same Day Edit
@@ -13,7 +13,7 @@
 - id: 2
   bg-image: /img/rates-bg/bg2.jpg
   title: The Trio
-  price: "Php 75,000"
+  price: "PHP 75,000"
   package:
     - package-name: Three HD cameras
     - package-name: Same Day Edit
@@ -24,7 +24,7 @@
 - id: 3
   bg-image: /img/rates-bg/bg3.jpg
   title: The Sequel
-  price: "Php 65,000"
+  price: "PHP 65,000"
   package:
     - package-name: Three HD cameras
     - package-name: Same Day Edit
@@ -37,7 +37,7 @@
 - id: 4
   bg-image: /img/rates-bg/bg4.jpg
   title: The Pre-Wedding
-  price: "Php 55,000"
+  price: "PHP 55,000"
   package:
     - package-name: Save The Date
     - package-name: Engagement
@@ -48,7 +48,7 @@
 - id: 5
   bg-image: /img/rates-bg/bg5.jpg
   title: The Love Story
-  price: "Php 75,000"
+  price: "PHP 75,000"
   package:
     - package-name: Your love story told the Threelogy way.
 
@@ -69,11 +69,11 @@
   bg-image: /img/rates-bg/bg8.jpg
   title: Fees for out of town shoots
   package:
-    - package-name: "Tagaytay & Bulacan – Php 5,000"
-    - package-name: "Clark, Pampanga & San Pablo – Php 7,500"
-    - package-name: "Batangas, Quezon & Subic – Php 10,000"
-    - package-name: "Baguio & Pangasinan – Php 15,000 + accommodation"
-    - package-name: "Naga, Ilocos, Boracay, Cebu, Batanes and other parts of Visayas & Mindanao – Php 25,000 + airfare + land transfers + accommodation"
+    - package-name: "Tagaytay & Bulacan – PHP 5,000"
+    - package-name: "Clark, Pampanga & San Pablo – PHP 7,500"
+    - package-name: "Batangas, Quezon & Subic – PHP 10,000"
+    - package-name: "Baguio & Pangasinan – PHP 15,000 + accommodation"
+    - package-name: "Naga, Ilocos, Boracay, Cebu, Batanes and other parts of Visayas & Mindanao – PHP 25,000 + airfare + land transfers + accommodation"
 
 
 
