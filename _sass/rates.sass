@@ -3,18 +3,29 @@ body
 
 #rates
   min-height: 100vh
-  .rates-item
-    background-size: cover
-    background-position: top center
-    .rates-link
-      text-decoration: none
-      color: white
-      &:hover
+  .panel-group
+    margin-bottom: 0
+    .rates-item
+      background-size: cover
+      background-position: top center
+      border: none
+      border-radius: 0
+      margin: 0
+      .rates-link
+        display: block
+        text-decoration: none
         color: white
-      .panel-title
-        padding: 50px 0
-        .rates-title
-          font-size: 1.8em
-        .rates-price
-          float: right
-          font-size: 1.8em
+        &:hover
+          color: white
+        .panel-title
+          padding: 50px 0
+          .rates-title
+            font-size: 1.8em
+          .rates-price
+            float: right
+            font-size: 1.8em
+      .package-content
+        border-top: 2px solid white
+        color: white
+        td
+          border-top: none
