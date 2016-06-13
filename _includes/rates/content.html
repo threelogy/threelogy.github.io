@@ -1,33 +1,30 @@
 <div id="rates" class="container-fluid no-gutter">
     <div class="panel-group" id="accordion">
         {% for rates in site.data.rates %}
-        <div class="rates-item" style="background-image: url('{{ rates.bg-image }}');">
-            <div class="container">
-                <a class="rates-link" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ rates.id }}">
-                    <div class="panel-heading">
-                        <h2 class="panel-title text-left">
-                            <span class="rates-title">{{ rates.title }}</span>
-                            <span class="rates-price">{{ rates.price }}</span>
-                        </h2>
-                    </div>
-                </a>
-                <div id="collapse{{rates.id}}" class="panel-collapse collapse">
-                    <div class="panel-body">
-                        <table class="table">
-                            {% for package-details in rates.package %}
-                            <tr>
-                                <td>
-                                    <h5>{{ package-details.package-name }}</h5>
-                                </td>
-                            </tr>
-                            {% endfor %}
-                        </table>
-                    </div>
+        <div class="panel rates-item" style="background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url('{{ rates.bg-image }}');">
+            <a class="rates-link container" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ rates.id }}">
+                <div class="panel-heading">
+                    <h2 class="panel-title text-left">
+                        <span class="rates-title">{{ rates.title }}</span>
+                        <span class="rates-price">{{ rates.price }}</span>
+                    </h2>
+                </div>
+            </a>
+            <div id="collapse{{rates.id}}" class="container panel-collapse collapse package-content">
+                <div class="panel-body">
+                    <table class="table">
+                        <h2 class="text-center">Package</h2>
+                        {% for package-details in rates.package %}
+                        <tr>
+                            <td>
+                                <h4 class="text-center">{{ package-details.package-name }}</h4>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </table>
                 </div>
             </div>
         </div>
         {% endfor %}
     </div>
 </div>
-
-
