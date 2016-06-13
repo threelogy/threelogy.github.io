@@ -1,0 +1,72 @@
+- id: 1
+  title: The Threelogy
+  price: 130,000
+  package:
+    - package-name: Three HD cameras
+    - package-name: Same Day Edit
+    - package-name: Cinematic Highlights Edit
+    - package-name: Raw Footage
+    - package-name: Use of Drone
+    - package-name: Output on Disc and USB Drive
+
+- id: 2
+  title: THE TRIO
+  price: 75,000
+  package:
+    - package-name: Three HD cameras
+    - package-name: Same Day Edit
+    - package-name: Raw Footage
+    - package-name: Output on Disc
+
+
+- id: 3
+  title: THE SEQUEL
+  price: 65,000
+  package:
+    - package-name: Three HD cameras
+    - package-name: Same Day Edit
+    - package-name: Cinematic Highlights Edit
+    - package-name: Raw Footage
+    - package-name: Shot by Threelogy senior cinematographers
+    - package-name: Output on Disc
+
+
+- id: 4
+  title: THE PRE-WEDDING
+  price: 55,000
+  package:
+    - package-name: Save The Date
+    - package-name: Engagement
+    - package-name: Teaser
+    - package-name: OBB
+
+
+- id: 5
+  title: THE LOVE STORY
+  price: 75,000
+  package:
+    - package-name: Your love story told the Threelogy way.
+
+- id: 6
+  title: THE INTERNATIONAL
+  price: STARTS AT USD6,000
+  package:
+    - package-name: Depends on location and scope of shoot
+
+- id: 7
+  title: THE CORPORATE
+  package:
+    - package-name: Call or email us for a quotation
+
+- id: 8
+  title: FEES FOR OUT OF TOWN SHOOTS
+  package:
+    - package-name: Tagaytay & Bulacan – Php5,000
+    - package-name: Clark, Pampanga & San Pablo – Php7,500
+    - package-name: Batangas, Quezon & Subic – Php10,000
+    - package-name: Baguio & Pangasinan – Php15,000 + accommodation
+    - package-name: Naga, Ilocos, Boracay, Cebu, Batanes and other parts of Visayas & Mindanao – Php25,000 + airfare + land transfers + accommodation
+
+
+
+
