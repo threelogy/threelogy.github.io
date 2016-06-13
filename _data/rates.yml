@@ -1,6 +1,7 @@
 - id: 1
+  bg-image: https://images.unsplash.com/reserve/xd45Y326SvKzSR3Nanc8_MRJ_8125-1.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=c0084eba7bfb6a5b24ff60c377a13ac5
   title: The Threelogy
-  price: 130,000
+  price: "Php 130,000"
   package:
     - package-name: Three HD cameras
     - package-name: Same Day Edit
@@ -10,8 +11,9 @@
     - package-name: Output on Disc and USB Drive
 
 - id: 2
-  title: THE TRIO
-  price: 75,000
+  bg-image: https://images.unsplash.com/photo-1427477321886-abc24e8ce923?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=e72259d75050d97b58bd200e9cc41fa1
+  title: The Trio
+  price: "Php 75,000"
   package:
     - package-name: Three HD cameras
     - package-name: Same Day Edit
@@ -20,8 +22,9 @@
 
 
 - id: 3
-  title: THE SEQUEL
-  price: 65,000
+  bg-image: https://images.unsplash.com/photo-1460364157752-926555421a7e?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=8cd14933bc7b85157882dbd8d0dda0bf
+  title: The Sequel
+  price: "Php 65,000"
   package:
     - package-name: Three HD cameras
     - package-name: Same Day Edit
@@ -32,8 +35,9 @@
 
 
 - id: 4
-  title: THE PRE-WEDDING
-  price: 55,000
+  bg-image: https://images.unsplash.com/photo-1420574448342-c9a81a7ac5ee?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=06f4c3deb14a2348cf134eaee57f6a00
+  title: The Pre-Wedding
+  price: "Php 55,000"
   package:
     - package-name: Save The Date
     - package-name: Engagement
@@ -42,30 +46,34 @@
 
 
 - id: 5
-  title: THE LOVE STORY
-  price: 75,000
+  bg-image: https://images.unsplash.com/photo-1460538512106-37e555b43281?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=9b0f4af2ec4b033facaa3b623c1a0c7c
+  title: The Love Story
+  price: "Php 75,000"
   package:
     - package-name: Your love story told the Threelogy way.
 
 - id: 6
-  title: THE INTERNATIONAL
-  price: STARTS AT USD6,000
+  bg-image: https://images.unsplash.com/photo-1425421543490-6a133856ff32?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=0bc72a3999f3d4dc1651da6329bd6077
+  title: The International
+  price: "Starts at USD 6,000"
   package:
     - package-name: Depends on location and scope of shoot
 
 - id: 7
-  title: THE CORPORATE
+  bg-image: https://images.unsplash.com/photo-1452571817344-8d5a4c2100c6?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=137dc9dba85968b66ee4859b73a9f5c6
+  title: The Corporate
   package:
     - package-name: Call or email us for a quotation
 
 - id: 8
-  title: FEES FOR OUT OF TOWN SHOOTS
+  bg-image: https://images.unsplash.com/photo-1460154898712-a7f99bb4a464?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2823091c863d145fbc4173537e35ebbc
+  title: Fees for out of town shoots
   package:
-    - package-name: Tagaytay & Bulacan – Php5,000
-    - package-name: Clark, Pampanga & San Pablo – Php7,500
-    - package-name: Batangas, Quezon & Subic – Php10,000
-    - package-name: Baguio & Pangasinan – Php15,000 + accommodation
-    - package-name: Naga, Ilocos, Boracay, Cebu, Batanes and other parts of Visayas & Mindanao – Php25,000 + airfare + land transfers + accommodation
+    - package-name: "Tagaytay & Bulacan – Php 5,000"
+    - package-name: "Clark, Pampanga & San Pablo – Php 7,500"
+    - package-name: "Batangas, Quezon & Subic – Php 10,000"
+    - package-name: "Baguio & Pangasinan – Php 15,000 + accommodation"
+    - package-name: "Naga, Ilocos, Boracay, Cebu, Batanes and other parts of Visayas & Mindanao – Php 25,000 + airfare + land transfers + accommodation"
 
 
 
