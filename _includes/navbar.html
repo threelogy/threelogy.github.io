@@ -1,23 +1,30 @@
-
-
 <nav {% if page.url == "/" or page.url == "/index.html" or page.url == "index.html" %} class="navbar navbar-default navbar-fixed-top" {% endif %} class="navbar navbar-default navbar-fixed-top  navbar-shrink">
-    <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" id="icon-transition" class="navbar-toggle toggle-menu menu-right" data-toggle="collapse" data-target="#navbar-right-collapse">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-        </div>
-        <div class="collapse navbar-collapse cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="navbar-right-collapse">
-            <ul class="nav navbar-nav">
-                {% for navbarMenu in site.data.navbar %}
-                <li class="navbar-menu" class="navbar-menu">
-                    <a href="{{ navbarMenu.url }}">{{ navbarMenu.name | upcase }}</a>
-                </li>
-                {% endfor %}
-            </ul>
-        </div>
+<div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <button type="button" id="icon-transition" class="navbar-toggle toggle-menu menu-right" data-toggle="collapse" data-target="#navbar-right-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
     </div>
+    <div class="collapse navbar-collapse cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="navbar-right-collapse">
+        <ul class="nav navbar-nav">
+            {% for navbarMenu in site.data.navbar %}
+            {% if navbarMenu.id != 3 %}
+            <li class="navbar-menu">
+                <a href="{{ navbarMenu.url }}">{{ navbarMenu.name | upcase }}</a>
+            </li>
+            {% else %}
+            <li class="navbar-brand-logo">
+                <a href="{{ navbarMenu.url }}">
+                    <img src="{{ navbarMenu.image }}" class="brand-logo"/>
+                </a>
+            </li>
+
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>
 </nav>
