@@ -16,7 +16,7 @@
                 <a href="{{ navbarMenu.url }}">{{ navbarMenu.name | upcase }}</a>
             </li>
             {% else %}
-            <li class="navbar-brand-logo">
+            <li class="navbar-brand-logo" {% if page.url !="/" %} style="display: block"{% endif %}>
                 <a href="{{ navbarMenu.url }}">
                     <img src="{{ navbarMenu.image }}" class="brand-logo"/>
                 </a>
