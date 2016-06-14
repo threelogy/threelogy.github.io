@@ -1,11 +1,20 @@
-- name: Home
-  url: /
-
-- name: Reel
+- id: 1
+  name: Reel
   url: /reel/
 
-- name: Rates
+- id: 2
+  name: Rates
   url: /rates/
 
-- name: Contact
+- id: 3
+  image: /img/brand-logo-black.png
+  url: /
+
+- id: 4
+  name: FAQs
+  url: #
+
+
+- id: 5
+  name: Contact
   url: /contact/
