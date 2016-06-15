@@ -2,7 +2,7 @@ var threelogy = threelogy || {};
 
 threelogy.init = function(){
     isotopeFiltering();
-    onReelVideoClick();
+    //onReelVideoClick();
 };
 
 var onReelVideoClick = function(){

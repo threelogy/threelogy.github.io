@@ -1,5 +1,5 @@
 body
-  margin-top: 100px
+  margin-top: 115px
 
 .reel-list-container
   min-height: 100vh
@@ -48,3 +48,51 @@ body
             margin: 0
             left: 0
             right: 0
+
+#reel-specific
+  .embed-container
+    position: relative
+    padding-bottom: 56.25%
+    height: 0
+    overflow: hidden
+    max-width: 100%
+    iframe, object, embed
+      position: absolute
+      top: 0
+      left: 0
+      right: 0
+      margin-left: auto
+      margin-right: auto
+      width: 100%
+      height: 100%
+
+  .video-description-container
+    margin: 35px auto
+    line-height: 45px
+    p
+      font-size: 18px
+      &:first-child:first-letter
+        font-size: 200%
+
+
+
+
+
+@media (min-width: $screen-md-min)
+  #reel-specific
+    .header-container
+      width: 970px
+
+    #background-overlay
+      background-color: black
+      .video-container
+        width: 970px
+        
+    .video-description-container
+      width: 970px
+      
+    .disqus-container
+      width: 970px
+
+
+

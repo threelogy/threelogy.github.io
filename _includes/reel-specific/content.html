@@ -1,0 +1,32 @@
+<div id="reel-specific">
+    <header class="container header-container">
+        <h3>{{ page.title }}</h3>
+        <h5>{{ page.wedding-date }}</h5>
+    </header>
+    <div id="background-overlay" class="container-fluid no-gutter">
+        <div class="container video-container">
+            <div class='embed-container'>
+                <iframe src='https://player.vimeo.com/video/167778097/' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+            </div>
+        </div>
+    </div>
+
+    <div class="video-description-container container">
+        {{ page.content }}
+    </div>
+
+    <div class="container disqus-container">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES * * */
+            var disqus_shortname = 'threelogycloud';
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+    </div>
+</div>
