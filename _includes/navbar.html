@@ -1,14 +1,18 @@
 <nav {% if page.url == "/" or page.url == "/index.html" or page.url == "index.html" %} class="navbar navbar-default navbar-fixed-top" {% endif %} class="navbar navbar-default navbar-fixed-top  navbar-shrink">
-<div class="container">
+<div class="container no-gutter">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
+            <a class="navbar-brand hidden-lg hidden-md" href="/">
+                <img class="brand-logo" src="/img/brand-logo-black.png"/>
+            </a>
         <button type="button" id="icon-transition" class="navbar-toggle toggle-menu menu-right" data-toggle="collapse" data-target="#navbar-right-collapse">
+            <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
     </div>
-    <div class="collapse navbar-collapse cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right" id="navbar-right-collapse">
+    <div class="collapse navbar-collapse" id="navbar-right-collapse">
         <ul class="nav navbar-nav">
             {% for navbarMenu in site.data.navbar %}
             {% if navbarMenu.id != 3 %}
@@ -16,7 +20,7 @@
                 <a href="{{ navbarMenu.url }}">{{ navbarMenu.name | upcase }}</a>
             </li>
             {% else %}
-            <li class="navbar-brand-logo" {% if page.url !="/" %} style="display: block"{% endif %}>
+            <li class="navbar-brand-logo hidden-sm hidden-xs" {% if page.url !="/" %} style="display: block"{% endif %}>
                 <a href="{{ navbarMenu.url }}">
                     <img src="{{ navbarMenu.image }}" class="brand-logo"/>
                 </a>

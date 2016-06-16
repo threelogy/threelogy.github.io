@@ -43,6 +43,15 @@
 <script type="text/javascript" src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/js/modernizr.min.js"></script>
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+  $('#icon-transition').on('click', function () {
+    $(this).toggleClass('open');
+  });
+
+  $('.navbar-collapse a').click(function(){
+    $(".navbar-collapse").collapse('hide');
+  });
+</script>
 
 {{ layout.javascript }}
 
