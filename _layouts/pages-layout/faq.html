@@ -1,0 +1,17 @@
+---
+layout: default
+css: faq.css
+title: FAQs
+javascript: >
+    <script type="text/javascript">
+        $('#accordion .rates-link').bind('click',function(){
+            var self = this;
+            setTimeout(function() {
+                theOffset = $(self).offset();
+                $('body,html').animate({ scrollTop: theOffset.top - 100 });
+            }, 310);
+        });
+    </script>
+
+---
+{{ content }}
