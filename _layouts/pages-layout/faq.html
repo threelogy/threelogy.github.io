@@ -6,16 +6,19 @@ javascript: >
     <script type="text/javascript">
         $(document).ready(function(){
             var faqLink = $(".faq-link");
+            var buttonImage = $('.faq-button');
+
                 faqLink.on('click',function() {
                     faqLink.not(this).parent().removeClass('active-item');
+                    buttonImage.not(this).attr('src','/img/icon-button/arrow_down.png');
+
                     $(this).parent().toggleClass('active-item');
 
-                    var buttonImage = $('.faq-button');
                     if($(this).parent().hasClass('active-item')){
-                        buttonImage.attr('src','/img/icon-button/close.png');
+                        $(this).find(buttonImage).attr('src','/img/icon-button/close.png');
                     }
                     else{
-                        buttonImage.attr('src','/img/icon-button/arrow_down.png');
+                        $(this).find(buttonImage).attr('src','/img/icon-button/arrow_down.png');
                     }
             });
         });
