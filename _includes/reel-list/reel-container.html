@@ -1,11 +1,13 @@
-<div class="container-fluid no-gutter reel-list-container">
+<div id="filters-button-group"class="button-group">
+    <button class="btn btn-primary btn-isotope is-checked" data-filter="*">SHOW ALL</button>
+    <button class="btn btn-primary btn-isotope" data-filter=".avp">AVP</button>
+    <button class="btn btn-primary btn-isotope" data-filter=".corporate">CORPORATE</button>
+    <button class="btn btn-primary btn-isotope" data-filter=".international">INTERNATIONAL</button>
+    <input type="text" placeholder="Search by name" class="inputSearch form-control" id="search-name">
 
-    <div class="button-group filters-button-group">
-        <button class="btn btn-primary btn-isotope is-checked" data-filter="*">SHOW ALL</button>
-        <button class="btn btn-primary btn-isotope" data-filter=".avp">AVP</button>
-        <button class="btn btn-primary btn-isotope" data-filter=".corporate">CORPORATE</button>
-        <button class="btn btn-primary btn-isotope" data-filter=".international">INTERNATIONAL</button>
-    </div>
+</div>
+
+<div class="container-fluid no-gutter reel-list-container">
     <div class="grid">
         {% for reel-list in site.reel %}
         <div class="col-md-4 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}">
