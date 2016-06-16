@@ -2,7 +2,7 @@
 layout: reel
 rank: 2
 feature: true
-title: John Doe's Wedding
+title: John Doe's Rens
 wedding-date: "November 27 2015"
 vimeo-id: 167778097
 image: /img/feature/test2.jpg
