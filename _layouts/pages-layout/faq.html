@@ -7,10 +7,16 @@ javascript: >
         $(document).ready(function(){
             var faqLink = $(".faq-link");
                 faqLink.on('click',function() {
-                    if( faqLink.hasClass('active-item')){
-                        faqLink.not(this).parent().removeClass('active-item');
-                    }
+                    faqLink.not(this).parent().removeClass('active-item');
                     $(this).parent().toggleClass('active-item');
+
+                    var buttonImage = $('.faq-button');
+                    if($(this).parent().hasClass('active-item')){
+                        buttonImage.attr('src','/img/icon-button/close.png');
+                    }
+                    else{
+                        buttonImage.attr('src','/img/icon-button/arrow_down.png');
+                    }
             });
         });
     </script>
