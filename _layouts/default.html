@@ -26,7 +26,11 @@
   <title>Threelogy | {{ layout.title }}</title>
 
   <link href='https://fonts.googleapis.com/css?family=Lato:400,300,900' rel='stylesheet' type='text/css'>
+  {% if page.url == "/faqs/" %}
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+  {% endif %}
   <link rel="stylesheet" href="/css/{{ layout.css }}">
+
   <script type="text/javascript">
     document.write('<style>.noscript { display: none; }</style>');
   </script>
