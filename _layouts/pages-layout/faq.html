@@ -4,12 +4,12 @@ css: faq.css
 title: FAQs
 javascript: >
     <script type="text/javascript">
-        $('#accordion .rates-link').bind('click',function(){
-            var self = this;
-            setTimeout(function() {
-                theOffset = $(self).offset();
-                $('body,html').animate({ scrollTop: theOffset.top - 100 });
-            }, 310);
+        $(document).ready(function(){
+            var faqLink = $(".faq-link");
+                faqLink.on('click',function() {
+                    faqLink.not(this).parent().removeClass('active-item');
+                    $(this).parent().toggleClass('active-item');
+            });
         });
     </script>
 

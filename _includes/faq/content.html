@@ -2,26 +2,18 @@
     <h2 class="section-header container">Frequently asked Questions</h2>
 </div>
 
-<div id="faq" class="container">
+<div id="faq" class="container-fluid no-gutter">
     <div class="accordion" id="accordion">
         {% for faq in site.data.faq %}
-        <div class="panel rates-item">
-            <a class="rates-link container" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ faq.id }}">
+        <div class="panel faq-item">
+            <a class="faq-link container" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ faq.id }}">
                 <div class="panel-heading">
-                    <h2 class="panel-title text-left">
-                        <span class="rates-title">{{ faq.header }}</span>
-                    </h2>
+                    <h4 class="faq-title">{{ faq.header | upcase }}</h4>
                 </div>
             </a>
             <div id="collapse{{ faq.id }}" class="container panel-collapse collapse package-content">
                 <div class="panel-body">
-                    <table class="table">
-                        <tr>
-                            <td>
-                                <h4 class="text-center">{{ faq.description }}</h4>
-                            </td>
-                        </tr>
-                    </table>
+                    <p class="faq-description">{{ faq.description }}</p>
                 </div>
             </div>
         </div>
