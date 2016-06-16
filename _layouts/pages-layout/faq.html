@@ -7,7 +7,9 @@ javascript: >
         $(document).ready(function(){
             var faqLink = $(".faq-link");
                 faqLink.on('click',function() {
-                    faqLink.not(this).parent().removeClass('active-item');
+                    if( faqLink.hasClass('active-item')){
+                        faqLink.not(this).parent().removeClass('active-item');
+                    }
                     $(this).parent().toggleClass('active-item');
             });
         });
