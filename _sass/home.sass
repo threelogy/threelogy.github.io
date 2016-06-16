@@ -1,22 +1,56 @@
 #cover
+  text-align: center
+  color: #fff
+  display: table
   position: relative
-  background-image: url('/img/background/cover-bg.jpg')
+  z-index: 5
+  width: 100%
+  height: 100%
+  background-repeat: no-repeat
+  background-position: center bottom
+  -webkit-background-size: cover
+  -moz-2-size: cover
   background-size: cover
-  background-position: center center
-  background-attachment: fixed
-  height: 100vh
+  -o-background-size: cover
   .bg-overlay
     position: absolute
     background: linear-gradient(to top, transparent, rgba(0,0,0,0.7))
     height: 100%
     width: 100%
     z-index: 1
-  .logo-container
-    padding: 270px 0px 200px
-    .logo
-      position: relative
-      z-index: 2
-      height: 220px
+  .header-content
+    position: absolute
+    width: 100%
+    text-align: center
+    z-index: 4
+    .logo-container
+      padding: 240px 0
+      .logo
+        position: relative
+        z-index: 2
+        height: 220px
+
+  #video-overlay
+    width: 100%
+    height: 100%
+    position: absolute
+    background-color: rgba(0, 43, 55, 0.5)
+    z-index: 3
+  #video-header
+    position: relative
+    overflow: hidden
+    height: 100vh
+    max-height: 100vh
+    text-align: center
+    #inner-video-container
+      position: absolute
+      height: 100%
+      width: 200%
+      left: -50%
+      #video-sample
+        margin: auto
+        height: 120%
+        min-width: 50%
 
 #about
   position: relative
