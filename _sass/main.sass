@@ -94,6 +94,22 @@ nav
               -ms-transform: translate(0, 101%)
               -o-transform: translate(0, 101%)
               transform: translate(0, 101%)
+          &.active-menu
+            border: 1px solid #5f081a
+            &:hover
+              &:before
+                -webkit-transform: none
+                -ms-transform: none
+                -o-transform: none
+                transform: none
+
+              &:after
+                -webkit-transform: none
+                -ms-transform: none
+                -o-transform: none
+                transform: none
+            a
+              padding: 19px 29px
           a
             font-weight: bold
             display: table
@@ -106,6 +122,7 @@ nav
             background-color: transparent
             &:hover
               color: white
+
 
 
   &.navbar-shrink
@@ -159,10 +176,12 @@ nav
               -ms-transform: translate(0, 101%)
               -o-transform: translate(0, 101%)
               transform: translate(0, 101%)
+
           a
             color: #222222
             &:hover
               color: #5f081a
+
 .site-footer
   padding: 15px 0
   position: relative

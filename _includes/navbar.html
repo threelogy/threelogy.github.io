@@ -16,7 +16,7 @@
         <ul class="nav navbar-nav">
             {% for navbarMenu in site.data.navbar %}
             {% if navbarMenu.id != 3 %}
-            <li class="navbar-menu">
+            <li {% if page.url == navbarMenu.url %} class="navbar-menu active-menu"  {% else %} class="navbar-menu" {% endif %}>
                 <a href="{{ navbarMenu.url }}">{{ navbarMenu.name | upcase }}</a>
             </li>
             {% else %}
