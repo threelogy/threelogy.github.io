@@ -91,17 +91,16 @@ body
     #contact-details
       list-style: none
       color: white
-      padding: 50px
+      padding: 35px
       background-color: #5f081a
       width: fit-content
       .section-row
         margin: 25px 0
         .item-header
-          font-size: 22px
+          font-size: 20px
         .item-text
-          font-size: 18px
-
-
+          font-size: 15px
+          line-height: 28px
 
 
 @media (min-width: 1441px)
@@ -113,3 +112,34 @@ body
 
   #about
     background-size: auto
+
+@media screen and (max-width: 768px)
+  #cover
+    .header-content
+      .logo-container
+        .logo
+          height: 200px
+
+  #about
+    background-image: auto
+    .about-header
+      text-align: center
+    .center-block
+      display: none
+    .logo-container
+      padding: 0 0 0 0
+
+@media screen and (max-width: 320px)
+  #cover
+    .header-content
+      .logo-container
+        .logo
+          z-index: 2
+          height: 110px
+  #about
+    background-image: none
+    .about-header
+      text-align: center
+      letter-spacing: none
+    .center-block
+      display: none
