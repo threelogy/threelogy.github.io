@@ -2,9 +2,9 @@
 <div class="container no-gutter">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
-            <a class="navbar-brand hidden-lg hidden-md" href="/">
-                <img class="brand-logo" src="/img/brand-logo-black.png"/>
-            </a>
+        <a class="navbar-brand hidden-lg hidden-md" href="/">
+            <img class="brand-logo" src="/img/brand-logo-black.png"/>
+        </a>
         <button type="button" id="icon-transition" class="navbar-toggle toggle-menu menu-right" data-toggle="collapse" data-target="#navbar-right-collapse">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -18,15 +18,15 @@
             {% if navbarMenu.id != 3 %}
             <li {% if page.url == navbarMenu.url %} class="navbar-menu active-menu"  {% else %} class="navbar-menu" {% endif %}>
                 <a
-                    {% if page.url =="/" or page.url == "/index.html" or page.url == "index.html" %}
-                        href="{{ navbarMenu.url }}"
-                    {% else %}
-                        {% if navbarMenu.id != 5  %}
-                            href="{{ navbarMenu.url }}"
-                        {%else%}
-                            href="../../#contact"
-                        {% endif %}
-                    {% endif %}
+                        {% if page.url =="/" or page.url == "/index.html" or page.url == "index.html" %}
+                href="{{ navbarMenu.url }}"
+                {% else %}
+                {% if navbarMenu.id != 5  %}
+                href="{{ navbarMenu.url }}"
+                {%else%}
+                href="../../#contact"
+                {% endif %}
+                {% endif %}
 
                 >{{ navbarMenu.name | upcase }}</a>
             </li>
