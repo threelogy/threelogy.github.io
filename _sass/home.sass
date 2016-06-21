@@ -113,13 +113,12 @@ body
 
   #about
     background-size: auto
-
-@media screen and (max-width: 768px)
+@media (max-width: $screen-sm-max)
   #cover
     .header-content
       .logo-container
         .logo
-          height: 200px
+          height: 180px
 
   #about
     background-image: none
@@ -128,9 +127,16 @@ body
     .center-block
       display: none
     .logo-container
-      padding: 0 0 0 0
+      padding: 0
 
-@media screen and (max-width: 320px)
+  #contact
+    #contact-content
+      #contact-details
+        padding: 35px 120px
+        margin: 0 auto
+
+
+@media (max-width: $screen-xs-max)
   #cover
     .header-content
       .logo-container
