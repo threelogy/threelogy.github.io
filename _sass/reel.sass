@@ -18,7 +18,13 @@
       border-color: #5f081a
       background-color: #5f081a
       color: #fff
-  #search-name
+  #search-name1
+    padding-top: 2px
+    border-color: #5f081a
+    display: inline-block
+    border-radius: 0
+    width: 250px
+  #search-name2
     padding-top: 2px
     border-color: #5f081a
     display: inline-block
@@ -81,7 +87,6 @@
         font-size: 200%
 
 
-
 @media (min-width: $screen-md-min)
   #reel-specific
     .header-container
@@ -97,6 +102,28 @@
       
     .disqus-container
       width: 970px
+
+@media (max-width: $screen-xs-max)
+  body
+    margin-top: 95px
+  .category-nav
+    .category-nav-mobile
+      text-align: center
+      #category-button
+        color: black
+        text-transform: uppercase
+        text-decoration: none
+    #navbar-category-collapse
+      margin-top: 15px
+      #filter-container
+        list-style: none
+        padding-left: 0
+        #search-name2
+          width: 100%
+          margin-left: 5px
+          margin-right: 5px
+
+
 
 
 
