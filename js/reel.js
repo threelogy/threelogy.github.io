@@ -26,12 +26,13 @@ var isotopeFiltering = function(){
         filter: function() {
             var $this = $(this);
             var searchResult1 = nameRegex ? $this.text().match( nameRegex ) : true;
+            var searchResult2 = nameRegex ? $this.text().match( nameRegex ) : true;
             var buttonResult = $this.is( buttonFilter1 );
-            return searchResult1 && buttonResult;
+            return searchResult1 && buttonResult || searchResult2 && buttonResult;
         },
     });
 
-    $('#filters-button-group').on( 'click', 'button', function() {
+    $('.filters-button-group').on( 'click', 'button', function() {
         buttonFilter1 = $( this ).attr('data-filter');
         $container.isotope({});
         return false;
@@ -49,8 +50,13 @@ var isotopeFiltering = function(){
     });
 
 
-    var $quicksearch1 = $('#search-name').keyup( debounce( function() {
+    var $quicksearch1 = $('#search-name1').keyup( debounce( function() {
         nameRegex = new RegExp( $quicksearch1.val(), 'gi' );
+        $container.isotope();
+    }) );
+
+    var $quicksearch2 = $('#search-name2').keyup( debounce( function() {
+        nameRegex = new RegExp( $quicksearch2.val(), 'gi' );
         $container.isotope();
     }) );
 
