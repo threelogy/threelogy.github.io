@@ -6,19 +6,17 @@
     <input type="text" placeholder="Search by name" class="inputSearch form-control" id="search-name1">
 </div>
 
-<div class="category-nav filters-button-group button-group category-nav-container hidden-lg hidden-md hidden-sm">
+<div class="no-gutter category-nav filters-button-group button-group category-nav-container hidden-lg hidden-md hidden-sm">
     <div class="category-nav-mobile">
         <a href="#" id="category-button" data-toggle="collapse" data-target="#navbar-category-collapse">Filter Menu <span class="caret"></span></a>
     </div>
-    <div class="full-width collapse navbar-collapse" id="navbar-category-collapse">
-        <ul id="filter-container">
-            {% assign counter = 0%}
-            {% for filter in site.data.buttonFilter %}
-            {% assign counter = counter | plus: 1%}
-            <button class="col-xs-12 btn btn-primary btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
-            {% endfor %}
-            <input type="text" placeholder="Search by name" class="col-xs-12 inputSearch form-control" id="search-name2">
-        </ul>
+    <div class="full-width no-gutter collapse navbar-collapse" id="navbar-category-collapse">
+        {% assign counter = 0%}
+        {% for filter in site.data.buttonFilter %}
+        {% assign counter = counter | plus: 1%}
+        <button class="col-xs-12 btn btn-primary btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
+        {% endfor %}
+        <input type="text" placeholder="Search by name" class="col-xs-12 inputSearch form-control" id="search-name2">
     </div>
 </div>
 
