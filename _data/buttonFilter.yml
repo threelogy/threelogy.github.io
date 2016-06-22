@@ -1,0 +1,11 @@
+- name: SHOW ALL
+  filter: "*"
+
+- name: AVP
+  filter: ".avp"
+
+- name: CORPORATE
+  filter: ".corporate"
+
+- name: INTERNATIONAL
+  filter: ".international"
