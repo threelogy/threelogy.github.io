@@ -111,7 +111,6 @@ nav
               padding: 19px 29px
           a
             font-weight: bold
-            display: table
             font-size: 0.9em
             color: white
             padding: 20px 30px
@@ -218,14 +217,16 @@ nav
       display: none !important
     .navbar-nav
       margin: 40px auto 0
-      display: table
+      display: block !important
+      padding-left: 0
       li
+        width: fit-content
+        margin: 0 auto 11px !important
         transform: none
         top: auto !important
-        display: table
         float: none
-        margin-bottom: 11px
         a
+          text-align: center
           font-size: 1.2em
           padding-top: 10px
           padding-bottom: 10px
@@ -246,7 +247,7 @@ nav
     #icon-transition span
       display: block
       position: absolute
-      height: 3px
+      height: 1px
       width: 100%
       background: #222
       border-radius: 5px
@@ -285,6 +286,7 @@ nav
       top: 18px
       width: 0%
       left: 50%
+
 
 @media (max-width: $screen-xs-max)
   body
