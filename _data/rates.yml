@@ -1,80 +1,102 @@
 - id: 1
   bg-image: /img/rates-bg/bg1.jpg
-  title: The Threelogy
-  price: "PHP 130,000"
+  title: THE LOVE STORY
+  price: "PHP 90,000"
   package:
-    - package-name: Three HD cameras
-    - package-name: Same Day Edit
-    - package-name: Cinematic Highlights Edit
-    - package-name: Raw Footage
-    - package-name: Use of Drone
-    - package-name: Output on Disc and USB Drive
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
 
 - id: 2
   bg-image: /img/rates-bg/bg2.jpg
-  title: The Trio
-  price: "PHP 75,000"
+  title: THE LOVE STORY
+  price: "PHP 90,000"
   package:
-    - package-name: Three HD cameras
-    - package-name: Same Day Edit
-    - package-name: Raw Footage
-    - package-name: Output on Disc
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
 
 
 - id: 3
   bg-image: /img/rates-bg/bg3.jpg
-  title: The Sequel
-  price: "PHP 65,000"
+  title: THE LOVE STORY
+  price: "PHP 90,000"
   package:
-    - package-name: Three HD cameras
-    - package-name: Same Day Edit
-    - package-name: Cinematic Highlights Edit
-    - package-name: Raw Footage
-    - package-name: Shot by Threelogy senior cinematographers
-    - package-name: Output on Disc
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
 
 
 - id: 4
   bg-image: /img/rates-bg/bg4.jpg
-  title: The Pre-Wedding
-  price: "PHP 55,000"
+  title: THE LOVE STORY
+  price: "PHP 90,000"
   package:
-    - package-name: Save The Date
-    - package-name: Engagement
-    - package-name: Teaser
-    - package-name: OBB
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
 
 
 - id: 5
   bg-image: /img/rates-bg/bg5.jpg
   title: The Love Story
-  price: "PHP 75,000"
+  title: THE LOVE STORY
+  price: "PHP 90,000"
   package:
-    - package-name: Your love story told the Threelogy way.
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
 
 - id: 6
   bg-image: /img/rates-bg/bg1.jpg
-  title: The International
-  price: "Starts at USD 6,000"
+  title: THE LOVE STORY
+  price: "PHP 90,000"
   package:
-    - package-name: Depends on location and scope of shoot
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
 
 - id: 7
   bg-image: /img/rates-bg/bg7.jpg
-  title: The Corporate
+  title: THE LOVE STORY
+  price: "PHP 90,000"
   package:
-    - package-name: Call or email us for a quotation
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
 
 - id: 8
   bg-image: /img/rates-bg/bg8.jpg
-  title: Fees for out of town shoots
+  title: THE LOVE STORY
+  price: "PHP 90,000"
   package:
-    - package-name: "Tagaytay & Bulacan – PHP 5,000"
-    - package-name: "Clark, Pampanga & San Pablo – PHP 7,500"
-    - package-name: "Batangas, Quezon & Subic – PHP 10,000"
-    - package-name: "Baguio & Pangasinan – PHP 15,000 + accommodation"
-    - package-name: "Naga, Ilocos, Boracay, Cebu, Batanes and other parts of Visayas & Mindanao – PHP 25,000 + airfare + land transfers + accommodation"
-
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMS
+    - package-name: ITEMSß
+    - package-name: ITEMS
+    - package-name: ITEMS
 
 
 
