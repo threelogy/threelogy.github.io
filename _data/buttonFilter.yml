@@ -7,5 +7,5 @@
 - name: CORPORATE
   filter: ".corporate"
 
-- name: INTERNATIONAL
+- name: TEST
   filter: ".international"
