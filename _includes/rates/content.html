@@ -5,8 +5,8 @@
             <a class="rates-link container" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ rates.id }}">
                 <div class="panel-heading">
                     <h2 class="panel-title text-left">
-                        <span class="editable rates-title">{{ rates.title }}</span>
-                        <span class="editable rates-price">{{ rates.price }}</span>
+                        <span class="rates-title">{{ rates.title }}</span>
+                        <span class="rates-price">{{ rates.price }}</span>
                     </h2>
                 </div>
             </a>
@@ -17,7 +17,7 @@
                         {% for package-details in rates.package %}
                         <tr>
                             <td>
-                                <h4 class="editable package-item text-center">{{ package-details.package-name }}</h4>
+                                <h4 class="package-item text-center">{{ package-details.package-name }}</h4>
                             </td>
                         </tr>
                         {% endfor %}
