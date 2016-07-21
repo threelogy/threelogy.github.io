@@ -16,7 +16,7 @@
           color: white
         .panel-title
           padding: 50px 0
-          text-transform: uppercase
+          text-transform: uppercaseb
           .rates-title
             font-size: 1.2em
           .rates-price
@@ -30,3 +30,19 @@
         td
           font-size: 15px
           border-top: none
+          .package-item
+            line-height: 30px
+
+@media (max-width: $screen-xs)
+  #rates
+    .panel-group
+      .rates-item
+        .rates-link
+          .panel-title
+            .rates-title
+              display: block
+              line-height: 30px
+            .rates-price
+              display: block
+              float: left
+              line-height: 30px
