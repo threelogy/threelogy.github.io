@@ -1,7 +1,7 @@
 <div id="rates" class="container-fluid no-gutter">
     <div class="panel-group" id="accordion">
         {% for rates in site.data.rates %}
-        <div class="panel rates-item" style="background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url('{{ rates.bg-image }}');">
+        <div class="panel rates-item" style="background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url('{{ rates.bg-image }}');">
             <a class="rates-link container" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ rates.id }}">
                 <div class="panel-heading">
                     <h2 class="panel-title text-left">
