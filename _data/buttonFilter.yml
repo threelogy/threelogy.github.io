@@ -1,5 +1,5 @@
-- name: SHOW ALL
-  filter: "*"
+- name: FEATURED
+  filter: ".featured"
 
 - name: AVP
   filter: ".avp"
@@ -9,3 +9,7 @@
 
 - name: INTERNATIONAL
   filter: ".international"
+
+- name: SHOW ALL
+  filter: "*"
+

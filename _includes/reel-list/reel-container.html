@@ -1,9 +1,11 @@
-<div class="filters-button-group button-group hidden-xs">
-    {% for filter in site.data.buttonFilter %}
-    {% assign counter = counter | plus: 1%}
-    <button class="btn btn-primary btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
-    {% endfor %}
-    <input type="text" placeholder="Search by name" class="inputSearch form-control" id="search-name1">
+<div class="filter-container container-fluid no-gutter">
+    <div class="container no-gutter filters-button-group button-group hidden-xs">
+        {% for filter in site.data.buttonFilter %}
+        {% assign counter = counter | plus: 1%}
+        <button class="btn btn-primary btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
+        {% endfor %}
+        <input type="text" placeholder="Search by name" class="inputSearch form-control" id="search-name1">
+    </div>
 </div>
 
 <div class="no-gutter category-nav filters-button-group button-group category-nav-container hidden-lg hidden-md hidden-sm">
@@ -20,15 +22,18 @@
     </div>
 </div>
 
-<div class="container-fluid no-gutter reel-list-container">
+<div class="container no-gutter reel-list-container">
     <div class="grid">
         {% for reel-list in site.reel %}
         <div class="col-md-4 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}">
             <a class="popup-vimeo" href="{{ reel-list.url }}">
-                <div class="reel-image"  style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url('{{ reel-list.image }}');background-size: cover; background-position: center center;">
+                <div class="reel-image"  style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5) ),url('{{ reel-list.image }}');background-size: cover; background-position: center center;">
                     <h1 class="reel-title">{{ reel-list.title }}</h1>
                 </div>
             </a>
+            <div class="content-container">
+                <p>{{ reel-list.content | remove: '<p>' | remove: '</p>' }}</p>
+            </div>
         </div>
         {% endfor %}
     </div>

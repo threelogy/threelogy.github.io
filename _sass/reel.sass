@@ -1,47 +1,49 @@
-.button-group
-  padding: 25px 0
-  margin: 0 auto
-  display: table
-  .btn-isotope
-    border-radius: 0
-    outline: none
-    border-color: #5f081a
-    background-color: transparent
-    margin-right: 5px
-    margin-left: 5px
-    color: #5f081a
-    &.is-checked
+.filter-container
+  background-color: #5f081a
+  .button-group
+    padding: 25px 0
+    margin: 0 auto
+    display: table
+    .btn-isotope
+      border-radius: 0
+      outline: none
+      background-color: transparent
+      margin-right: 15px
+      margin-left: 15px
+      color: white
+      border: none
+      &.is-checked
+        background-color: transparent
+        color: white
+      &:hover
+        background-color: transparent
+        color: white
+    #search-name1
+      padding-top: 2px
       border-color: #5f081a
-      background-color: #5f081a
-      color: #fff
-    &:hover
+      display: inline-block
+      border-radius: 0
+      width: 250px
+    #search-name2
+      padding-top: 2px
       border-color: #5f081a
-      background-color: #5f081a
-      color: #fff
-  #search-name1
-    padding-top: 2px
-    border-color: #5f081a
-    display: inline-block
-    border-radius: 0
-    width: 250px
-  #search-name2
-    padding-top: 2px
-    border-color: #5f081a
-    display: inline-block
-    border-radius: 0
-    width: 250px
+      display: inline-block
+      border-radius: 0
+      width: 250px
 
 .reel-list-container
+  padding: 50px 0
   min-height: 100vh
-  background-color: black
   .grid
     overflow: hidden
     .reel-image-item
+      padding: 10px
       position: relative
       .popup-vimeo
         text-decoration: none
         border: 0
         outline: none
+        display: block
         .reel-image
           position: relative
           height: 250px
@@ -60,6 +62,20 @@
             margin: 0
             left: 0
             right: 0
+      .content-container
+        background-color: #f7f7f7
+        padding: 15px 0
+        p
+          color: #878787
+          line-height: 25px
+          height: 125px
+          overflow: hidden
+          display: -webkit-box
+          -webkit-line-clamp: 5
+          -webkit-box-orient: vertical
+          width: 80%
+          margin: 0 auto
+
 
 #reel-specific
   .embed-container
