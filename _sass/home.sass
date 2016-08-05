@@ -83,26 +83,78 @@ body
       line-height: 30px
 
 #contact
-  background-image: url('/img/gmap.jpg')
-  background-repeat: no-repeat
-  background-position: center center
-  #contact-content
-    margin: 50px auto
-    #contact-details
-      list-style: none
-      color: white
-      padding: 35px
-      background-color: #5f081a
-      width: fit-content
-      .section-row
-        margin: 25px 0
-        .item-header
-          font-size: 20px
-        .item-text
-          font-size: 15px
-          line-height: 28px
-
-
+  position: relative
+  #map
+    z-index: 1
+    height: 700px
+  .contact-container
+    position: absolute
+    z-index: 5
+    top: 5%
+    margin-left: auto
+    margin-right: auto
+    left: 10%
+    background-color: #ffffff
+    min-width: 400px
+    .header-section
+      position: relative
+      .header-image
+        background-size: 100%
+        background-repeat: no-repeat
+        background-position: center center
+        height: 250px
+        transition: background-image 1s ease-in-out
+        .header-title
+          position: absolute
+          left: 20px
+          bottom: 20px
+          color: white
+          margin: 0
+          font-size: 1.5em
+    .header-content
+      .header-list
+        margin-bottom: 0
+        list-style: none
+        border-bottom: 2px solid #5F081A
+        .content-list
+          margin: 20px 0
+          .content-icon
+            display: inline-block
+            vertical-align: middle
+          .content-item
+            margin-left: 30px
+            display: inline-block
+            vertical-align: middle
+            color: #5F081A
+          .content-location
+            width: 190px
+            line-height: 25px
+          ul
+            padding: 0
+            display: inline-block
+            vertical-align: top
+            margin-left: 30px
+            list-style: none
+            margin-bottom: 0
+            li
+              margin-top: 10px
+              margin-bottom: 10px
+              color: #5F081A
+              &:nth-child(1)
+                margin-top: 0
+              &:nth-child(3)
+                margin-bottom: 0
+      .header-action
+        padding-left: 40px
+        padding-top: 10px
+        padding-bottom: 10px
+        .content-icon
+          display: inline-block
+          vertical-align: middle
+        .content-item
+          margin-left: 30px
+          display: inline-block
+          vertical-align: middle
 
 @media (min-width: 1441px)
   #cover

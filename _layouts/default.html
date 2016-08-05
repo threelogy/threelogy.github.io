@@ -44,13 +44,38 @@
 <script type="text/javascript" src="/js/modernizr.min.js"></script>
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <script type="text/javascript">
+
+//on menu burger click change icon
   $('#icon-transition').on('click', function () {
     $(this).toggleClass('open');
   });
 
+//on navbar scroll add brand logo
   $('.navbar-collapse a').click(function(){
     $(".navbar-collapse").collapse('hide');
   });
+
+//contact image cycle
+  var header = $('.header-image');
+  var backgrounds = new Array(
+          'url(/img/contact-image/location_1.jpg)'
+          , 'url(/img/contact-image/location_2.jpg)'
+          , 'url(/img/contact-image/location_3.jpg)'
+          , 'url(/img/contact-image/location_4.jpg)'
+  );
+
+  var current = 0;
+  function nextBackground() {
+    current++;
+    current = current % backgrounds.length;
+    header.css('background-image', backgrounds[current]);
+  }
+  setInterval(nextBackground, 5000);
+
+  header.css('background-image', backgrounds[0]);
+
+
+
 </script>
 
 {{ layout.javascript }}
