@@ -1,11 +1,12 @@
 <div class="container">
-    <div id="ig-header" class="clearfix">
-        <h2 class="text-center">OUR INSTAGRAM PHOTOS</h2>
-        <h3 class="text-center">@threelogyvideo</h3>
+    <div class="section-header">
+        <h2 class="section-title">Our Instagram Photos</h2>
+        <h4 class="section-tag">@threelogy_video</h4>
     </div>
-    <div id="instafeed" class="col-md-12">
+    <div id="instafeed">
         {% for i in (1..6) %}
-        <div data-sr="wait 0.{{i}}s" class="col-md-4 col-sm-6 col-xs-6 placeholder"></div>
+        <div class="col-md-4 col-sm-4 col-xs-4 placeholder">
+        </div>
         {% endfor %}
     </div>
 </div>

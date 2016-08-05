@@ -12,7 +12,7 @@ body
   background-repeat: no-repeat
   background-position: center bottom
   -webkit-background-size: cover
-  -moz-2-size: cover
+  -moz-background-size: cover
   background-size: cover
   -o-background-size: cover
   .header-content
@@ -22,6 +22,12 @@ body
     text-align: center
     z-index: 4
     .logo-container
+      -webkit-filter: brightness(0) invert(1)
+      //background-image: url('/img/assets/cover-line-bg.png')
+      //background-size: 70%
+      //background-position: center center
+      //background-repeat: no-repeat
+      //padding: 270px 0
       position: relative
       top: 50%
       -webkit-transform: translateY(-50%)
@@ -31,7 +37,6 @@ body
       .logo
         position: relative
         z-index: 2
-        height: 220px
 
   #video-overlay
     width: 100%
@@ -82,6 +87,28 @@ body
       font-size: 16px
       line-height: 30px
 
+
+#instagram
+  position: relative
+  margin: 50px 0 80px
+  .section-header
+    .section-title
+      text-align: center
+      text-transform: uppercase
+      font-size: 2em
+    .section-tag
+      text-align: center
+  #instafeed
+    .placeholder
+      padding: 5px
+      .image-link
+        display: block
+        img
+          display: block
+          max-width: 100%
+          height: auto
+          margin: auto
+
 #contact
   position: relative
   #map
@@ -90,19 +117,21 @@ body
   .contact-container
     position: absolute
     z-index: 5
-    top: 5%
+    top: 50%
+    transform: translateY(-50%)
     margin-left: auto
     margin-right: auto
     left: 10%
     background-color: #ffffff
-    min-width: 400px
+    min-width: 330px
+    box-shadow: 3px 3px 10px 6px #969696
     .header-section
       position: relative
       .header-image
         background-size: 100%
         background-repeat: no-repeat
         background-position: center center
-        height: 250px
+        height: 215px
         transition: background-image 1s ease-in-out
         .header-title
           position: absolute
@@ -121,6 +150,7 @@ body
           .content-icon
             display: inline-block
             vertical-align: middle
+            max-width: 80%
           .content-item
             margin-left: 30px
             display: inline-block
@@ -161,7 +191,7 @@ body
     .header-content
       .logo-container
         .logo
-          height: 270px
+          height: 220px
 
   #about
     background-size: auto

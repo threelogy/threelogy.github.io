@@ -5,6 +5,31 @@ css: home.css
 title: Home
 javascript: >
     <script type="text/javascript">
+        $.getScript('/js/instafeed.min.js', function () {
+            if (Instafeed) {
+                new Instafeed({
+                    get: 'user',
+                    userId: '3626959244',
+                    accessToken: '3626959244.1677ed0.3cbe435dc49d47a4b9e0c45b7a54abb7',
+                    limit: 6,
+                    sortBy: 'most-recent',
+                    orientation: 'square',
+                    template: '<a href="{{link}}" target="_blank" class="col-md-2 col-sm-2 col-xs-6"><img src="{{image}}" /></a>',
+                    resolution: 'standard_resolution',
+                    success: function(feed){
+                        var data = feed.data.reverse();
+                        $('.placeholder').each(function(index, placeholder){
+                            var model = data.pop();
+                            $(placeholder).html(
+                                    '<a class="image-link" href="'+ model.link +'" target="_blank">'
+                                    + '<img src="'+ model.images.standard_resolution.url +'" />'
+                                    + '</a>').hide().fadeIn();
+                        });
+                    }
+                }).run();
+            }
+        });
+
         $(function(){
             if( window.pageYOffset > 50 && $(document).width() >= 992){
                 $('nav').addClass('navbar-shrink')
