@@ -1,47 +1,57 @@
 #rates
   min-height: 100vh
-  .panel-group
-    margin-bottom: 0
-    .rates-item
-      background-size: cover
-      background-position: bottom center
-      border: none
-      border-radius: 0
-      margin: 0
-      .rates-link
-        display: block
-        text-decoration: none
-        color: white
-        &:hover
-          color: white
-        .panel-title
-          padding: 50px 0
-          .rates-title
-            font-size: 1.2em
-          .rates-price
-            float: right
-            font-size: 1.2em
-      .package-content
-        border-top: 2px solid white
-        color: white
-        .header-section
-          text-transform: uppercase
-        td
-          font-size: 15px
-          border-top: none
-          .package-item
-            line-height: 30px
+  .section-container
+    .content-title
+      font-weight: bold
+      font-size: 18px
+      letter-spacing: 2px
+      text-align: center
+      text-transform: uppercase
+      margin-bottom: 30px
+    .section-list-item
+      position: relative
+      border-right: 1px solid #DCDCDC
+      &.row-1
+        margin: 30px 0 60px
+        min-height: 600px
+      &.row-2
+        margin: 30px 0
+        min-height: 250px
+      &.row-3
+        margin: 30px 0
+        min-height: 570px
+      .content-container
+        padding-left: 0
+        list-style: none
+        .content-item
+          border-bottom: 1px solid #DCDCDC
+          &:last-child
+            border: none
+          .content-name
+            display: block
+            text-align: center
+            font-size: 16px
+            padding: 25px 0
+      .content-price
+        line-height: 25px
+        text-align: center
+        color: #5f081a
+        font-size: 18px
+        letter-spacing: 2px
+        font-weight: bold
+        position: absolute
+        bottom: 0
+        left: 0
+        right: 0
+        padding: 0 15px
+    .section-divider
+      float: left
+      width: 100%
+      border: 2px solid #DCDCDC
 
-@media (max-width: $screen-xs)
-  #rates
-    .panel-group
-      .rates-item
-        .rates-link
-          .panel-title
-            .rates-title
-              display: block
-              line-height: 30px
-            .rates-price
-              display: block
-              float: left
-              line-height: 30px
+    .extra-list
+      padding-left: 15px
+      padding-right: 15px
+      width: 20%
+      float: left
+

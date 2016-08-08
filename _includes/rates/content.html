@@ -1,30 +1,53 @@
-<div id="rates" class="container-fluid no-gutter">
-    <div class="panel-group" id="accordion">
-        {% for rates in site.data.rates %}
-        <div class="panel rates-item" style="background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url('{{ rates.bg-image }}');">
-            <a class="rates-link container" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ rates.id }}">
-                <div class="panel-heading">
-                    <h2 class="panel-title text-left">
-                        <span class="rates-title">{{ rates.title }}</span>
-                        <span class="rates-price">{{ rates.price }}</span>
-                    </h2>
-                </div>
-            </a>
-            <div id="collapse{{rates.id}}" class="container panel-collapse collapse package-content">
-                <div class="panel-body">
-                    <table class="table">
-                        <h3 class="header-section text-center">Package</h3>
-                        {% for package-details in rates.package %}
-                        <tr>
-                            <td>
-                                <h4 class="package-item text-center">{{ package-details.package-name }}</h4>
-                            </td>
-                        </tr>
-                        {% endfor %}
-                    </table>
-                </div>
+<div id="rates" class="container no-gutter">
+    <div class="section-container">
+        {% for rates in site.data.rates limit: 7 %}
+        {% assign counter = counter | plus: 1%}
+            {% if counter < 5 %}
+            <div class="row-1 section-list-item col-md-3">
+                <ul class="content-container">
+                    <h2 class="content-title"> {{ rates.title }}</h2>
+                    {% for rates-package in rates.package %}
+                    <li class="content-item">
+                        <span class="content-name">{{ rates-package.package-name }}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <h2 class="content-price">{{ rates.price }}</h2>
             </div>
-        </div>
+            {% else if counter >=5 and counter <= 7 %}
+            {% if counter == 5 %}<hr class="section-divider"/>{% endif %}
+            <div class="row-2 section-list-item col-md-4">
+                <ul class="content-container">
+                    <h2 class="content-title"> {{ rates.title }}</h2>
+                    {% for rates-package in rates.package %}
+                    <li class="content-item">
+                        <span class="content-name">{{ rates-package.package-name }}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <h2 class="content-price">{{ rates.price }}</h2>
+            </div>
+
+            {% endif %}
         {% endfor %}
+
+        <hr class="section-divider"/>
+        <div class="col-md-12 no-gutter">
+            <h2 class="content-title">Fees Out Of Town</h2>
+            {% for rates in site.data.rates offset: 7 %}
+                {% for rates-package in rates.package %}
+                    <div class="row-3 section-list-item extra-list ">
+                        <ul class="content-container">
+                            {% for destination in rates-package.package-destination %}
+                            <li class="content-item">
+                                <span class="content-name">{{ destination.destination }}</span>
+                            </li>
+                            {% endfor %}
+                            <h2 class="content-price">{{ rates-package.package-price }}</h2>
+                        </ul>
+                    </div>
+                {% endfor %}
+            {% endfor %}
+        </div>
     </div>
 </div>
