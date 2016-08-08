@@ -1,13 +1,12 @@
 ---
+
 layout: reel
-rank: 11
+rank: 1
 feature: true
 title: John Doe's Wedding
-wedding-date: "November 27 2015"
 vimeo-id: 167778097
-image: /img/feature/test3.jpg
-thumb: http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg
-type: featured
+image: "https://res.cloudinary.com/design-studio/image/upload/threelogy/den_chin.jpg"
+type: avp
 
 ---
 

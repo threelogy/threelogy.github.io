@@ -1,13 +1,11 @@
 ---
 layout: reel
-rank: 10
-feature: false
-title: John Doe's Wedding
+rank: 5
+feature: true
 wedding-date: "November 27 2015"
 vimeo-id: 167778097
-image: /img/feature/test3.jpg
-thumb: http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg
-type: featured
+image: "https://res.cloudinary.com/design-studio/image/upload/threelogy/jason_miya.jpg"
+type: international
 
 ---
 
