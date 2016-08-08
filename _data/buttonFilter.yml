@@ -1,15 +1,20 @@
-- name: FEATURED
+- id: 1
+  name: FEATURED
   filter: ".featured"
 
-- name: AVP
+- id: 2
+  name: AVP
   filter: ".avp"
 
-- name: CORPORATE
+- id: 3
+  name: CORPORATE
   filter: ".corporate"
 
-- name: INTERNATIONAL
+- id: 4
+  name: INTERNATIONAL
   filter: ".international"
 
-- name: SHOW ALL
+- id: 5
+  name: SHOW ALL
   filter: "*"
 
