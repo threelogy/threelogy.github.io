@@ -3,7 +3,7 @@
         {% for rates in site.data.rates limit: 7 %}
         {% assign counter = counter | plus: 1%}
             {% if counter < 5 %}
-            <div class="row-1 section-list-item col-md-3">
+            <div class="item-{{ counter }} row-1 section-list-item col-lg-3 col-md-3 col-sm-6 col-xs-6">
                 <ul class="content-container">
                     <h2 class="content-title"> {{ rates.title }}</h2>
                     {% for rates-package in rates.package %}
@@ -14,9 +14,10 @@
                 </ul>
                 <h2 class="content-price">{{ rates.price }}</h2>
             </div>
-            {% else if counter >=5 and counter <= 7 %}
+            {% if counter == 2 %}<hr class="hidden-lg hidden-md visible-sm visible-xs section-divider"/>{% endif %}
+            {% else if counter >= 5 and counter <= 7 %}
             {% if counter == 5 %}<hr class="section-divider"/>{% endif %}
-            <div class="row-2 section-list-item col-md-4">
+            <div class="item-{{ counter }} row-2 section-list-item col-lg-4 col-md-4 col-sm-6 col-xs-6">
                 <ul class="content-container">
                     <h2 class="content-title"> {{ rates.title }}</h2>
                     {% for rates-package in rates.package %}
@@ -27,16 +28,19 @@
                 </ul>
                 <h2 class="content-price">{{ rates.price }}</h2>
             </div>
-
             {% endif %}
         {% endfor %}
 
         <hr class="section-divider"/>
         <div class="col-md-12 no-gutter">
             <h2 class="content-title">Fees Out Of Town</h2>
+            {% assign counter = 7 %}
             {% for rates in site.data.rates offset: 7 %}
                 {% for rates-package in rates.package %}
-                    <div class="row-3 section-list-item extra-list ">
+                {% assign counter = counter %}
+                {% assign counter = counter | plus: 1 %}
+                {% if counter == 10 or counter == 12 %}<hr class="hidden-lg hidden-md visible-sm visible-xs section-divider"/>{% endif %}
+                    <div class="item-{{ counter }} row-3 section-list-item extra-list ">
                         <ul class="content-container">
                             {% for destination in rates-package.package-destination %}
                             <li class="content-item">

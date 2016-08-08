@@ -1,25 +1,25 @@
 <div class="filter-container container-fluid no-gutter">
-    <div class="container no-gutter filters-button-group button-group hidden-xs">
+    <div class="container no-gutter filters-button-group button-group hidden-sm hidden-xs">
         {% for filter in site.data.buttonFilter %}
         {% assign counter = counter | plus: 1%}
         <!--{{ filter.name }}-->
         <button class="btn btn-primary btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
         {% endfor %}
-        <input type="text" placeholder="Search by name" class="inputSearch form-control" id="search-name1">
+        <input type="text" placeholder="search couple name" class="inputSearch form-control" id="search-name1">
     </div>
 </div>
 
-<div class="no-gutter category-nav filters-button-group button-group category-nav-container hidden-lg hidden-md hidden-sm">
+<div class="no-gutter category-nav filters-button-group button-group category-nav-container hidden-lg hidden-md">
     <div class="category-nav-mobile">
         <a href="#" id="category-button" data-toggle="collapse" data-target="#navbar-category-collapse">Filter Menu <span class="caret"></span></a>
     </div>
-    <div class="full-width no-gutter collapse navbar-collapse" id="navbar-category-collapse">
+    <div class="full-width no-gutter collapse navbar-collapse in" id="navbar-category-collapse">
         {% assign counter = 0%}
         {% for filter in site.data.buttonFilter %}
         {% assign counter = counter | plus: 1%}
         <button class="col-xs-12 btn btn-primary btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
         {% endfor %}
-        <input type="text" placeholder="Search by name" class="col-xs-12 inputSearch form-control" id="search-name2">
+        <input type="text" placeholder="search couple name" class="col-xs-12 inputSearch form-control" id="search-name2">
     </div>
 </div>
 
