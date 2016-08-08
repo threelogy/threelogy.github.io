@@ -1,6 +1,6 @@
 <div id="reel-specific">
     <header class="container header-container">
-        <h3>{{ page.title }}</h3>
+        <h3 >{{ page.path | remove: '_reel/' | remove: '.md' }}</h3>
         <h5>{{ page.wedding-date }}</h5>
     </header>
     <div id="background-overlay" class="container-fluid no-gutter">
