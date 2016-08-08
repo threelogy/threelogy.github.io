@@ -27,9 +27,6 @@ javascript: >
             });
         });
 
-        if ( !$container.data('isotope').filteredItems.length ) {
-            $('#msg-box').show();
-        }
 
         $('.filters-button-group').on('click', 'button', function () {
             buttonFilter1 = $(this).attr('data-filter');
