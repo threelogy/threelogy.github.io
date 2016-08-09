@@ -64,7 +64,10 @@
 @media (max-width: $screen-sm-max)
   #rates
     .section-container
+      .section-divider
+        border: none
       .section-list-item
+        border: 2px solid ghostwhite
         &.item-2,&.item-6
           border-right: none
         &.item-7
@@ -75,13 +78,20 @@
         &.item-12
           width: 100%
           min-height: 510px
+        .content-container
+          .content-item
+            border-bottom: none
       .extra-list
         width: 50%
+
 
 @media (max-width: $screen-xs-max)
   #rates
     .section-container
+      .section-divider
+        border: none
       .section-list-item
+        border: 2px solid ghostwhite
         &.item-1,&.item-2,&.item-3,&.item-4,&.item-5,&.item-6,&.item-7,&.item-8,&.item-9,&.item-10,&.item-11,&.item-12
           width: 100%
           border-right: 0
@@ -92,3 +102,6 @@
           top: 0
           transform: none
           margin: 20px 0
+        .content-container
+          .content-item
+            border-bottom: none
