@@ -68,19 +68,28 @@
         border: none
       .section-list-item
         border: 2px solid ghostwhite
+        &.row-1
+          min-height: 460px
+          margin: 0
+        &.row-2
+          margin: 0
+        &.row-3
+          margin: 0
         &.item-2,&.item-6
           border-right: none
         &.item-7
           width: 100%
           min-height: 0
         &.item-8,&.item-9,&.item-10,&.item-11
-          min-height: 300px
+          min-height: 250px
         &.item-12
           width: 100%
-          min-height: 510px
+          min-height: 380px
         .content-container
           .content-item
             border-bottom: none
+            .content-name
+              padding: 15px 0
       .extra-list
         width: 50%
 
@@ -105,3 +114,5 @@
         .content-container
           .content-item
             border-bottom: none
+            .content-name
+              padding: 15px 0
