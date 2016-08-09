@@ -135,16 +135,36 @@
       .content-container
         padding: 0
         .section-image
-          margin-bottom: 30px
+          margin-bottom: 40px
           .content-image
             height: 250px
-
         .section-header
           .header
             text-align: center
-
-
     #right-section
       display: none
+
+@media (max-width: $screen-xs-max)
+  #contact
+    padding: 50px 0
+    #left-section
+      height: auto
+      .content-container
+        top: 0
+        transform: none
+        -webkit-transform: none
+
+@media (max-width: 568px)
+  #contact
+    #left-section
+      .content-container
+        .section-image
+          .content-image
+            height: 190px
+        .section-header
+          .header
+            font-size: 22px
+
+
 
 
