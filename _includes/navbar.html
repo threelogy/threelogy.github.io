@@ -17,18 +17,7 @@
             {% for navbarMenu in site.data.navbar %}
             {% if navbarMenu.id != 3 %}
             <li {% if page.url == navbarMenu.url %} class="navbar-menu active-menu"  {% else %} class="navbar-menu" {% endif %}>
-                <a
-                    {% if page.url =="/" or page.url == "/index.html" or page.url == "index.html" %}
-                        href="{{ navbarMenu.url }}"
-                    {% else %}
-                        {% if navbarMenu.id != 5  %}
-                            href="{{ navbarMenu.url }}"
-                        {%else%}
-                            href="../../#contact"
-                        {% endif %}
-                    {% endif %}
-
-                >{{ navbarMenu.name | upcase }}</a>
+                <a  href="{{ navbarMenu.url }}">{{ navbarMenu.name | upcase }}</a>
             </li>
             {% else %}
             <li class="navbar-brand-logo hidden-sm hidden-xs" {% if page.url !="/" %} style="display: block"{% endif %}>
