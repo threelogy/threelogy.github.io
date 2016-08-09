@@ -2,7 +2,6 @@
     <div class="container no-gutter filters-button-group button-group visibile-md hidden-sm hidden-xs">
         {% for filter in site.data.buttonFilter %}
         {% assign counter = counter | plus: 1%}
-        <!--{{ filter.name }}-->
         <button class="btn btn-primary btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
         {% endfor %}
         <input type="text" placeholder="search couple name" class="inputSearch form-control" id="search-name1">
