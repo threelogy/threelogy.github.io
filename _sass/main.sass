@@ -181,11 +181,43 @@ nav
               color: #5f081a
 
 .site-footer
-  padding: 15px 0
   position: relative
   background-color: #5f081a
   color: white
-
+  .content-container
+    height: 65px
+    position: relative
+    .left-section
+      position: absolute
+      left: 0
+      top: 50%
+      transform: translateY(-50%)
+      -webkit-transform: translateY(-50%)
+      -moz-transform: translateY(-50%)
+      -o-transform: translateY(-50%)
+      -ms-transform: translateY(-50%)
+    .right-section
+      position: absolute
+      right: 0
+      top: 50%
+      transform: translateY(-50%)
+      -webkit-transform: translateY(-50%)
+      -moz-transform: translateY(-50%)
+      -o-transform: translateY(-50%)
+      -ms-transform: translateY(-50%)
+      .media-container
+        list-style: none
+        padding-left: 0
+        margin-bottom: 0
+        .media-list
+          display: inline-block
+          vertical-align: middle
+          .media-link
+            display: block
+            .media-button
+              margin-left: 5px
+              margin-right: 5px
+              height: 30px
 
 
 @media (max-width: 991px)
@@ -287,9 +319,50 @@ nav
       width: 0%
       left: 50%
 
+  .site-footer
+    .content-container
+      .left-section
+        left: 5%
+      .right-section
+        right: 5%
+
 
 @media (max-width: $screen-xs-max)
   body
     margin-top: 95px
+
+@media (max-width: 568px)
+  .site-footer
+    .content-container
+      height: auto
+      .left-section
+        padding-top: 15px
+        padding-bottom: 5px
+        position: relative
+        top: 0
+        left: 0
+        transform: none
+        -webkit-transform: none
+        -moz-transform: none
+        -o-transform: none
+        -ms-transform: none
+        text-align: center
+      .right-section
+        padding-bottom: 15px
+        position: relative
+        top: 0
+        right: 0
+        transform: none
+        -webkit-transform: none
+        -moz-transform: none
+        -o-transform: none
+        -ms-transform: none
+        .media-container
+          display: table
+          margin-bottom: 0
+          margin-left: auto
+          margin-right: auto
+
+
 
 
