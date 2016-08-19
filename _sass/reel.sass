@@ -1,98 +1,98 @@
-.filter-container
-  background-color: #5f081a
-  .button-group
-    padding:  0
-    margin: 0 auto
-    display: table
-    .btn-isotope
-      border-radius: 0
-      outline: none
-      background-color: transparent
-      margin: 25px 15px
-      color: white
-      border: none
-      &.is-checked
-        background-color: transparent
-        color: white
-      &:hover
-        background-color: transparent
-        color: white
-    #search-name1
-      display: inline-block
-      border-radius: 0
-      width: 250px
-      height: 84px
-      border: none
-      padding: 0 12px
-      background-color: #7F0B23
-      color: white
-      outline: none
-      -webkit-appearance: none
-      box-shadow: none
-      float: right
-
-    #search-name2
-      display: inline-block
-      border-radius: 0
-      width: 250px
-      height: 84px
-      color: white
-      padding: 0 12px
-      background-color: #7F0B23
-      border: none
-      outline: none
-      -webkit-appearance: none
-      box-shadow: none
-      float: right
-
-.reel-list-container
-  padding: 50px 0
-  min-height: 100vh
-  .grid
-    overflow: hidden
-    display: none
-    .reel-image-item
-      padding: 10px
-      position: relative
-      .popup-vimeo
-        text-decoration: none
-        border: 0
+#reel-list
+  .filter-container
+    background-color: #5f081a
+    .button-group
+      padding:  0
+      margin: 0 auto
+      display: table
+      .btn-isotope
+        border-radius: 0
         outline: none
-        display: block
-        .reel-image
-          position: relative
-          height: 250px
-          transition: all 300ms ease-in-out
-          z-index: 2
-          &:hover
-            z-index: 5
-            transform: scale(1.03,1.03)
-          .caption
-            position: absolute
-            bottom: 20px
-            left: 20px
-            .reel-title
-              color: white
-              font-size: 22px
-              text-transform: capitalize
-              letter-spacing: 2px
-            .reel-date
-              color: white
-              margin: 0
+        background-color: transparent
+        margin: 25px 15px
+        color: white
+        border: none
+        &.is-checked
+          background-color: transparent
+          color: white
+        &:hover
+          background-color: transparent
+          color: white
+      #search-name1
+        display: inline-block
+        border-radius: 0
+        width: 250px
+        height: 84px
+        border: none
+        padding: 0 12px
+        background-color: #7F0B23
+        color: white
+        outline: none
+        -webkit-appearance: none
+        box-shadow: none
+        float: right
 
-      .content-container
-        background-color: #f7f7f7
-        padding: 15px 0
-        p
-          color: #878787
-          line-height: 25px
-          height: 125px
-          overflow: hidden
-          display: -webkit-box
-          -webkit-line-clamp: 5
-          -webkit-box-orient: vertical
-          width: 80%
-          margin: 0 auto
+      #search-name2
+        display: inline-block
+        border-radius: 0
+        width: 250px
+        height: 84px
+        color: white
+        padding: 0 12px
+        background-color: #7F0B23
+        border: none
+        outline: none
+        -webkit-appearance: none
+        box-shadow: none
+        float: right
+
+  .reel-list-container
+    padding: 0 50px
+    min-height: 100vh
+    .grid
+      overflow: hidden
+      display: none
+      .reel-image-item
+        padding: 2px
+        position: relative
+        .popup-vimeo
+          text-decoration: none
+          border: 0
+          outline: none
+          display: block
+          .reel-image
+            position: relative
+            height: 400px
+            transition: all 300ms ease-in-out
+            z-index: 2
+            &:hover
+              z-index: 5
+            .caption
+              position: absolute
+              bottom: 20px
+              left: 20px
+              .reel-title
+                color: white
+                font-size: 22px
+                text-transform: capitalize
+                letter-spacing: 2px
+              .reel-date
+                color: white
+                margin: 0
+
+        .content-container
+          background-color: #f7f7f7
+          padding: 15px 0
+          p
+            color: #878787
+            line-height: 25px
+            height: 125px
+            overflow: hidden
+            display: -webkit-box
+            -webkit-line-clamp: 5
+            -webkit-box-orient: vertical
+            width: 80%
+            margin: 0 auto
 
 
 #reel-specific
@@ -138,45 +138,47 @@
       width: 970px
 
 @media (max-width: $screen-sm-max)
-  .category-nav
-    display: block
-    .category-nav-mobile
-      text-align: center
-      padding: 20px 0
-      background-color: #5f081a
-      #category-button
-        color: white
-        text-transform: uppercase
-        text-decoration: none
-        display: block
-    #navbar-category-collapse
-      .btn-isotope
-        padding: 14px 0
-        margin-left: 0
-        margin-right: 0
-        border-radius: 0
-        border: none
-        color: white
-        background-color: #5F0822
-        -webkit-appearance: none
-        box-shadow: none
-        outline: none
-      #search-name2
-        padding-top: 14px
-        padding-bottom: 14px
-        width: 100%
-        height: 49px
-        border: none
-        background-color: #7F0B23
-        color: white
-        outline: none
-        -webkit-appearance: none
-        box-shadow: none
-        float: right
-        border-radius: 0
+  #reel-list
+    background-color: #f7f7f7
+    .category-nav
+      display: block
+      .category-nav-mobile
         text-align: center
-  .reel-list-container
-    padding: 20px 0
+        padding: 20px 0
+        background-color: #5f081a
+        #category-button
+          color: white
+          text-transform: uppercase
+          text-decoration: none
+          display: block
+      #navbar-category-collapse
+        .btn-isotope
+          padding: 14px 0
+          margin-left: 0
+          margin-right: 0
+          border-radius: 0
+          border: none
+          color: white
+          background-color: #5F0822
+          -webkit-appearance: none
+          box-shadow: none
+          outline: none
+        #search-name2
+          padding-top: 14px
+          padding-bottom: 14px
+          width: 100%
+          height: 49px
+          border: none
+          background-color: #7F0B23
+          color: white
+          outline: none
+          -webkit-appearance: none
+          box-shadow: none
+          float: right
+          border-radius: 0
+          text-align: center
+    .reel-list-container
+      padding: 20px 0
 
 
 
