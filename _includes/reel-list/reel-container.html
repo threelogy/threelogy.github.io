@@ -28,7 +28,7 @@
     <div class="container-fluid reel-list-container">
         <div class="grid">
             {% for reel-list in site.reel %}
-            <div class="col-md-4 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}">
                 <a class="popup-vimeo" href="{{ reel-list.url }}">
                     <div class="reel-image"  style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5) ),url('{{ reel-list.image }}');background-size: cover; background-position: center center;">
                         <div class="caption">

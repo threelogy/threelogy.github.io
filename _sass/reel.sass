@@ -49,7 +49,6 @@
         box-shadow: none
 
   .reel-list-container
-    padding: 0 50px
     min-height: 100vh
     .grid
       overflow: hidden
@@ -96,7 +95,6 @@
             width: 80%
             margin: 0 auto
 
-
 #reel-specific
   .embed-container
     position: relative
@@ -121,6 +119,18 @@
       font-size: 18px
       &:first-child:first-letter
         font-size: 200%
+
+@media (max-width: 1440px)
+  #reel-list
+    .reel-list-container
+      padding: 0
+      .grid
+        .reel-image-item
+          .popup-vimeo
+            .reel-image
+              height: 350px
+
+@media (max-width: $screen-md-max)
 
 
 @media (min-width: $screen-md-min)
