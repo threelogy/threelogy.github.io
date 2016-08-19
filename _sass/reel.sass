@@ -1,50 +1,52 @@
 #reel-list
   .filter-container
-    background-color: #5f081a
+    //background-color: #5f081a
+    background-color: #f7f7f7
     .button-group
       padding:  0
       margin: 0 auto
-      display: table
       .btn-isotope
+        float: left
+        display: inline-block
+        text-decoration: none
+        text-align: center
+        padding: 32px 0
+        width: 15%
         border-radius: 0
         outline: none
         background-color: transparent
-        margin: 25px 15px
-        color: white
+        color: #5f081a
+        transition: all 300ms ease-in-out
         border: none
         &.is-checked
-          background-color: transparent
-          color: white
+          background-color: #5f081a
+          color: #f7f7f7
         &:hover
-          background-color: transparent
-          color: white
+          background-color: #6f0b20
+          color: #f7f7f7
       #search-name1
+        color: #ffffff
+        width: 25%
         display: inline-block
         border-radius: 0
-        width: 250px
-        height: 84px
+        height: 83px
         border: none
-        padding: 0 12px
-        background-color: #7F0B23
-        color: white
+        padding: 0 15px
+        background-color: #000000
         outline: none
-        -webkit-appearance: none
         box-shadow: none
-        float: right
-
+        -webkit-appearance: none
       #search-name2
-        display: inline-block
+        width: 25%
         border-radius: 0
-        width: 250px
-        height: 84px
-        color: white
-        padding: 0 12px
-        background-color: #7F0B23
+        height: 83px
+        color: #ffffff
+        padding: 0 15px
+        background-color: #000000
         border: none
         outline: none
         -webkit-appearance: none
         box-shadow: none
-        float: right
 
   .reel-list-container
     padding: 0 50px
