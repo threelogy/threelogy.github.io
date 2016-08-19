@@ -1,9 +1,9 @@
 #contact
   position: relative
   height: 100vh
+  padding-top: 50px
   #left-section
     position: relative
-    padding-top: 50px
     .section-header
       .header
         color: #5f081a
@@ -33,7 +33,6 @@
 
   #right-section
     position: relative
-    padding-top: 50px
     .caption
       margin: 35px 0 15px
       max-width: 60%
@@ -111,43 +110,38 @@
   #contact
     margin-top:  0
     padding: 50px 0
+    #left-section
+      padding-top: 0
+    #right-section
+      padding-top: 0
 
 @media (max-width: $screen-sm-max)
   #contact
     padding: 0
     #left-section
-      .content-container
-        padding: 0
-        .section-image
-          margin-bottom: 40px
-          .content-image
-            height: 250px
-        .section-header
-          .header
-            text-align: center
+      .section-image
+        margin-bottom: 40px
+        .content-image
+          height: 250px
+      .section-header
+        .header
+          text-align: center
     #right-section
       display: none
 
 @media (max-width: $screen-xs-max)
   #contact
     padding: 50px 0
-    #left-section
-      height: auto
-      .content-container
-        top: 0
-        transform: none
-        -webkit-transform: none
 
 @media (max-width: 568px)
   #contact
     #left-section
-      .content-container
-        .section-image
-          .content-image
-            height: 190px
-        .section-header
-          .header
-            font-size: 22px
+      .section-image
+        .content-image
+          height: 190px
+      .section-header
+        .header
+          font-size: 22px
 
 
 
