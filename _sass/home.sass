@@ -202,15 +202,11 @@ body
       .logo-container
         .logo
           height: 180px
-
   #about
-    background-image: none
-    .about-header
-      text-align: center
-    .center-block
-      display: none
-    .logo-container
-      padding: 0
+    .content-container
+      background-image: none
+      .about-content
+        padding: 50px 0
 
   #contact
     #contact-content
@@ -226,14 +222,14 @@ body
         .logo
           height: 150px
   #about
-    background-image: none
-    .about-content
-      .about-header
-        font-size: 18px
-        letter-spacing: 5px
-        text-align: center
-      .center-block
-        display: none
+    .content-container
+      .about-content
+        .about-header
+          font-size: 18px
+          letter-spacing: 5px
+          text-align: center
+
+
 @media (max-width: 568px)
   #cover
     .header-content
