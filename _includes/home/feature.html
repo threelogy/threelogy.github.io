@@ -1,11 +1,17 @@
-<div id="feature" class="container-fluid no-gutter">
+<div class="container">
+    <div class="section-header">
+        <h2 class="section-title">Featured Reel</h2>
+    </div>
     <div class="feature-content">
         {% assign sorted-feature = site.reel | sort: rank | reverse %}
         {% for reel-list in sorted-feature limit: 6  %}
-        <div class="col-md-4 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}">
-            <a class="popup-vimeo" href="https://vimeo.com/150458204" target="_blank">
-                <div class="reel-image"  style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url('{{ reel-list.image }}');background-size: cover; background-position: center center;">
-                    <h1 class="reel-title">{{ reel-list.rank }} {{ reel-list.title }}</h1>
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}">
+            <a class="popup-vimeo" href="{{ reel-list.url }}">
+                <div class="reel-image"  style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5) ),url('{{ reel-list.image }}');background-size: cover; background-position: center center;">
+                    <div class="caption">
+                        <h1 class="reel-title">{{ reel-list.path | remove: '_reel/' | remove: '.md' }}</h1>
+                        <h5 class="reel-date">{{ reel-list.wedding-date }}</h5>
+                    </div>
                 </div>
             </a>
         </div>

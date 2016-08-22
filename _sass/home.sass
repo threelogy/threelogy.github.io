@@ -82,6 +82,59 @@ body
         font-size: 16px
         line-height: 30px
 
+#feature
+  padding: 50px 0 80px
+  min-height: 100vh
+  .section-header
+    padding-bottom: 25px
+    .section-title
+      text-align: center
+      text-transform: uppercase
+      font-size: 1.5em
+  .feature-content
+    overflow: hidden
+    .reel-image-item
+      padding: 2px
+      position: relative
+      .popup-vimeo
+        text-decoration: none
+        border: 0
+        outline: none
+        display: block
+        .reel-image
+          position: relative
+          height: 400px
+          transition: all 300ms ease-in-out
+          z-index: 2
+          &:hover
+            z-index: 5
+          .caption
+            position: absolute
+            bottom: 20px
+            left: 20px
+            .reel-title
+              color: white
+              font-size: 22px
+              text-transform: capitalize
+              letter-spacing: 2px
+            .reel-date
+              color: white
+              margin: 0
+
+      .content-container
+        background-color: #f7f7f7
+        padding: 15px 0
+        p
+          color: #878787
+          line-height: 25px
+          height: 125px
+          overflow: hidden
+          display: -webkit-box
+          -webkit-line-clamp: 5
+          -webkit-box-orient: vertical
+          width: 80%
+          margin: 0 auto
+
 
 #instagram
   background-color: #f7f7f7
@@ -195,6 +248,13 @@ body
         .logo
           height: 180px
 
+@media (max-width: $screen-md-max)
+  #feature
+    .feature-content
+      .reel-image-item
+        .popup-vimeo
+          .reel-image
+            height: 300px
 
 @media (max-width: $screen-sm-max)
   #cover
@@ -202,6 +262,7 @@ body
       .logo-container
         .logo
           height: 180px
+
   #about
     .content-container
       background-image: none
@@ -236,6 +297,15 @@ body
       .logo-container
         .logo
           height: 90px
+  #feature
+    padding: 30px 0 60px
+    .container
+      padding: 0
+      .feature-content
+        .reel-image-item
+          .popup-vimeo
+            .reel-image
+              height: 200px
   #contact
     #map
       min-height: 0
