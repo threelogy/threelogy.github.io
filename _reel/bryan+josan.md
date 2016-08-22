@@ -8,12 +8,11 @@ wedding-date: November 27 2015
 vimeo-id: 167778097
 image: "https://res.cloudinary.com/design-studio/image/upload/threelogy/bryan_josan.jpg"
 type: featured
+video-bg: videobg-1.jpg
 
 ---
 
-
-“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”
-
-– Pablo Neruda
-
-To this beautiful couple, and to their awesome families who are self professed alcohol lovers if I may add, may the Patrons and Blue Labels keep flowing just like the love we witnessed from you two on this wonderful day.
+Sharing with you all the happy, emotional and at the same time funny wedding highlights of one of our beautiful multiracial couple Josan who is Filipino-Spanish & Bryan, Filipino-Chinese.
+Bryan “found” Josan in Facebook. :) Both geeky, both funny & both love to travel.
+Similar interests drew them together, they became friends, fell in love & not long after, decided to get married. In this day & age, we really wouldn’t know where love will find us. :)
+To Josan & Bryan, Congratulations!!! Here’s to more years of Facebooking & loving one another deeply!
