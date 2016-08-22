@@ -307,6 +307,46 @@ nav
                   color: #878787
                   text-align: center
 
+#modal-message
+  z-index: 1051
+  .modal-dialog
+    position: absolute
+    top: 40%
+    left: 0
+    right: 0
+    opacity: 0
+    -webkit-transform: translateY(-40%)
+    -ms-transform: translateY(-40%)
+    -o-transform: translateY(-40%)
+    transform: translateY(-40%)
+    -webkit-transition: all 0.3s ease
+    -moz-transition: all 0.3s ease
+    -o-transition: all 0.3s ease
+    transition: all 0.3s ease
+
+  &.in .modal-dialog
+    margin-top: 0
+    margin-bottom: 0
+    position: absolute
+    top: 40%
+    opacity: 1
+    -webkit-transform: translateY(-40%)
+    -ms-transform: translateY(-40%)
+    -o-transform: translateY(-40%)
+    transform: translateY(-40%)
+  .modal-content
+    border: none
+    border-radius: 2px
+    -webkit-box-shadow: none
+    -moz-box-shadow: none
+    box-shadow: none
+    padding: 8% 5%
+    background-color: #5f081a
+    .text-alert
+      margin: 20px auto
+      color: #ffffff
+      text-align: center
+
 @media (max-width: 991px)
   nav
     position: relative
@@ -461,6 +501,11 @@ nav
               #right-section
                 .caption
                   max-width: 100%
+
+  #modal-message
+    .modal-content
+      .text-alert
+        font-size: 20px
 
 
 

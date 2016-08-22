@@ -27,7 +27,8 @@
 
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300,900' rel='stylesheet' type='text/css'/>
 
-    <link href="/css/reel.css" rel="stylesheet" type="text/css"/>
+    <link href="/css/contact.css" rel="stylesheet" type="text/css"/>
+
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -46,7 +47,7 @@
 <body>
 
 {% include navbar.html %}
-{% include reel-specific/content.html %}
+{{ content }}
 {% include footer.html %}
 
 
@@ -56,23 +57,26 @@
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 
 <script type="text/javascript">
-    $("#form-content").submit(function(){
-        $("#ss-submit").attr("disabled", true);
-        setTimeout(function(){
-            $("#ss-submit").attr("disabled", false);
-        }, 1000);
-    });
+    $(document).ready(function(){
+        $("#form-content").submit(function(){
+            $("#ss-submit").attr("disabled", true);
+            setTimeout(function(){
+                $("#ss-submit").attr("disabled", false);
+            }, 1000);
+        });
 
-    $("#hidden_iframe").on('load',function () {
-        $("#modal-message").modal('show');
-        $("#form-content")[0].reset();
-        setTimeout(function(){
-            $("#modal-message").modal('hide');
-        }, 2000);
-    });
+        $("#hidden_iframe").on('load',function () {
+            $("#modal-message").modal('show');
+            $("#form-content")[0].reset();
+            setTimeout(function(){
+                $("#modal-message").modal('hide');
+            }, 2000);
+        });
 
-    $('#icon-transition').on('click', function () {
-        $(this).toggleClass('open');
+        $('#icon-transition').on('click', function () {
+            $(this).toggleClass('open');
+        });
+
     });
 </script>
 

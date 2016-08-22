@@ -92,6 +92,23 @@ $(document).ready(function(){
 
 {{ layout.javascript }}
 
+<script>
+  $("#form-content").submit(function(){
+    $("#ss-submit").attr("disabled", true);
+    setTimeout(function(){
+      $("#ss-submit").attr("disabled", false);
+    }, 1000);
+  });
+
+  $("#hidden_iframe").on('load',function () {
+    $("#modal-message").modal('show');
+    $("#form-content")[0].reset();
+    setTimeout(function(){
+      $("#modal-message").modal('hide');
+    }, 2000);
+  });
+</script>
+
 </body>
 
 </html>
