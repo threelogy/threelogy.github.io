@@ -2,6 +2,8 @@
   font-family: 'Sequel-Regular'
   src: url('/font/Sequel-Regular.ttf')
 
+
+
 body
   font-family: 'Lato', sans-serif
   font-weight: 400
@@ -115,6 +117,8 @@ nav
             color: white
             padding: 20px 30px
             text-decoration: none
+            outline: none
+            box-shadow: none
             z-index: 10
             letter-spacing: 3px
             background-color: transparent
@@ -174,7 +178,6 @@ nav
               -ms-transform: translate(0, 101%)
               -o-transform: translate(0, 101%)
               transform: translate(0, 101%)
-
           a
             color: #222222
             &:hover
@@ -219,6 +222,86 @@ nav
               margin-right: 5px
               height: 30px
 
+#myModal
+  .modal-dialog
+    width: 100% !important
+    .modal-content
+      .modal-header
+        top: 0
+        z-index: 5
+        position: absolute
+        right: 5px
+        border-bottom: none
+        .close
+          span
+            display: block
+            font-size: 44px
+            margin-top: 0
+      .modal-body
+        #contact
+          position: relative
+          padding-top: 50px
+          #left-section
+            position: relative
+            .section-header
+              .header
+                color: #5f081a
+                font-weight: bold
+                font-size: 24px
+                text-transform: uppercase
+            .form-item
+              .content-title
+                color: #5f081a
+                display: block
+                margin: 30px 0 10px
+                font-size: 16px
+                text-transform: uppercase
+              .content-input
+                background-color: #f7f7f7
+              .text-area
+                resize: none
+            .content-button-container
+              margin: 30px 0 10px
+              #ss-submit
+                //height: 40px
+                background-color: #5f081a
+                color: #ffffff
+                text-transform: uppercase
+                margin-top: 30px
+                border: none
+
+          #right-section
+            position: relative
+            .caption
+              margin: 35px 0 15px
+              max-width: 60%
+              margin-left: auto
+              margin-right: auto
+              .section-header
+                color: #5f081a
+                font-size: 20px
+                text-transform: uppercase
+                text-align: center
+                font-weight: bold
+              .section-address
+                font-size: 16px
+                line-height: 30px
+                color: #878787
+                text-align: center
+              .list-container
+                padding-left: 0
+                list-style: none
+                .list-title
+                  margin-top: 10px
+                  text-align: center
+                  display: block
+                  font-size: 16px
+                  text-transform: uppercase
+                .list-item
+                  font-size: 16px
+                  line-height: 30px
+                  color: #878787
+                  text-align: center
 
 @media (max-width: 991px)
   nav
