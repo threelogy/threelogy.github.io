@@ -233,6 +233,9 @@ nav
         right: 5px
         border-bottom: none
         .close
+          margin-top: 0
+          outline: none
+          box-shadow: none
           span
             display: block
             font-size: 44px
@@ -450,8 +453,14 @@ nav
   #myModal
     .container
       padding: 0
-  .modal-dialog
-    margin: 10px 0
+      .modal-dialog
+        margin: 0
+        .modal-content
+          .modal-body
+            #contact
+              #right-section
+                .caption
+                  max-width: 100%
 
 
 
