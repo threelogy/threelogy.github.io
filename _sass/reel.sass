@@ -85,16 +85,20 @@
         .content-container
           background-color: #f7f7f7
           padding: 15px 0
-          p
-            color: #878787
-            line-height: 25px
-            height: 125px
-            overflow: hidden
-            display: -webkit-box
-            -webkit-line-clamp: 5
-            -webkit-box-orient: vertical
-            width: 80%
-            margin: 0 auto
+
+    #no-result
+      display: none
+      #result-text
+        text-align: center
+        marign: 0
+      &.active
+        display: block
+        opacity: 1
+        position: absolute
+        left: 0
+        right: 0
+        top: 50%
+        transform: translateY(-50%)
 
 #reel-specific
   position: relative
