@@ -28,17 +28,21 @@ javascript: >
         });
 
 
+        $container.on( 'arrangeComplete', function( event, filteredItems ) {
+          if(filteredItems.length == 0 ){
+              $("#no-result").addClass("active");
+          }
+            else{
+              $("#no-result").removeClass("active");
+          }
+        });
+
+
         $('.filters-button-group').on('click', 'button', function () {
             buttonFilter1 = $(this).attr('data-filter');
             $container.isotope({});
             return false;
         });
-
-
-        // $('.filters-button-group').on( 'load', function() {
-        //     buttonFilter1 = $(this).attr('data-filter');
-        //     $container.isotope({ sortBy: buttonFilter1 });
-        // });
 
         $('.button-group').each(function (i, slidein) {
             var $slidein = $(slidein);
