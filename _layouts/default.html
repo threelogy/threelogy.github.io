@@ -107,6 +107,11 @@ $(document).ready(function(){
       $("#modal-message").modal('hide');
     }, 2000);
   });
+
+  var contact = $(".contact-menu");
+  setInterval(function(){
+    contact.toggleClass("contact-active");
+  },3000);
 </script>
 
 </body>
