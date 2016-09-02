@@ -85,7 +85,6 @@ $(document).ready(function(){
 
   header.css('background-image', backgrounds[0]);
 
-
 });
 
 </script>
@@ -112,6 +111,11 @@ $(document).ready(function(){
   setInterval(function(){
     contact.toggleClass("contact-active");
   },3000);
+
+  $("#testimonial-carousel").carousel({
+    interval: 5000,
+    navigation: "false"
+  })
 </script>
 
 </body>

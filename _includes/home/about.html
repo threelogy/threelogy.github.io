@@ -1,6 +1,40 @@
 <div class="container no-gutter content-container">
-    <div class="about-content">
-        <h1 class="editable about-header">Natural.Candid.Real</h1>
-        <p class="editable about-description">In a world dominated by highly scripted, acted out wedding videos, Threelogy has been steadfast and bullishly stubborn in keeping theris natural, candid and real. And we wouldn't have it any other way. And quite frankly, you should too.</p>
+    <div class="col-md-6">
+        <div class="about-content">
+            <h1 class="editable about-header">Natural.Candid.Real</h1>
+            <p class="editable about-description">In a world dominated by highly scripted, acted out wedding videos, Threelogy has been steadfast and bullishly stubborn in keeping theris natural, candid and real. And we wouldn't have it any other way. And quite frankly, you should too.</p>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="section-content">
+        <div class="section-header">
+            <h2 class="header">Testimonials</h2>
+        </div>
+            <div class="carousel-container">
+                <div id="testimonial-carousel" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        {% for item in site.data.testimonial %}
+                        <div {% if item.id == 1 %} class="item active" {% else%} class="item" {% endif %}>
+                            <div class="row">
+                                <div class="col-xs-12 no-gutter">
+                                    <div class="thumbnail">
+                                        <div class="content-image col-md-2 col-sm-2 col-xs-12">
+                                            <img class="media-object img-rounded img-responsive" src="http://placehold.it/100"/>
+                                        </div>
+                                        <div class="col-md-10 col-sm-10 col-xs-12">
+                                            <div class="caption">
+                                                <h6 class="content-name">{{ item.name }}</h6>
+                                                <p class="content-testimonial">{{ item.testimonial }}</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
