@@ -6,7 +6,7 @@ feature: true
 title: John Doe's Wedding
 vimeo-id: 170936376
 image: "https://res.cloudinary.com/design-studio/image/upload/threelogy/den_chin.jpg"
-type: avp
+type: featured
 
 ---
 
