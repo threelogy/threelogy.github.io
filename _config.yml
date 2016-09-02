@@ -14,7 +14,7 @@ sass:
     style: compressed
 
 collections:
-  reel:
+  video:
     output: true
     permalink: /reel/:path/
 
