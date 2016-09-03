@@ -1,5 +1,5 @@
 ---
-id: 23 
+slugID: 23 
 layout: reel
 title: "Pike & Chelly"
 image-large: "https://i.vimeocdn.com/video/589410492_1920x700.jpg"

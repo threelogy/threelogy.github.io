@@ -1,5 +1,5 @@
 ---
-id: 24 
+slugID: 24 
 layout: reel
 title: "Adrian & Rose"
 image-large: "https://i.vimeocdn.com/video/589200101_1920x700.jpg"

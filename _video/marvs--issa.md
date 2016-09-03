@@ -1,5 +1,5 @@
 ---
-id: 30 
+slugID: 30 
 layout: reel
 title: "Marvs + Issa"
 image-large: "https://i.vimeocdn.com/video/589511028_1920x700.jpg"

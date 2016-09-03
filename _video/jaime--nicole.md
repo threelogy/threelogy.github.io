@@ -1,5 +1,5 @@
 ---
-id: 31 
+slugID: 31 
 layout: reel
 title: "Jaime & Nicole"
 image-large: "https://i.vimeocdn.com/video/589593151_1920x700.jpg"

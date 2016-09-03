@@ -1,5 +1,5 @@
 ---
-id: 6 
+slugID: 6 
 layout: reel
 title: "Jun & Vanessa Matsunaga"
 image-large: "https://i.vimeocdn.com/video/588702725_1920x700.jpg"

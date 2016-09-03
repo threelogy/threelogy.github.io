@@ -1,5 +1,5 @@
 ---
-id: 4 
+slugID: 4 
 layout: reel
 title: "Ardy Roberto + Miriam Quiambao"
 image-large: "https://i.vimeocdn.com/video/588734197_1920x700.jpg"

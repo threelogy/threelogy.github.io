@@ -1,5 +1,5 @@
 ---
-id: 13 
+slugID: 13 
 layout: reel
 title: "Den & Chin"
 image-large: "https://i.vimeocdn.com/video/589146434_1920x700.jpg"

@@ -1,5 +1,5 @@
 ---
-id: 20 
+slugID: 20 
 layout: reel
 title: "Toto & Ging"
 image-large: "https://i.vimeocdn.com/video/589030542_1920x700.jpg"

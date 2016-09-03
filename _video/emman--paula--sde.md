@@ -1,5 +1,5 @@
 ---
-id: 22 
+slugID: 22 
 layout: reel
 title: "Emman & Paula : SDE"
 image-large: "https://i.vimeocdn.com/video/589181120_1920x700.jpg"

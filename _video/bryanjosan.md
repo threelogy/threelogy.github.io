@@ -1,5 +1,5 @@
 ---
-id: 18 
+slugID: 18 
 layout: reel
 title: "Bryan+Josan"
 image-large: "https://i.vimeocdn.com/video/588965296_1920x700.jpg"

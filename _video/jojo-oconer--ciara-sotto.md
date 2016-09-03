@@ -1,5 +1,5 @@
 ---
-id: 5 
+slugID: 5 
 layout: reel
 title: "Jojo Oconer & Ciara Sotto"
 image-large: "https://i.vimeocdn.com/video/588735467_1920x700.jpg"

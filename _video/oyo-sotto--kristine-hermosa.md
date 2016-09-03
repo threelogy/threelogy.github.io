@@ -1,5 +1,5 @@
 ---
-id: 1 
+slugID: 1 
 layout: reel
 title: "Oyo Sotto & Kristine Hermosa"
 image-large: "https://i.vimeocdn.com/video/588648526_1920x700.jpg"

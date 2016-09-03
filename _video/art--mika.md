@@ -1,5 +1,5 @@
 ---
-id: 29 
+slugID: 29 
 layout: reel
 title: "Art & Mika"
 image-large: "https://i.vimeocdn.com/video/589509674_1920x700.jpg"

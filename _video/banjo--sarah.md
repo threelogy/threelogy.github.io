@@ -1,5 +1,5 @@
 ---
-id: 33 
+slugID: 33 
 layout: reel
 title: "Banjo & Sarah"
 image-large: "https://i.vimeocdn.com/video/589598563_1920x700.jpg"

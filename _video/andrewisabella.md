@@ -1,5 +1,5 @@
 ---
-id: 10 
+slugID: 10 
 layout: reel
 title: "Andrew+Isabella"
 image-large: "https://i.vimeocdn.com/video/588790192_1920x700.jpg"

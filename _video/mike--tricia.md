@@ -1,5 +1,5 @@
 ---
-id: 26 
+slugID: 26 
 layout: reel
 title: "Mike & Tricia"
 image-large: "https://i.vimeocdn.com/video/589265119_1920x700.jpg"

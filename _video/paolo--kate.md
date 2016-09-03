@@ -1,5 +1,5 @@
 ---
-id: 11 
+slugID: 11 
 layout: reel
 title: "Paolo & Kate"
 image-large: "https://i.vimeocdn.com/video/589258252_1920x700.jpg"

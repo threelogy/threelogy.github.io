@@ -1,5 +1,5 @@
 ---
-id: 32 
+slugID: 32 
 layout: reel
 title: "Edward & Roberta"
 image-large: "https://i.vimeocdn.com/video/589594174_1920x700.jpg"

@@ -1,5 +1,5 @@
 ---
-id: 7 
+slugID: 7 
 layout: reel
 title: "Jatinder & Hardeep"
 image-large: "https://i.vimeocdn.com/video/588800409_1920x700.jpg"

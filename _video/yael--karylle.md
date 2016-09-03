@@ -1,5 +1,5 @@
 ---
-id: 3 
+slugID: 3 
 layout: reel
 title: "Yael & Karylle"
 image-large: "https://i.vimeocdn.com/video/588707591_1920x700.jpg"

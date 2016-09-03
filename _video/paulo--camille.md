@@ -1,5 +1,5 @@
 ---
-id: 8 
+slugID: 8 
 layout: reel
 title: "Paulo & Camille"
 image-large: "https://i.vimeocdn.com/video/588702476_1920x700.jpg"

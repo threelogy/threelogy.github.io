@@ -1,5 +1,5 @@
 ---
-id: 19 
+slugID: 19 
 layout: reel
 title: "Danny + Sam : Baguio City"
 image-large: "https://i.vimeocdn.com/video/588817857_1920x700.jpg"

@@ -1,5 +1,5 @@
 ---
-id: 14 
+slugID: 14 
 layout: reel
 title: "Paolo and Pier"
 image-large: "https://i.vimeocdn.com/video/589171869_1920x700.jpg"

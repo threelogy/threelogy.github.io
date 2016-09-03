@@ -1,5 +1,5 @@
 ---
-id: 27 
+slugID: 27 
 layout: reel
 title: "Morny and Mai"
 image-large: "https://i.vimeocdn.com/video/589503537_1920x700.jpg"

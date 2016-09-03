@@ -1,5 +1,5 @@
 ---
-id: 28 
+slugID: 28 
 layout: reel
 title: "Jobim and Kat"
 image-large: "https://i.vimeocdn.com/video/589506539_1920x700.jpg"

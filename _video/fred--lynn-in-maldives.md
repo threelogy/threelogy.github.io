@@ -1,5 +1,5 @@
 ---
-id: 2 
+slugID: 2 
 layout: reel
 title: "Fred & Lynn in Maldives"
 image-large: "https://i.vimeocdn.com/video/589195786_1920x700.jpg"

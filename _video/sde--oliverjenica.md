@@ -1,5 +1,5 @@
 ---
-id: 17 
+slugID: 17 
 layout: reel
 title: "SDE : Oliver+Jenica"
 image-large: "https://i.vimeocdn.com/video/588815804_1920x700.jpg"

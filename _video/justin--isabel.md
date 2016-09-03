@@ -1,5 +1,5 @@
 ---
-id: 9 
+slugID: 9 
 layout: reel
 title: "Justin & Isabel"
 image-large: "https://i.vimeocdn.com/video/588652084_1920x700.jpg"
