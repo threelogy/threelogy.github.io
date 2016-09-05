@@ -15,6 +15,7 @@
   filter: ".love-story"
 
 - id: 5
-  name: SHOW ALL
-  filter: "*"
+  name: 18th Birthday
+  filter: ".birthday"
+
 

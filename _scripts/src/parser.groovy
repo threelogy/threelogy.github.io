@@ -39,9 +39,11 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
     productList.groupBy {it.category}.each {
         "mkdir -p out/$it.key".execute()
     }
-    int counter = 33
+    int counter = 42, birthdayCounter = 0
     productList.eachWithIndex { product, index ->
         counter = counter+1
+        birthdayCounter = birthdayCounter+1
+
         "mkdir -p out/".execute()
         File file = new File("out/" + slugify(product.title) +'.md')
         println "out/" + slugify(product.title) +'.md'
@@ -50,13 +52,14 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
 
         file.write ('---\n')
 
-        file << "id: $counter \n"
+        file << "slugID: $counter \n"
         file << "layout: reel\n"
         file << "title: \"$product.title\"\n"
         file << "image-large: \"$imageLarge\"\n"
         file << "image-small: \"$imageSmall\"\n"
         file << "link: \"$product.link\"\n"
-        file << "type: * \n"
+        file << "type: birthday \n"
+        file << "rank-birthday: $birthdayCounter \n"
         file << '---' << '\n'
     }
 }
