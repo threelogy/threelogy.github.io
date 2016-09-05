@@ -5,7 +5,7 @@ feature: false
 wedding-date: "November 27 2015"
 vimeo-id: 89737290
 image: "https://res.cloudinary.com/design-studio/image/upload/threelogy/yael_karylle-1.jpg"
-type: featured
+type: sde
 
 ---
 

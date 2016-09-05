@@ -6,7 +6,7 @@ feature: true
 wedding-date: November 27 2015
 vimeo-id: 167778097
 image: "https://res.cloudinary.com/design-studio/image/upload/threelogy/bryan_josan.jpg"
-type: featured
+type: sde
 video-bg: videobg-1.jpg
 
 ---
