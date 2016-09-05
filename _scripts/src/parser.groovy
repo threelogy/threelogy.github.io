@@ -39,7 +39,7 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
     productList.groupBy {it.category}.each {
         "mkdir -p out/$it.key".execute()
     }
-    int counter = 0
+    int counter = 33
     productList.eachWithIndex { product, index ->
         counter = counter+1
         "mkdir -p out/".execute()
