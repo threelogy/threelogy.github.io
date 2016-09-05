@@ -25,7 +25,8 @@
 
     <div class="container-fluid reel-list-container">
         <div class="grid">
-            {% for reel-list in site.video %}
+            {% assign sorted-reel = site.video | sort: "slugID" %}
+            {% for reel-list in sorted-reel %}
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}">
                 <a class="popup-vimeo" href="{{ reel-list.url }}">
                     <div class="reel-image"  style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5) ),url('{{ reel-list.image-small }}');background-size: cover; background-position: center center;">
