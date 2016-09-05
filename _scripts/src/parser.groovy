@@ -22,31 +22,16 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
         productList << product
     }
 
-    productList.groupBy { it.id }.each {
-        String id = it.key
-        String productName = it.value.find { it.title }.title
-        String imageName = it.value.find { it.title }.image
-        String link = it.value.find { it.title }.link
-    }
 
-    productList = productList.groupBy {
-        it.subMap("title", "image", "link")
-    }.collect {
-        it.key + [colors: it.value*.subMap(["color_name", "color_hex"])]
-    }
 
-    'mkdir -p out'.execute()
-    productList.groupBy {it.category}.each {
-        "mkdir -p out/$it.key".execute()
-    }
-    int counter = 42, birthdayCounter = 0
+    int counter = 0, birthdayCounter = 0
     productList.eachWithIndex { product, index ->
         counter = counter+1
         birthdayCounter = birthdayCounter+1
 
         "mkdir -p out/".execute()
         File file = new File("out/" + slugify(product.title) +'.md')
-        println "out/" + slugify(product.title) +'.md'
+        println "out/" +slugify(product.title) +'.md'
         String imageLarge = product.image.replace('295x166', '1920x700')
         String imageSmall = product.image.replace('295x166', '750x500')
 
@@ -59,7 +44,6 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
         file << "image-small: \"$imageSmall\"\n"
         file << "link: \"$product.link\"\n"
         file << "type: birthday \n"
-        file << "rank-birthday: $birthdayCounter \n"
         file << '---' << '\n'
     }
 }
