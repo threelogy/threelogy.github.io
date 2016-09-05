@@ -32,9 +32,9 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
         "mkdir -p out/".execute()
         File file = new File("out/" + slugify(product.title) +'.md')
         println "out/" +slugify(product.title) +'.md'
+        String imageLink = product.link.replaceAll("\\/album\\/([\\d]+)","https://player.vimeo.com")
         String imageLarge = product.image.replace('295x166', '1920x700')
         String imageSmall = product.image.replace('295x166', '750x500')
-
         file.write ('---\n')
 
         file << "slugID: $counter \n"
@@ -42,7 +42,7 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
         file << "title: \"$product.title\"\n"
         file << "image-large: \"$imageLarge\"\n"
         file << "image-small: \"$imageSmall\"\n"
-        file << "link: \"$product.link\"\n"
+        file << "link: \"$imageLink\"\n"
         file << "type: birthday \n"
         file << '---' << '\n'
     }
