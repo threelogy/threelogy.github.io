@@ -10,6 +10,10 @@
   name: Celebrity Weddings
   filter: ".celebrity"
 
+- id: 4
+  name: The Love Story
+  filter: ".love-story"
+
 - id: 5
   name: SHOW ALL
   filter: "*"
