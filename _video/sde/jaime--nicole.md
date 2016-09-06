@@ -9,3 +9,4 @@ type: "sde"
 category: "wedding-sde"
 section-rank: 5
 ---
+Ponds Commercial Model Nicole Hernandez tied the knot! :)

@@ -9,3 +9,4 @@ type: "sde"
 category: "wedding-sde"
 section-rank: 14
 ---
+Tim utters what is perhaps the most touching and heartfelt wedding vow ever. :)

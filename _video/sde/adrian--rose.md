@@ -9,3 +9,6 @@ type: "sde"
 category: "wedding-sde"
 section-rank: 29
 ---
+Angel Fields, Silang
+Rose is one of the finest female videographers around. She’s been with us for as long as I can remember and a few pounds ago. This is like witnessing, and hosting, your younger sis’ wedding, which also happened to be one of the best weddings we’ve ever been in, work or not.
+Their SDE. :)

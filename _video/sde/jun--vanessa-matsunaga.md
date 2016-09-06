@@ -9,3 +9,5 @@ type: "sde"
 category: "wedding-sde"
 section-rank: 10
 ---
+Bellarocca, Marinduque
+There are tons of story to tell, but in the end, I decided to sum up everything (the couple, the island, the ceremony – everything!) in one word … BEAUTIFUL! :)

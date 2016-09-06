@@ -9,3 +9,9 @@ type: "sde"
 category: "wedding-sde"
 section-rank: 24
 ---
+Punta Fuego
+One hot but windy afternoon.
+One very beautiful bride.
+One equally handsome groom.
+One memorable wedding.
+” Just say yes … ” :)

@@ -9,3 +9,4 @@ type: "sde"
 category: "wedding-sde"
 section-rank: 16
 ---
+A gorgeous couple’s wedding in one of the most beautiful places here in the Philippines. :)
