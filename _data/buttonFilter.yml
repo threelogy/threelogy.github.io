@@ -19,7 +19,7 @@
 
 - id: 4
   name: AVP
-  filter: "avp"
+
   hasSub: true
   sub-category:
     - name: "The Pre-Wedding"
