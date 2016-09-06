@@ -13,7 +13,7 @@
   data-sort: "original-order"
 
 - id: 3
-  name: Celebrity Weddings
+  name: Celebrity
   filter: "celebrity"
   data-sort: "celebrity"
 
