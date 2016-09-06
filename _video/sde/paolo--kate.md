@@ -8,4 +8,6 @@ link: "https://player.vimeo.com/video/180409109"
 type: "sde"
 category: "wedding-sde"
 section-rank: 4
+featured: true
+featured-rank: 4
 ---
