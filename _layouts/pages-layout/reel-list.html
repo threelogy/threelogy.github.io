@@ -10,8 +10,6 @@ javascript: >
         var nameRegex;
         var buttonFilter1 = ".sde";
         var $container = $('.grid');
-
-
         $container.imagesLoaded( function(){
             $container.isotope({
                 itemSelector: '.reel-image-item',
@@ -48,7 +46,7 @@ javascript: >
         $('.filters-button-group').on('click', 'button', function () {
             buttonFilter1 = $(this).attr('data-filter');
             $container.isotope({});
-            return false;
+    //            return false;
         });
 
         $('.button-group').each(function (i, slidein) {

@@ -1,24 +1,42 @@
 - id: 1
   name: Weddings SDE
-  filter: ".sde"
+  filter: "sde"
   data-sort: "random"
+  hasSub: true
+  sub-category:
+    - name: "Renewal of Vows"
+      filter: "renewalofvows"
 
 - id: 2
   name: The Sequel
-  filter: ".sequel"
+  filter: "sequel"
   data-sort: "original-order"
 
 - id: 3
   name: Celebrity Weddings
-  filter: ".celebrity"
+  filter: "celebrity"
   data-sort: "celebrity"
 
 - id: 4
-  name: The Love Story
-  filter: ".love-story"
+  name: AVP
+  filter: "avp"
+  hasSub: true
+  sub-category:
+    - name: "The Pre-Wedding"
+      filter: "pre-wedding"
+    - name: "The Love Story"
+      filter: "love-story"
+    - name: "18th Birthday"
+      filter: "birthday"
+    - name: "Other Events"
+      filter: "other"
 
 - id: 5
-  name: 18th Birthday
-  filter: ".birthday"
+  name: The International
+  filter: "international"
+
+- id: 6
+  name: The Corporate
+  filter: "corporate"
 
 

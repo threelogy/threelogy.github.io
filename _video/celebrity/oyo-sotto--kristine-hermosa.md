@@ -7,4 +7,6 @@ image-small: "https://i.vimeocdn.com/video/588648526_750x500.jpg"
 link: "https://player.vimeo.com/video/180421756"
 type: "celebrity"
 section-rank: 2
+featured: true
+featured-rank: 1
 ---

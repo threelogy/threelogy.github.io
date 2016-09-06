@@ -1,9 +1,24 @@
 <section id="reel-list">
+
     <div class="filter-container container-fluid no-gutter">
         <div class="filters-button-group button-group visibile-md hidden-sm hidden-xs">
             {% for filter in site.data.buttonFilter %}
             {% assign counter = counter | plus: 1%}
-            <button data-sort-by="{{ filter.data-sort }}" class="btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
+            {% if filter.hasSub == true %}
+            <div class="dropdown">
+                <button class="btn-isotope dropdown-toggle {% if counter == 1 %}is-checked{% endif %}" data-filter=".{{ filter.filter }}" data-toggle="dropdown">{{ filter.name }}
+                    <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    {% for sub-category in filter.sub-category %}
+                    <li class="button-item">
+                        <button class="btn-isotope" data-filter=".{{ sub-category.filter }}">{{ sub-category.name }}</button>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% else %}
+            <button class="btn-isotope" data-filter=".{{ filter.filter }}">{{ filter.name }}</button>
+            {% endif %}
             {% endfor %}
             <input type="text" placeholder="search couple name" class="inputSearch form-control" id="search-name1">
         </div>
@@ -17,7 +32,21 @@
             {% assign counter = 0%}
             {% for filter in site.data.buttonFilter %}
             {% assign counter = counter | plus: 1%}
-            <button class="col-xs-12 btn btn-primary btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
+            {% if filter.hasSub == true %}
+            <div class="dropdown">
+                <button class="btn-isotope dropdown-toggle {% if counter == 1 %}is-checked{% endif %}" data-filter=".{{ filter.filter }}" data-toggle="dropdown">{{ filter.name }}
+                    <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    {% for sub-category in filter.sub-category %}
+                    <li>
+                        <button class="btn-isotope" data-filter=".{{ sub-category.filter }}">{{ sub-category.name }}</button>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% else %}
+            <button class="btn-isotope" data-filter=".{{ filter.filter }}">{{ filter.name }}</button>
+            {% endif %}
             {% endfor %}
             <input type="text" placeholder="search couple name" class="col-xs-12 inputSearch form-control" id="search-name2">
         </div>
@@ -25,7 +54,7 @@
 
     <div class="container-fluid reel-list-container">
         <div class="grid">
-            {% assign sorted-reel = site.video %}
+            {% assign sorted-reel = site.video | sort: "section-rank" %}
             {% for reel-list in sorted-reel %}
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}" data-celebrity="{{ reel-list.rank-celebrity }}">
                 <span style="display: none" class="celebrity">{{ reel-list.rank-celebrity }}</span>

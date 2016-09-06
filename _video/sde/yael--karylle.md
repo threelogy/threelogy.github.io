@@ -7,5 +7,7 @@ image-small: "https://i.vimeocdn.com/video/588707591_750x500.jpg"
 link: "https://player.vimeo.com/video/89737290"
 type: "sde"
 category: "wedding-sde"
-section-rank: 2
+section-rank:
+featured: true
+featured-rank: 5
 ---
