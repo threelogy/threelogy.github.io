@@ -74,6 +74,13 @@
     $('#icon-transition').on('click', function () {
         $(this).toggleClass('open');
     });
+
+    var videoIframeContainer = $('.iframe-video-container')
+    $('.video-button').on('click', function () {
+        $('#video-bg').css('display','none');
+        videoIframeContainer.css('display','block');
+        videoIframeContainer.append('<iframe src="{{ page.link }}?autoplay=1" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> ');
+    });
 </script>
 </body>
 </html>
