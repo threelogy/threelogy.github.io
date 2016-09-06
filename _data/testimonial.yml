@@ -1,6 +1,6 @@
 - id: 1
   name: Cathy
-  testimonial: "THANK YOU so much for this incredible piece of work. You guys are a hoot to be around and the day was made more enjoyable because you all were game to capture the moments as they unfolded – naturally, as unobtrusively as possible, and with a lot of humor chucked into the mix to keep it nice and light. <br/> Fantastic video, fantastic job!"
+  testimonial: "THANK YOU so much for this incredible piece of work. <br/> You guys are a hoot to be around and the day was made more enjoyable because you all were game to capture the moments as they unfolded – naturally, as unobtrusively as possible, and with a lot of humor chucked into the mix to keep it nice and light. <br/> Fantastic video, fantastic job!"
 
 - id: 2
   name: Jay
@@ -8,96 +8,125 @@
 
 - id: 3
   name: Jun Sunga and Vanessa M. Sunga
-  testimonial: "We still watch this video at least three times a week. I love how we can watch it online anytime and anywhere. Such a wonderful gift from God to us and you guys did a perfect job capturing the moment of God’s orchestration. <br/> Thank you Threelogy!"
+  testimonial: "We still watch this video at least three times a week. I love how we can watch it online anytime and anywhere. <br/> Such a wonderful gift from God to us and you guys did a perfect job capturing the moment of God’s orchestration. <br/> Thank you Threelogy!"
 
 - id: 4
   name: Bellaroca
-  testimonial: "Thanks for capturing the beauty of the wedding and the island – Bellarocca. <br/>Congratulations! You did a great wedding video!"
+  testimonial: "Thanks for capturing the beauty of the wedding and the island – Bellarocca. <br/> Congratulations! You did a great wedding video!"
 
 - id: 5
   name: John Tanjangco
   testimonial: "I am the director of Sales and Marketing of Bellarocca and on behalf of the management of the resort, we wish to thank Threelogy video and the Sungas for this truly wonderful and breathtaking video."
 
 - id: 6
-  name: Xyril
-  testimonial: "I’ve been watching this every day now. The couple is just drop-dead gorgeous and you guys amplified it with this. You guys did an amazing work on the video, from start till the end. <br/> Ang galing nyo po. Kudos! "
+  name: John of Bellarocca
+  testimonial: “Thank you Threelogy for making this masterpiece. <br/> The artistry that went into the editing and creation of the video is perfect and you did justice to the resort as well. <br/> We continue to wish Threelogy all the successes in your endeavors.”
 
 - id: 7
-  name: Bryna
-  testimonial: "A lovely song to go with an even lovelier wedding. The bride is absolutely gorgeous and the view is spectacular! Makes me want to visit the Philippine Islands."
+  name: Xyril
+  testimonial: "I’ve been watching this every day now. The couple is just drop-dead gorgeous and you guys amplified it with this. <br/> You guys did an amazing work on the video, from start till the end. <br/> Ang galing nyo po, Kudos!"
 
 - id: 8
-  name: Paolo
-  testimonial: "Threelogy team! Thanks thanks thanks thanks so much for making us an awesome awesome video! Me, Kate and our friends still can’t get enough of it! This is exactly what we envisioned when we met up with you guys last October, galeng talaga, hanep!"
+  name: Bryna
+  testimonial: "A lovely song to go with an even lovelier wedding. The bride is absolutely gorgeous and the view is spectacular! <br/> Makes me want to visit the Philippine Islands."
 
 - id: 9
-  name: Ex Banker
-  testimonial: "I just wonder how you make each project different. You’re all geniuses!"
+  name: Paolo
+  testimonial: "Threelogy team! Thanks thanks thanks thanks so much for making us an awesome awesome video! <br/> Me, Kate and our friends still can’t get enough of it! <br/> This is exactly what we envisioned when we met up with you guys last October, galeng talaga, hanep!"
 
 - id: 10
-  name: Myton
-  testimonial: "Hey guys! We really appreciate what you did for our video, we really liked how it turned out to be. It was more than what I expected. I’m so glad that you enjoyed your Iloilo experience with us, I made the right choice with you guys, once again, you did a great job and thank you. "
+  name: Paolo
+  testimonial: “We’re so glad we were able to book you, coz you were our only choice! <br/> Keep rockin’ the wedding scene guys!”
 
-- id: 11
+-id: 11
+  name: Ex Banker
+  testimonial: "I just wonder how you make each project different. <br/> You’re all geniuses!"
+
+- id: 12
+  name: Myton
+  testimonial: "Hey guys! We really appreciate what you did for our video, we really liked how it turned out to be. It was more than what I expected. <br/> I’m so glad that you enjoyed your Iloilo experience with us, I made the right choice with you guys, once again, you did a great job and thank you."
+
+- id: 13
   name: Marahbabes
   testimonial: "Your works are the best I’ve ever seen! Well done!"
 
-- id: 12
+- id: 14
   name: Tracy
   testimonial: "I’ve been watching all your videos every day! I can’t wait to watch mine (of course, to be done by you, Threelogy)"
 
-- id: 13
+- id: 15
   name: Josephine Dela Merced
   testimonial: "I have witnessed how dedicated these guys do their craft! Cheers to you and when I say my  “ I do ” ( even if it’s out of the country hehe ) it will definitely be Threelogy !!! God bless!!! "
 
-- id: 14
+- id: 16
   name: Myton Ouano
   testimonial: "You guys did our wedding 3 yrs ago in Iloilo and you have always been and will continue to drop jaws with your work!"
 
-- id: 15
+- id: 17
   name: Roberta
   testimonial: "Your work is really amazing and beautiful. Love the storyline, the choice of shots and editing. The song was just perfect. Like it was meant to be. We hope you enjoyed the wedding and the place. We were blessed to have the heavens cooperate on that day especially with what we went through to make that day happen."
 
-- id: 16
+- id: 18
+  name: Roberta
+  Testimonial: “Biases aside, one of the best work you have done so far, in one of the most amazing places in the world. <br/> We wish you more success and more amazing moments and places to capture. Thank you once again.”
+
+- id: 19
   name: Abby Carreon
   testimonial: "From the very start you’ve always done great works that always make me stay in tune of your monthly updates. Bravo!!"
 
-- id: 17
+- id: 20
   name: Jen
   testimonial: "Wonderful work! You never fail to deliver!:)"
 
-- id: 18
+- id: 21
   name: Nina Tan
   testimonial: "Thank you!!!! We love it sooo much. Friends were saying that the wedding video has a feeling that an old friend created it with love. <br/> We are so grateful and thank you for being a part of our wedding."
 
-- id: 19
+- id: 22
   name: Hana
   testimonial: "I have watched our onsite video more than 10 times already since it was posted and I know I will be watching it a whole lot more until Markku and I grow old. Naks! Haha"
 
-- id: 20
-  name: Edna Serranilla
-  testimonial: "Thank you for a very well executed video of Candyman ! You capture Zian’s charm to the highest level…Till our next party!"
-
-- id: 21
-  name: Mark Mercado
-  testimonial: "Congratulations Threelogy !!! This video is another feather in your hat. I’dd say one of the best. The difficulty is high and yet you guys made it superb and at the same time majestic !!!"
-
-- id: 22
-  name: Katrina
-  testimonial: "Your videos are amazing! I will get married in the Phils. just because I wanted Threelogy to capture my wedding memories. I’ve never seen anything like this before. Ideas and the organization of your videos are fantastic! 2 thumbs up!"
-
 - id: 23
+  name: Hana
+  testimonial: "Thank you for making this great memory for us. Astig talaga kayo. May you have more wonderful memories to capture! Rock on!"
+
+- id: 24
+  name: Edna Serranilla
+  testimonial: "Thank you for a very well executed video of Candyman! You capture Zian’s charm to the highest level…Till our next party!"
+
+- id: 25
+  name: Mark Mercado
+  testimonial: "Congratulations Threelogy !!! This video is another feather in your hat. I’d say one of the best. <br/> The difficulty is high and yet you guys made it superb and at the same time majestic !!!"
+
+- id: 26
+  name: Katrina
+  testimonial: "Your videos are amazing! I will get married in the Philippines just because I wanted Threelogy to capture my wedding memories. <br/> I’ve never seen anything like this before. Ideas and the organization of your videos are fantastic! 2 thumbs up!"
+
+- id: 27
   name: Ohn and Cheryl Sayo
   testimonial: "Awesome videos..you guys and gals rock!"
 
-- id: 24
+- id: 28
   name: Eldy Tendero
   testimonial: "Your wedding coverage are awesome. Cinematic style really sells. Good job! Keep it up!"
 
-- id: 25
+- id: 29
   name: Grace
   testimonial: "Threelogy super rocks!!! I’m gonna get Threelogy for my wedding some years later. I mean like 10 years or so? Keep up the good work. And wait for my wedding day."
 
-- id: 26
+- id: 30
   name: Jhei
   testimonial: "Lahat ng video panalo .. I love Threelogy !!!! Can’t wait for my wedding to be planned kayo kukunin ko swear."
+
+- id: 31
+  name: Sweet
+  testimonial: "I was really in awe as we watched the video. So melodramatic.. so touching that I got teary eyes that night. <br/> I’ll definitely seek Threelogy when it’s my turn."
+
+- id: 32
+  name: Eva C. Souza
+  testimonial: "Galing ng pagkagawa ng video, serious & ‘dramatic’ with a few sprinkling of ‘funny’ moments. <br/> There were some inquiries re Threelogy (specially from the ‘singles’) after showing of the video. <br/> Na-impress sila sa pagkagawa ng video considering that it was done on the same day it was shown."
+
+
+
+
+
