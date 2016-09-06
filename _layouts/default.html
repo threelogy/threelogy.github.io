@@ -67,24 +67,24 @@ $(document).ready(function(){
   });
 
 //contact image cycle
-  var header = $('.header-image');
-  var backgrounds = new Array(
-          'url(/img/contact-image/location_1.jpg)'
-          , 'url(/img/contact-image/location_2.jpg)'
-          , 'url(/img/contact-image/location_3.jpg)'
-          , 'url(/img/contact-image/location_4.jpg)'
-  );
-
-  var current = 0;
-  function nextBackground() {
-    current++;
-    current = current % backgrounds.length;
-    header.css('background-image', backgrounds[current]);
-  }
-  setInterval(nextBackground, 5000);
-
-  header.css('background-image', backgrounds[0]);
-
+//  var header = $('.header-image');
+//  var backgrounds = new Array(
+//          'url(/img/contact-image/location_1.jpg)'
+//          , 'url(/img/contact-image/location_2.jpg)'
+//          , 'url(/img/contact-image/location_3.jpg)'
+//          , 'url(/img/contact-image/location_4.jpg)'
+//  );
+//
+//  var current = 0;
+//  function nextBackground() {
+//    current++;
+//    current = current % backgrounds.length;
+//    header.css('background-image', backgrounds[current]);
+//  }
+//  setInterval(nextBackground, 5000);
+//
+//  header.css('background-image', backgrounds[0]);
+//
 });
 
 </script>
