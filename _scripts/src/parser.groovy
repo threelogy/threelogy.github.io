@@ -28,7 +28,7 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
     productList.eachWithIndex { product, index ->
         counter = counter+1
         sectionRank = sectionRank+1
-        String type = "corporate"
+        String type = "pre-wedding"
 
         "mkdir -p out/".execute()
         File file = new File("out/" + slugify(product.title) +'.md')
