@@ -17,6 +17,14 @@ javascript: >
                 itemSelector: '.reel-image-item',
                 layoutMode: 'fitRows',
                 sortAscending: true,
+                getSortData: {
+                    celebrity: '.celebrity',
+                    weight: function( itemElem ) {
+                        var weight = $( itemElem ).find('.celebrity').text();
+                        return parseFloat( weight.replace( /[\(\)]/g, '') );
+                    }
+                },
+
                 filter: function () {
                     var $this = $(this);
                     var searchResult1 = nameRegex ? $this.text().match(nameRegex) : true;
@@ -26,7 +34,6 @@ javascript: >
                 },
             });
         });
-
 
         $container.on( 'arrangeComplete', function( event, filteredItems ) {
           if(filteredItems.length == 0 ){

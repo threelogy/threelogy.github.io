@@ -3,7 +3,7 @@
         <div class="filters-button-group button-group visibile-md hidden-sm hidden-xs">
             {% for filter in site.data.buttonFilter %}
             {% assign counter = counter | plus: 1%}
-            <button class="btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
+            <button data-sort-by="{{ filter.data-sort }}" class="btn-isotope {% if counter == 1 %}is-checked{% endif %}" data-filter="{{ filter.filter }}">{{ filter.name }}</button>
             {% endfor %}
             <input type="text" placeholder="search couple name" class="inputSearch form-control" id="search-name1">
         </div>
@@ -25,10 +25,11 @@
 
     <div class="container-fluid reel-list-container">
         <div class="grid">
-            {% assign sorted-reel = site.video | sort: "slugID" %}
+            {% assign sorted-reel = site.video %}
             {% for reel-list in sorted-reel %}
-            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}">
-                <a class="popup-vimeo" href="{{ reel-list.url }}" data-test="{{ reel-list.slugID }}">
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}" data-celebrity="{{ reel-list.rank-celebrity }}">
+                <span style="display: none" class="celebrity">{{ reel-list.rank-celebrity }}</span>
+                <a class="popup-vimeo" href="{{ reel-list.url }}" data-id="{{ reel-list.slugID }}">
                     <div class="reel-image"  style="background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5) ),url('{{ reel-list.image-small }}');background-size: cover; background-position: center center;">
                         <div class="caption">
                             <h1 class="reel-title">{{ reel-list.title }}</h1>

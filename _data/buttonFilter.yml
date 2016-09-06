@@ -1,14 +1,17 @@
 - id: 1
   name: Weddings SDE
   filter: ".sde"
+  data-sort: "random"
 
 - id: 2
   name: The Sequel
   filter: ".sequel"
+  data-sort: "original-order"
 
 - id: 3
   name: Celebrity Weddings
   filter: ".celebrity"
+  data-sort: "celebrity"
 
 - id: 4
   name: The Love Story
