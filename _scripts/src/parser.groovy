@@ -24,10 +24,11 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
 
 
 
-    int counter = 0, birthdayCounter = 0
+    int counter = 69, sectionRank = 0
     productList.eachWithIndex { product, index ->
         counter = counter+1
-        birthdayCounter = birthdayCounter+1
+        sectionRank = sectionRank+1
+        String type = "corporate"
 
         "mkdir -p out/".execute()
         File file = new File("out/" + slugify(product.title) +'.md')
@@ -43,7 +44,8 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
         file << "image-large: \"$imageLarge\"\n"
         file << "image-small: \"$imageSmall\"\n"
         file << "link: \"$imageLink\"\n"
-        file << "type: birthday \n"
+        file << "type: \"$type\"\n"
+        file << "section-rank: $sectionRank\n"
         file << '---' << '\n'
     }
 }

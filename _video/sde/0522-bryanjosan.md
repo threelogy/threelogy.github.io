@@ -1,9 +1,11 @@
 ---
-slugID: 18 
+slugID: 26 
 layout: reel
-title: "Bryan+Josan"
+title: "0522 Bryan+Josan"
 image-large: "https://i.vimeocdn.com/video/588965296_1920x700.jpg"
 image-small: "https://i.vimeocdn.com/video/588965296_750x500.jpg"
 link: "https://player.vimeo.com/video/167778097"
-type: sde
+type: "sde"
+category: "wedding-sde"
+section-rank: 26
 ---
