@@ -216,45 +216,65 @@
 @media (max-width: $screen-sm-max)
   #reel-list
     background-color: #f7f7f7
-    .category-nav
+    .category-nav-container
       display: block
       .category-nav-mobile
         text-align: center
-        padding: 20px 0
         background-color: #5f081a
         #category-button
+          padding: 20px 0
           color: white
           text-transform: uppercase
           text-decoration: none
           display: block
+      .navbar-collapse
+        &.collapse
+          display: none !important
+        &.in
+          display: block !important
       #navbar-category-collapse
-        .btn-isotope
-          padding: 14px 0
-          margin-left: 0
-          margin-right: 0
-          border-radius: 0
-          border: none
-          color: white
-          background-color: #5F0822
-          -webkit-appearance: none
-          box-shadow: none
-          outline: none
-        #search-name2
-          padding-top: 14px
-          padding-bottom: 14px
-          width: 100%
-          height: 49px
-          border: none
-          background-color: #7F0B23
-          color: white
-          outline: none
-          -webkit-appearance: none
-          box-shadow: none
-          float: right
-          border-radius: 0
-          text-align: center
+        .category-nav
+          padding-left: 0
+          list-style: none
+          .dropdown
+            display: block
+            width: 100%
+            .dropdown-menu
+              position: relative
+              width: 100%
+              padding: 0
+              border: none
+              box-shadow: none
+              margin: 0
+          .btn-isotope
+            display: block
+            width: 100%
+            padding: 14px 0
+            margin-left: 0
+            margin-right: 0
+            border-radius: 0
+            border: none
+            color: white
+            background-color: #5F0822
+            -webkit-appearance: none
+            box-shadow: none
+            outline: none
+          #search-name2
+            padding-top: 14px
+            padding-bottom: 14px
+            width: 100%
+            height: 49px
+            border: none
+            background-color: #7F0B23
+            color: white
+            outline: none
+            -webkit-appearance: none
+            box-shadow: none
+            float: right
+            border-radius: 0
+            text-align: center
     .reel-list-container
-      padding: 20px 0
+      padding: 0
 
 
 

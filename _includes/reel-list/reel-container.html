@@ -24,31 +24,39 @@
         </div>
     </div>
 
-    <div class="no-gutter category-nav filters-button-group button-group category-nav-container hidden-lg hidden-md">
+    <div class="no-gutter filters-button-group button-group category-nav-container hidden-lg hidden-md">
         <div class="category-nav-mobile">
             <a href="#" id="category-button" data-toggle="collapse" data-target="#navbar-category-collapse">Filter Menu <span class="caret"></span></a>
         </div>
-        <div class="full-width no-gutter collapse navbar-collapse in" id="navbar-category-collapse">
+        <div class="full-width no-gutter collapse navbar-collapse" id="navbar-category-collapse">
+            <ul class="category-nav">
             {% assign counter = 0%}
             {% for filter in site.data.buttonFilter %}
             {% assign counter = counter | plus: 1%}
             {% if filter.hasSub == true %}
-            <div class="dropdown">
-                <button class="btn-isotope dropdown-toggle {% if counter == 1 %}is-checked{% endif %}" data-filter=".{{ filter.filter }}" data-toggle="dropdown">{{ filter.name }}
-                    <span class="caret"></span></button>
-                <ul class="dropdown-menu">
-                    {% for sub-category in filter.sub-category %}
-                    <li>
-                        <button class="btn-isotope" data-filter=".{{ sub-category.filter }}">{{ sub-category.name }}</button>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
+            <li>
+                <div class="dropdown">
+                    <button class="btn-isotope dropdown-toggle {% if counter == 1 %}is-checked{% endif %}" data-filter=".{{ filter.filter }}" data-toggle="dropdown">{{ filter.name }}
+                        <span class="caret"></span></button>
+                    <ul class="dropdown-menu">
+                        {% for sub-category in filter.sub-category %}
+                        <li class="button-item">
+                            <button class="btn-isotope" data-filter=".{{ sub-category.filter }}">{{ sub-category.name }}</button>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </li>
             {% else %}
-            <button class="btn-isotope" data-filter=".{{ filter.filter }}">{{ filter.name }}</button>
+            <li>
+                <button class="btn-isotope" data-filter=".{{ filter.filter }}">{{ filter.name }}</button>
+            </li>
             {% endif %}
             {% endfor %}
-            <input type="text" placeholder="search couple name" class="col-xs-12 inputSearch form-control" id="search-name2">
+            <li>
+                <input type="text" placeholder="search couple name" class="inputSearch form-control" id="search-name2">
+            </li>
+        </ul>
         </div>
     </div>
 
