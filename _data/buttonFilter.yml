@@ -7,19 +7,15 @@
     - name: "Renewal of Vows"
       filter: "renewalofvows"
 
-- id: 2
-  name: The Sequel
-  filter: "sequel"
-  data-sort: "original-order"
+    - name: The Sequel
+      filter: "sequel"
 
-- id: 3
+- id: 2
   name: Celebrity
   filter: "celebrity"
-  data-sort: "celebrity"
 
-- id: 4
+- id: 3
   name: AVP
-
   hasSub: true
   sub-category:
     - name: "The Pre-Wedding"
@@ -31,11 +27,11 @@
     - name: "Other Events"
       filter: "other"
 
-- id: 5
+- id: 4
   name: The International
   filter: "international"
 
-- id: 6
+- id: 5
   name: The Corporate
   filter: "corporate"
 
