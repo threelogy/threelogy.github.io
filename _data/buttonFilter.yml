@@ -23,7 +23,7 @@
       filter: "love-story"
     - name: "18th Birthday"
       filter: "birthday"
-    - name: "Other Events"
+    - name: "Special Projects"
       filter: "other"
 
 - id: 4

@@ -62,17 +62,6 @@
 
     <div class="container-fluid reel-list-container">
         <div class="grid">
-            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 no-gutter reel-image-item sde sequel renewalofvows celebrity pre-wedding love-story birthday other international corporate" data-celebrity="1">
-                <div class="popup-vimeo">
-                    <div class="reel-image description">
-                        <div class="caption">
-                           <p class="category-description">We have been in the business of capturing life's special moments since 2004. Here you can find some of the beautiful weddings we made thru the years. These were shot & edited on the wedding day & was played at the couple's wedding reception.
-                               <br/>
-                               We will keep on adding as soon as we find the time to do so. Enjoy watching! :)</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
             {% assign sorted-reel = site.video | sort: "section-rank" %}
             {% for reel-list in sorted-reel %}
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 no-gutter reel-image-item {{ reel-list.type }}" data-celebrity="{{ reel-list.rank-celebrity }}">
