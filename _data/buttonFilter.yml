@@ -1,7 +1,6 @@
 - id: 1
   name: Weddings SDE
   filter: "sde"
-  data-sort: "random"
   hasSub: true
   sub-category:
     - name: "Renewal of Vows"
