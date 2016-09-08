@@ -1,11 +1,10 @@
 ---
-slugID: 63 
 layout: reel
 title: "Fred & Lynn in Maldives :)"
 image-large: "https://i.vimeocdn.com/video/589194853_1920x700.jpg"
 image-small: "https://i.vimeocdn.com/video/589194853_750x500.jpg"
 link: "https://player.vimeo.com/video/180465583"
-type: "avp love-story"
+type: "love-story"
 section-rank: 2
 featured: true
 featured-rank: 2
@@ -16,3 +15,5 @@ Here they declare their love for one another, in a tuxedo & a wedding gown & got
 How beautiful it turned out to be! Now, they have something that will always remind them of how lovely their relationship is! :) ♥♥♥
 To Fred & Lyn, thank you for the trust. Here’s wishing you a lifetime of marital bliss!!! :)
 P.S. Our new website will be up very soon! Watch out for it!
+Should you want us to film your life’s special moments, do send us a PM, call us at +63 2 4344428 or email: inquiry@threelogyvideo.com
+Don’t forget to like & share our page! Thank you for watching! :)

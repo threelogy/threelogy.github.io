@@ -22,13 +22,11 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
         productList << product
     }
 
-
-
-    int counter = 86, sectionRank = 0
-    productList.eachWithIndex { product, index ->
-        counter = counter+1
+        int counter = 1, sectionRank = 0
+        productList.eachWithIndex { product, index ->
+//        counter = counter+1
         sectionRank = sectionRank+1
-        String type = "renewalofvows"
+        String type = "corporate"
 
         "mkdir -p out/".execute()
         File file = new File("out/" + slugify(product.title) +'.md')
@@ -38,7 +36,7 @@ dir.eachFileRecurse (FileType.FILES) { csvFile ->
         String imageSmall = product.image.replace('295x166', '750x500')
         file.write ('---\n')
 
-        file << "slugID: $counter \n"
+//        file << "slugID: $counter \n"
         file << "layout: reel\n"
         file << "title: \"$product.title\"\n"
         file << "image-large: \"$imageLarge\"\n"

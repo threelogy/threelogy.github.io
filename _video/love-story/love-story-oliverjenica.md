@@ -1,11 +1,10 @@
 ---
-slugID: 62 
 layout: reel
 title: "Love Story: Oliver+Jenica"
 image-large: "https://i.vimeocdn.com/video/589443806_1920x700.jpg"
 image-small: "https://i.vimeocdn.com/video/589443806_750x500.jpg"
 link: "https://player.vimeo.com/video/137722538"
-type: "avp love-story"
+type: "love-story"
 section-rank: 1
 ---
 Oliver is the third in the Kaw family whose wedding we shot, making us their family’s official videographers, and he is also widely regarded as the most adventurous, the most outgoing and the “bad boy” among the three.

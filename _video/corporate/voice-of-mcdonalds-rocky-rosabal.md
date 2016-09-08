@@ -1,5 +1,4 @@
 ---
-slugID: 74 
 layout: reel
 title: "Voice of McDonald's Rocky Rosabal"
 image-large: "https://i.vimeocdn.com/video/589882052_1920x700.jpg"

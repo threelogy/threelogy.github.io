@@ -1,15 +1,15 @@
 ---
-slugID: 8 
+slugID: 9 
 layout: reel
 title: "Paulo & Camille"
 image-large: "https://i.vimeocdn.com/video/588702476_1920x700.jpg"
 image-small: "https://i.vimeocdn.com/video/588702476_750x500.jpg"
 link: "https://player.vimeo.com/video/159776544"
 type: "sde"
-category: "wedding-sde"
 section-rank: 8
 ---
 One of the cutest, most fun couples we’ve ever had!
 The bride is so funny, spontaneous & sweet. Go watch & check out her bouquet made of paper. I love that their wedding is so nontraditional that they didn’t even have a program & just danced the night away! It was so fun to see them all enjoy the party. :)
 The groom on the other hand is just as sweet & loving to his bride. He looks like a Korean pop star & I super love his hair!
 Together, they make one lovely couple. Do watch & start your weekend with a smile. ;)
+Don’t forget to share & like our page! :*

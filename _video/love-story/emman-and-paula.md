@@ -1,12 +1,11 @@
 ---
-slugID: 54 
 layout: reel
-title: "Emman and Paula: Engagement"
+title: "Emman and Paula"
 image-large: "https://i.vimeocdn.com/video/589835498_1920x700.jpg"
 image-small: "https://i.vimeocdn.com/video/589835498_750x500.jpg"
 link: "https://player.vimeo.com/video/100151537"
-type: "avp pre-wedding"
-section-rank: 1
+type: "love-story"
+section-rank: 5
 ---
 One thing we learned about this couple is that they don’t like videos. In fact, they don’t like videos so much that they only asked us to make a Save-the-Date, an Engagement and an SDE for their wedding day. Just three. Told you don’t like videos. 😉
 The dress-up, the emotional Christian ceremony and the joyous reception program all took place at the Green Canyon, a spanking new eco resort is Clark Field, Pampanga.

@@ -1,15 +1,14 @@
 ---
-slugID: 7 
+slugID: 8 
 layout: reel
 title: "Jatinder & Hardeep"
 image-large: "https://i.vimeocdn.com/video/588800409_1920x700.jpg"
 image-small: "https://i.vimeocdn.com/video/588800409_750x500.jpg"
 link: "https://player.vimeo.com/video/92924962"
 type: "sde"
-category: "wedding-sde"
 section-rank: 7
 featured: true
-featured-rank: 6
+featured-rank: 5
 ---
 A few things we love about Indian weddings:
 1. Intricate wedding ceremonies. We’ve shot all kinds of weddings and nothing comes close. Nothing.
