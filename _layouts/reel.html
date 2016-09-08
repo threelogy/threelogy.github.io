@@ -56,14 +56,11 @@
 <script type="text/javascript" src="/js/modernizr.min.js"></script>
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <script type="text/javascript">
-    $("#form-content").submit(function(){
+    $("#form-content").on("submit",function(){
         $("#ss-submit").attr("disabled", true);
         setTimeout(function(){
             $("#ss-submit").attr("disabled", false);
         }, 1000);
-    });
-
-    $("#hidden_iframe").on('load',function () {
         $("#modal-message").modal('show');
         $("#form-content")[0].reset();
         setTimeout(function(){
