@@ -97,15 +97,18 @@ $(document).ready(function(){
     setTimeout(function(){
       $("#ss-submit").attr("disabled", false);
     }, 1000);
-  });
 
-  $("#hidden_iframe").on('load',function () {
     $("#modal-message").modal('show');
     $("#form-content")[0].reset();
     setTimeout(function(){
       $("#modal-message").modal('hide');
     }, 2000);
+
   });
+
+
+
+
 
   var contact = $(".contact-menu");
   setInterval(function(){
