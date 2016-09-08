@@ -1,9 +1,9 @@
 
 title: Threelogy
-description: > # this means to ignore newlines until "baseurl:"
+description: > In a world dominated by highly scripted, acted out wedding videos, Threelogy has been steadfast and bullishly stubborn in keeping theris natural, candid and real.  And we wouldn't have it any other way.  And quite frankly, you should too.
   In a world dominated by highly scripted, acted out wedding videos, Threelogy has been steadfast and bullishly stubborn in keeping theris natural, candid and real. And we wouldn't have it any other way. And quite frankly, you should too.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl:
+url: "www.threelogyvideo.com"
 
 version: 3.0.3
 
