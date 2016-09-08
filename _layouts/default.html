@@ -7,7 +7,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="description" content="{{ site.description }}">
   <meta name="author" content="">
-
+  <title>{{ site.title}} | {{ layout.title }}</title>
   <link rel="shorcut icon" href="/favicon/favicon.ico" type="image/x-icon">
   <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
@@ -22,8 +22,6 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-
-  <title>Threelogy | {{ layout.title }}</title>
 
   <link href='https://fonts.googleapis.com/css?family=Lato:400,300,900' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/css/{{ layout.css }}">
@@ -55,43 +53,17 @@
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/js/instafeed.min.js"></script>
 <script type="text/javascript">
-$(document).ready(function(){
-//on menu burger click change icon
-  $('#icon-transition').on('click', function () {
-    $(this).toggleClass('open');
+  $(document).ready(function(){
+  //on menu burger click change icon
+    $('#icon-transition').on('click', function () {
+      $(this).toggleClass('open');
+    });
+
+  //on navbar scroll add brand logo
+    $('.navbar-collapse a').click(function(){
+      $(".navbar-collapse").collapse('hide');
+    });
   });
-
-//on navbar scroll add brand logo
-  $('.navbar-collapse a').click(function(){
-    $(".navbar-collapse").collapse('hide');
-  });
-
-//contact image cycle
-//  var header = $('.header-image');
-//  var backgrounds = new Array(
-//          'url(/img/contact-image/location_1.jpg)'
-//          , 'url(/img/contact-image/location_2.jpg)'
-//          , 'url(/img/contact-image/location_3.jpg)'
-//          , 'url(/img/contact-image/location_4.jpg)'
-//  );
-//
-//  var current = 0;
-//  function nextBackground() {
-//    current++;
-//    current = current % backgrounds.length;
-//    header.css('background-image', backgrounds[current]);
-//  }
-//  setInterval(nextBackground, 5000);
-//
-//  header.css('background-image', backgrounds[0]);
-//
-});
-
-</script>
-
-{{ layout.javascript }}
-
-<script>
   $("#form-content").on("submit",function(){
     $("#ss-submit").attr("disabled", true);
     setTimeout(function(){
@@ -103,12 +75,7 @@ $(document).ready(function(){
     setTimeout(function(){
       $("#modal-message").modal('hide');
     }, 2000);
-
   });
-
-
-
-
 
   var contact = $(".contact-menu");
   setInterval(function(){
@@ -118,9 +85,10 @@ $(document).ready(function(){
   $("#testimonial-carousel").carousel({
     interval: 15000,
     navigation: "false"
-  })
+  });
 </script>
 
+{{ layout.javascript }}
 </body>
 
 </html>
