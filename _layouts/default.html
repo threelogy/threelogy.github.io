@@ -92,7 +92,7 @@ $(document).ready(function(){
 {{ layout.javascript }}
 
 <script>
-  $("#form-content").submit(function(){
+  $("#form-content").on("submit",function(){
     $("#ss-submit").attr("disabled", true);
     setTimeout(function(){
       $("#ss-submit").attr("disabled", false);
