@@ -12,6 +12,5 @@ Before getting married in front of their friends & family, they first decided to
 Here they declare their love for one another, in a tuxedo & a wedding gown & got us to film this part of their love story. They then had it played later on to show to their guests at their wedding in China.
 How beautiful it turned out to be! Now, they have something that will always remind them of how lovely their relationship is! :) ♥♥♥
 To Fred & Lyn, thank you for the trust. Here’s wishing you a lifetime of marital bliss!!! :)
-P.S. Our new website will be up very soon! Watch out for it!
 Should you want us to film your life’s special moments, do send us a PM, call us at +63 2 4344428 or email: inquiry@threelogyvideo.com
 Don’t forget to like & share our page! Thank you for watching! :)
