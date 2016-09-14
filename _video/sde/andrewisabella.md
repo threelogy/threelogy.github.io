@@ -9,5 +9,7 @@ type: "sde"
 section-rank: 11
 ---
 To be honest, I’m not a fan of hearing lengthy vows in a wedding video SDE (Same Day Edit), I feel like it makes the video boring to watch but this is an exception. I was even grinning from ear to ear! :)
+
 I love how the bride & groom delivered their vows with so much warmth & tenderness that you can see & feel the strong affection they have for one another.
+
 This will definitely make you want to fall in love & stay in love. :)

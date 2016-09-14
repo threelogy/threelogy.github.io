@@ -8,5 +8,7 @@ type: "renewalofvows"
 section-rank: 2
 ---
 Renewal of vows.
+
 Toto and Ging's love for one another to me is the purest kind of love there is. I can't stop smiling from ear to ear.
+
 Go watch & see for yourself. :)

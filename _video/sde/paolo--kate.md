@@ -11,7 +11,11 @@ featured: true
 featured-rank: 4
 ---
 Madre De Dios
+
 Midlands Veranda
+
 A beautiful, charming and sweet bride + a handsome and cool groom + friends and relatives + a small blackboard, a box of chalk and an eraser + the Red Hot Chili Peppers = one of the coolest SDEs I’ve ever done. Well, anything with Anthony Kiedis and Flea – I find cool.
+
 Congratulations Paolo and Kate, and see you in Vietnam soon!
+
 Cheers! :)

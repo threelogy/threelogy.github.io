@@ -8,4 +8,5 @@ type: "international"
 section-rank: 6
 ---
 This is a short video we made of some of the coolest places Threelogy has been to either for work or vacation.
+
 It shows a lot of water & definitely gives off good vibes! :)

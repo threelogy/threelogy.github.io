@@ -8,4 +8,3 @@ link: "https://player.vimeo.com/video/160197778"
 type: "celebrity"
 section-rank: 10
 ---
-Lorem ipsum dolor sit amet consequeat elpiti.

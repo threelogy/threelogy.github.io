@@ -9,4 +9,5 @@ type: "sde"
 section-rank: 9
 ---
 So here’s a short, lovely video featuring a beautiful couple, their vows, Justin’s rockin’ red socks and the artist who yesterday won 6 Grammy Awards.
+
 Yup, love is definitely in the air. :)

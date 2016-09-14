@@ -9,8 +9,13 @@ type: "sde"
 section-rank: 23
 ---
 Punta Fuego
+
 One hot but windy afternoon.
+
 One very beautiful bride.
+
 One equally handsome groom.
+
 One memorable wedding.
+
 ” Just say yes … ” :)

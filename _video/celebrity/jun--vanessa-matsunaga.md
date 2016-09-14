@@ -8,3 +8,10 @@ link: "https://player.vimeo.com/video/180399017"
 type: "celebrity"
 section-rank: 5
 ---
+Wedding SDE of Brazilian Japanese Model Vanessa to businessman Jun.
+
+November 30, 2010
+
+Bellarocca, Marinduque
+
+There are tons of story to tell, but in the end, I decided to sum up everything (the couple, the island, the ceremony – everything!) in one word … BEAUTIFUL! :)

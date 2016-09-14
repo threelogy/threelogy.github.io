@@ -8,3 +8,20 @@ link: "https://player.vimeo.com/video/181036092"
 type: "celebrity"
 section-rank: 8
 ---
+The Transfiguration Chapel, Caleruega
+
+Hacienda Isabella
+
+Alright, knowing that these guys head Steak Productions, we kinda expected their wedding to be a bit different than usual. And guess what, we didn’t go home disappointed.
+
+Sarah wore a Rajo Laurel gown. In awesome purple.
+
+The gents came in sneakers. And us too. :)
+
+VJs KC Montero and Cindy Kurleto hosted the reception. Can’t get cooler than that.
+
+Their DJ kept the floor full to the brim … groovin’.
+
+And their SDE song, a motown-hit by Stevie Wonder, quite honestly the most difficult song we ever used in an SDE. But based on everyone’s reaction, I think we pulled it off. 😉
+
+Here’s Banjo and Sarah’s wedding – signed, sealed, delivered! :)

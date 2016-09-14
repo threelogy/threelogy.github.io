@@ -8,3 +8,4 @@ link: "https://player.vimeo.com/video/181036095"
 type: "celebrity"
 section-rank: 6
 ---
+Ponds Commercial Model Nicole Hernandez tied the knot! :)

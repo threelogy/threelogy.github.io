@@ -9,8 +9,9 @@ type: "sde"
 section-rank: 10
 ---
 Wedding SDE of Brazilian Japanese Model Vanessa to businessman Jun.
-For bookings, send us a PM or call us at +63 2 4344428
-Email: inquiry@threelogyvideo.com :)
+
 November 30, 2010
+
 Bellarocca, Marinduque
+
 There are tons of story to tell, but in the end, I decided to sum up everything (the couple, the island, the ceremony – everything!) in one word … BEAUTIFUL! :)andrew

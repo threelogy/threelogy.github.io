@@ -9,4 +9,5 @@ type: "sde"
 section-rank: 16
 ---
 A beautiful wedding that you have to see.
+
 Practically toyed with the idea of using LFO’s “Girl on TV” for this wedding. Why? Because Paolo fell for the girl on TV. :)oli
