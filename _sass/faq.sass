@@ -2,7 +2,7 @@
   background-image: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url('/img/banner3.jpg')
   background-size: cover
   background-repeat: no-repeat
-  background-position: 40% 20%
+  background-position: 50% 20%
   .section-header
     color: white
     text-transform: uppercase
@@ -46,7 +46,7 @@
 
 
 @media(max-width: 1440px)
-  .rates-banner
+  .faq-banner
     background-position: 30% 20%
     .section-header
       padding: 85px 15px
@@ -54,6 +54,14 @@
 @media (max-width: $screen-xs-max)
   body
     margin-top: 95px
+  .faq-banner
+    background-position: 50% 20%
+    .section-header
+      margin: 0
+      font-size: 18px
+      max-width: 60%
+      line-height: 25px
+
   #accordion
     .faq-item
       .faq-link
@@ -63,7 +71,7 @@
           display: inline-block
 
 @media (max-width: 568px )
-  #accordion
+  #accordionfaq-item
     .faq-item
       .faq-link
         border-bottom: 1px solid #bbb
