@@ -17,6 +17,19 @@ collections:
     output: true
     permalink: /reel/:path/
 
+prose:
+  rooturl: "_video"
+  siteurl: "www.threelogyvideo.com"
+  metadata:
+    _video:
+      - name: "published"
+        field:
+          element: 'hidden'
+          value: true
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
 
 
 
