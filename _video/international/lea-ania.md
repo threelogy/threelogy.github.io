@@ -7,4 +7,4 @@ link: "https://player.vimeo.com/video/183030979"
 type: "international"
 section-rank: 6
 ---
-Our gorgeous couple’s beautiful wedding in Sydney. The bride’s expressive eyes just light up with love for her man. :)
+Our gorgeous couple’s beautiful wedding in Sydney. The bride’s expressive eyes just light up with love for her man.
