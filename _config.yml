@@ -22,6 +22,11 @@ prose:
   siteurl: "www.threelogyvideo.com"
   metadata:
     _video:
+      - name: "published"
+        field:
+          element: 'hidden'
+          value: true
+
       - name: "title"
         field:
           element: "text"
