@@ -1,10 +1,11 @@
 ---
+published: true
 layout: reel
-title: "Fred & Lynn in Maldives :)"
-image-large: "https://i.vimeocdn.com/video/589194853_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/589194853_750x500.jpg"
-link: "https://player.vimeo.com/video/180465583"
-type: "international"
+title: 'Fred & Lynn in Maldives :)'
+image-large: 'https://i.vimeocdn.com/video/589194853_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/589194853_750x500.jpg'
+link: 'https://player.vimeo.com/video/180465583'
+type: international
 section-rank: 2
 ---
 Our couple from China, Fred & Lynn want to celebrate their upcoming wedding in one of the world’s most romantic place, Maldives.
@@ -17,6 +18,4 @@ How beautiful it turned out to be! Now, they have something that will always rem
 
 To Fred & Lyn, thank you for the trust. Here’s wishing you a lifetime of marital bliss!!! :)
 
-Should you want us to film your life’s special moments, do send us a PM, call us at +63 2 4344428 or email: inquiry@threelogyvideo.com
 
-Don’t forget to like & share our page! Thank you for watching! :)
