@@ -76,7 +76,7 @@
 
 - id: 20
   name: Jen
-  testimonial: "Wonderful work! You never fail to deliver! :)"
+  testimonial: "Wonderful work! <br/> <br/> You never fail to deliver! :)"
 
 - id: 21
   name: Nina Tan
