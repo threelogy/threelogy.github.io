@@ -1,10 +1,11 @@
 ---
+published: true
 layout: reel
-title: "Fred & Lynn in Maldives :)"
-image-large: "https://i.vimeocdn.com/video/589194853_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/589194853_750x500.jpg"
-link: "https://player.vimeo.com/video/180465583"
-type: "love-story"
+title: 'Fred & Lynn in Maldives :)'
+image-large: 'https://i.vimeocdn.com/video/589194853_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/589194853_750x500.jpg'
+link: 'https://player.vimeo.com/video/180465583'
+type: love-story
 section-rank: 2
 featured: true
 featured-rank: 2
@@ -19,6 +20,8 @@ How beautiful it turned out to be! Now, they have something that will always rem
 
 To Fred & Lyn, thank you for the trust. Here’s wishing you a lifetime of marital bliss!!! :)
 
-Should you want us to film your life’s special moments, send us an email or call us at +63 2 4344428 Email: inquiry@threelogyvideo.com
+Should you want us to film your life’s special moments, send us an email or call us at +63 2 4344428 
+
+Email: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
