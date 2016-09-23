@@ -1,11 +1,12 @@
 ---
-slugID: 46 
+published: true
+slugID: 46
 layout: reel
-title: "Banjo & Sarah"
-image-large: "https://i.vimeocdn.com/video/589598563_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/589598563_750x500.jpg"
-link: "https://player.vimeo.com/video/181036092"
-type: "celebrity"
+title: Banjo & Sarah
+image-large: 'https://i.vimeocdn.com/video/589598563_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/589598563_750x500.jpg'
+link: 'https://player.vimeo.com/video/181036092'
+type: celebrity
 section-rank: 8
 ---
 The Transfiguration Chapel, Caleruega
@@ -25,3 +26,9 @@ Their DJ kept the floor full to the brim … groovin’.
 And their SDE song, a motown-hit by Stevie Wonder, quite honestly the most difficult song we ever used in an SDE. But based on everyone’s reaction, I think we pulled it off. 😉
 
 Here’s Banjo and Sarah’s wedding – signed, sealed, delivered! :)
+
+For bookings, send us an email or call us at +63 2 4344428
+
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
