@@ -1,13 +1,20 @@
 ---
-slugID: 17 
+published: true
+slugID: 17
 layout: reel
-title: "Paolo and Pier"
-image-large: "https://i.vimeocdn.com/video/589171869_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/589171869_750x500.jpg"
-link: "https://player.vimeo.com/video/121169172"
-type: "sde"
+title: Paolo and Pier
+image-large: 'https://i.vimeocdn.com/video/589171869_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/589171869_750x500.jpg'
+link: 'https://player.vimeo.com/video/121169172'
+type: sde
 section-rank: 16
 ---
 A beautiful wedding that you have to see.
 
-Practically toyed with the idea of using LFO’s “Girl on TV” for this wedding. Why? Because Paolo fell for the girl on TV. :)oli
+Practically toyed with the idea of using LFO’s “Girl on TV” for this wedding. Why? Because Paolo fell for the girl on TV. :)
+
+For bookings, send us an email or call us at +63 2 4344428
+
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
