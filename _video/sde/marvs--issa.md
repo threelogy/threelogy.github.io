@@ -9,6 +9,8 @@ link: 'https://player.vimeo.com/video/119131580'
 type: sde
 section-rank: 13
 ---
+Marvs + Issa are two pretty cool people. Check out their first dance to get what I mean. :) 
+
 For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
