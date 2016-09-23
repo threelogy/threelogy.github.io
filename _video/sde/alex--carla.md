@@ -1,10 +1,16 @@
 ---
-slugID: 36 
+published: true
+slugID: 36
 layout: reel
-title: "Alex & Carla"
-image-large: "https://i.vimeocdn.com/video/590547847_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/590547847_750x500.jpg"
-link: "https://player.vimeo.com/video/181772915"
-type: "sde"
+title: Alex & Carla
+image-large: 'https://i.vimeocdn.com/video/590547847_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/590547847_750x500.jpg'
+link: 'https://player.vimeo.com/video/181772915'
+type: sde
 section-rank: 35
 ---
+For bookings, send us an email or call us at +63 2 4344428
+
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
