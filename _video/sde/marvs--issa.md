@@ -1,10 +1,16 @@
 ---
-slugID: 14 
+published: true
+slugID: 14
 layout: reel
-title: "Marvs + Issa"
-image-large: "https://i.vimeocdn.com/video/589511028_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/589511028_750x500.jpg"
-link: "https://player.vimeo.com/video/119131580"
-type: "sde"
+title: Marvs + Issa
+image-large: 'https://i.vimeocdn.com/video/589511028_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/589511028_750x500.jpg'
+link: 'https://player.vimeo.com/video/119131580'
+type: sde
 section-rank: 13
 ---
+For bookings, send us an email or call us at +63 2 4344428
+
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
