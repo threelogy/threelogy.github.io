@@ -21,7 +21,7 @@ Oyo made one request the day before the wedding, that we use Howie Day’s Colli
 
 Tin, on the other hand, wanted the SDE soundbites and vows-free. A bummer for those who weren’t there, the two did exchange some sweet and funny words that day. But like I said, they got exactly what they wanted. :)
 
-Should you want us to film your life’s special moments, send us an email or call us at +63 2 4344428
+For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
 
