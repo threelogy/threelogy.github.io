@@ -16,9 +16,8 @@ It will make you feel romantic, make you want to hold hands, cuddle and cozy up 
 
 Go watch & fall in love! 
 
-Should you want us to film your life’s special moments, send us an email or call us at +63 2 4344428
+For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
-
