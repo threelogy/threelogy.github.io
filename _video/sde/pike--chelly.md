@@ -9,6 +9,8 @@ link: 'https://player.vimeo.com/video/154158323'
 type: sde
 section-rank: 27
 ---
+Check out our bride’s cool pink gown! Lovely! :)
+
 For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
