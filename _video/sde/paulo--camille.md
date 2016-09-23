@@ -1,11 +1,12 @@
 ---
-slugID: 9 
+published: true
+slugID: 9
 layout: reel
-title: "Paulo & Camille"
-image-large: "https://i.vimeocdn.com/video/588702476_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/588702476_750x500.jpg"
-link: "https://player.vimeo.com/video/159776544"
-type: "sde"
+title: Paulo & Camille
+image-large: 'https://i.vimeocdn.com/video/588702476_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/588702476_750x500.jpg'
+link: 'https://player.vimeo.com/video/159776544'
+type: sde
 section-rank: 8
 ---
 One of the cutest, most fun couples we’ve ever had!
@@ -16,4 +17,8 @@ The groom on the other hand is just as sweet & loving to his bride. He looks lik
 
 Together, they make one lovely couple. Do watch & start your weekend with a smile. ;)
 
-Don’t forget to share & like our page! :*
+For bookings, send us an email or call us at +63 2 4344428
+
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
