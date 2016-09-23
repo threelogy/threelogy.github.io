@@ -14,7 +14,7 @@ Meet our charming Filipino Italian couple; Leonard & Marga profess their love fo
 
 It will make you feel romantic, make you want to hold hands, cuddle and cozy up with your own special someone seeing them in this attractive place speaking in Italian. (With English subtitle of course) :)
 
-Go watch & fall in love! <3<3<3
+Go watch & fall in love! 
 
 Should you want us to film your life’s special moments, send us an email or call us at +63 2 4344428
 
