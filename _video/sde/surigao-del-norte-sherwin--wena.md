@@ -1,11 +1,12 @@
 ---
-slugID: 33 
+published: true
+slugID: 33
 layout: reel
-title: "Surigao del Norte: Sherwin + Wena"
-image-large: "https://i.vimeocdn.com/video/589193796_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/589193796_750x500.jpg"
-link: "https://player.vimeo.com/video/85017511"
-type: "sde"
+title: 'Surigao del Norte: Sherwin + Wena'
+image-large: 'https://i.vimeocdn.com/video/589193796_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/589193796_750x500.jpg'
+link: 'https://player.vimeo.com/video/85017511'
+type: sde
 section-rank: 32
 ---
 Sherwin and Wena were set to tie the knot last January 18, 2014 in Surigao del Norte. Headed by Jon, our team was upbeat about the trip because it was our first time in the province. And by some twist of fate, the first typhoon to visit our country this year, named Agaton, dropped by Surigao at the exact same time. And getting there turned out to be a 20-hour tour around the country.
@@ -17,3 +18,9 @@ Agaton hit Mindanao pretty hard, so to speak. It’s not Yolanda level but it wa
 And as you can see in their SDE, Agaton wasn’t enough to rain on Sherwin and Wena’s parade. The joyous atmosphere during preps, the smile everyone was wearing at the ceremony and the laughter shared all throughout the reception our team witnessed made the back-breaking 20+ hour trip around the country all worth it. At the end of it all, we too were smiling (yep, not even the 17-hour trip back to Manila wiped the smile off our team’s faces).
 
 Congrats Sherwin and Wena!!! And yes, we love our job! :)
+
+For bookings, send us an email or call us at +63 2 4344428
+
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
