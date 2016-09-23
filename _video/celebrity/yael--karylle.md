@@ -24,6 +24,7 @@ I know we’ve done SDEs with the groom or the bride’s original song playing i
 Enjoy!!! :)
 
 For bookings, send us an email or call us at +63 2 4344428 
+
 Email: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
