@@ -18,6 +18,6 @@ How beautiful it turned out to be! Now, they have something that will always rem
 
 To Fred & Lyn, thank you for the trust. Here’s wishing you a lifetime of marital bliss!!! :)
 
-Should you want us to film your life’s special moments, do send us an email or call us at +63 2 4344428 Email: inquiry@threelogyvideo.com
+Should you want us to film your life’s special moments, send us an email or call us at +63 2 4344428 Email: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
