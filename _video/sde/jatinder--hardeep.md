@@ -1,11 +1,12 @@
 ---
-slugID: 8 
+published: true
+slugID: 8
 layout: reel
-title: "Jatinder & Hardeep"
-image-large: "https://i.vimeocdn.com/video/588800409_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/588800409_750x500.jpg"
-link: "https://player.vimeo.com/video/92924962"
-type: "sde"
+title: Jatinder & Hardeep
+image-large: 'https://i.vimeocdn.com/video/588800409_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/588800409_750x500.jpg'
+link: 'https://player.vimeo.com/video/92924962'
+type: sde
 section-rank: 7
 featured: true
 featured-rank: 5
@@ -19,3 +20,9 @@ A few things we love about Indian weddings:
 <p>5. And lastly, it’s a four day celebration! Four days! How fun is that?!</p>
 
 So here’s Jatinder and Hardeep’s wedding. Enjoy! :)
+
+For bookings, send us an email or call us at +63 2 4344428
+
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
