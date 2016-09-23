@@ -11,7 +11,7 @@ section-rank: 12
 ---
 We felt honoured to cover the Filipiniana themed wedding of prominent architect Jun Palafox’s daughter Chin to Dennis in Sitio Remedios, a heritage site in the beautiful province of Ilocos.
 
-We are so proud to share with you this video of their union. Weddings like these make our work even more fun & exciting!
+We are so proud to share with you this breathtaking video of their union. Weddings like these make our work even more fun & exciting!
 
 Do watch & feel the incredible vibe!
 
