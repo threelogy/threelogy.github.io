@@ -1,11 +1,12 @@
 ---
-slugID: 36 
+published: true
+slugID: 36
 layout: reel
-title: "Yael & Karylle"
-image-large: "https://i.vimeocdn.com/video/588707591_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/588707591_750x500.jpg"
-link: "https://player.vimeo.com/video/89737290"
-type: "celebrity"
+title: Yael & Karylle
+image-large: 'https://i.vimeocdn.com/video/588707591_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/588707591_750x500.jpg'
+link: 'https://player.vimeo.com/video/89737290'
+type: celebrity
 section-rank: 1
 ---
 San Antonio de Padua
@@ -21,3 +22,8 @@ Yael and K had the time of their lives that night, and to be very honest, so did
 I know we’ve done SDEs with the groom or the bride’s original song playing in the background, but this one is kinda different, and more exciting perhaps, as the band plans on putting this up on their very own youtube page as the song’s “unofficial” music video, thus the no sound bites/vows edit.
 
 Enjoy!!! :)
+
+For bookings, send us an email or call us at +63 2 4344428 
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
