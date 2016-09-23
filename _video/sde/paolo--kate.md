@@ -21,9 +21,8 @@ Congratulations Paolo and Kate, and see you in Vietnam soon!
 
 Cheers! :)
 
-Should you want us to film your life’s special moments, send us an email or call us at +63 2 4344428
+For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
-
