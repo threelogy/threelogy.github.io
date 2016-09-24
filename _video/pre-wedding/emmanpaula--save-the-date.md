@@ -5,7 +5,7 @@ title: Emman & Paula Threelogy's The Love Story
 image-large: 'https://i.vimeocdn.com/video/589834846_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/589834846_750x500.jpg'
 link: 'https://player.vimeo.com/video/99181529'
-type: the love story
+type: love-story
 section-rank: 8
 ---
 One thing we learned about this couple is that they don’t like videos. In fact, they don’t like videos so much that they only asked us to make a Save-the-Date, an Engagement and an SDE for their wedding day. Just three. Told you don’t like videos. 😉
