@@ -6,7 +6,7 @@ image-large: 'https://i.vimeocdn.com/video/590431387_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/590431387_750x500.jpg'
 link: 'https://player.vimeo.com/video/181752380'
 type: love-story
-section-rank: 6
+section-rank: 5
 ---
 Peter and April, you guys are awesome and super-mega-uber-dooper-cool!
 
