@@ -8,6 +8,16 @@ link: 'https://player.vimeo.com/video/159173101'
 type: pre-wedding
 section-rank: 1
 ---
+Our couple from China, Fred & Lynn want to celebrate their upcoming wedding in one of the world’s most romantic place, Maldives.
+
+Before getting married in front of their friends & family, they first decided to take a break & just enjoy each other’s company in this stunning white sand beach.
+
+Here they declare their love for one another (there's another video we did for them under "The Love Story Category), in a tuxedo & a wedding gown & got us to film this part of their love story. They then had it played later on to show to their guests at their wedding in China.
+
+How beautiful it turned out to be! Now, they have something that will always remind them of how lovely their relationship is! ♥♥♥
+
+To Fred & Lyn, thank you for the trust. Here’s wishing you a lifetime of marital bliss!!! :)
+
 For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
