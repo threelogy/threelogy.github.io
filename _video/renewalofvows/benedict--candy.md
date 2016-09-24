@@ -11,6 +11,7 @@ section-rank: 3
 Sharing with you the magical wedding of Benedict & Candy. We feel blessed to be a part of this wonderful event. :) 
 
 For bookings, send us an email or call us at +63 2 4344428
+
 Email: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
