@@ -9,3 +9,9 @@ type: birthday
 section-rank: 1
 ---
 Chynna’s ultra-wide 18th birthday music video. :)
+
+For bookings, send us an email or call us at +63 2 4344428
+
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
