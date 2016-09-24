@@ -1,10 +1,11 @@
 ---
+published: true
 layout: reel
-title: "Zian 18 Candyman"
-image-large: "https://i.vimeocdn.com/video/590412509_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/590412509_750x500.jpg"
-link: "https://player.vimeo.com/video/181743141"
-type: "birthday"
+title: Zian 18 Candyman
+image-large: 'https://i.vimeocdn.com/video/590412509_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/590412509_750x500.jpg'
+link: 'https://player.vimeo.com/video/181743141'
+type: birthday
 section-rank: 2
 ---
 What to do for a 50’s Diner-inspired birthday party? A 50’s Diner-inspired video, of course.
@@ -24,4 +25,10 @@ And here’s what Ms. Edna, Zian’s mom, gave me:
 <p>2. Four sets of costume. White, blue, pink and red each similar to what Christina wore in the video. Talk about details.</p>
 <p>3. Four professional back-up dancers in military uniform and eleven of Zian’s friends (six ladies and five gents also in proper costume)</p>
 <p>4. Del Custodio. One of the best choreographers around.</p>
-The vid’s working title was “Candyman” for obvious reasons, but in the end, it’s all about the “Jukebox”.
+The vid’s working title was “Candyman” for obvious reasons, but in the end, it’s all about the “Jukebox”. :) 
+
+For bookings, send us an email or call us at +63 2 4344428
+
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
