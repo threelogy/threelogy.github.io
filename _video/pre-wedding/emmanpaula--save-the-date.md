@@ -1,7 +1,7 @@
 ---
 published: true
 layout: reel
-title: 'Emman&Paula : Save-the-Date'
+title: Emman & Paula Threelogy's The Love Story
 image-large: 'https://i.vimeocdn.com/video/589834846_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/589834846_750x500.jpg'
 link: 'https://player.vimeo.com/video/99181529'
