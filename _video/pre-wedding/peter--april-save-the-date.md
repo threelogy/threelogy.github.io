@@ -1,7 +1,7 @@
 ---
 published: true
 layout: reel
-title: Peter & April Save The Date
+title: Peter & April Threelogy's The Love Story
 image-large: 'https://i.vimeocdn.com/video/590431387_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/590431387_750x500.jpg'
 link: 'https://player.vimeo.com/video/181752380'
