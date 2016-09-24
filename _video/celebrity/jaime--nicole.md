@@ -11,9 +11,12 @@ section-rank: 6
 ---
 Ponds Commercial Model Nicole Hernandez tied the knot! :)
 
+Her wedding video with her handsome groom, Jaime is so cool that it will make you want to watch it over & over again. 
+
+We shot & edited this some 5 years ago. It’s a classic!
+
 For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
-
