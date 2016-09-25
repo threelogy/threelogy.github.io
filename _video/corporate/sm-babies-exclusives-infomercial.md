@@ -8,6 +8,8 @@ link: 'https://player.vimeo.com/video/69454786'
 type: corporate
 section-rank: 1
 ---
+Models Amanda Griffin & Nicole Hernandez for SM Babies Exclusives. 
+
 For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
