@@ -8,6 +8,8 @@ link: 'https://player.vimeo.com/video/48278931'
 type: international
 section-rank: 8
 ---
+Exploring Incredible India! :) 
+
 For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
