@@ -8,7 +8,7 @@ link: 'https://player.vimeo.com/video/180463686'
 type: birthday
 section-rank: 4
 ---
-Ella's 18th birthday party SDE (Same Day Edit). :)
+Ella's sweet 18th birthday party SDE (Same Day Edit). :)
 
 For bookings, send us an email or call us at +63 2 4344428
 
