@@ -1,9 +1,15 @@
 ---
+published: true
 layout: reel
-title: "Star City 15 seconds TV Commercial"
-image-large: "https://i.vimeocdn.com/video/589933064_1920x700.jpg"
-image-small: "https://i.vimeocdn.com/video/589933064_750x500.jpg"
-link: "https://player.vimeo.com/video/76583722"
-type: "corporate"
+title: Star City 15 seconds TV Commercial
+image-large: 'https://i.vimeocdn.com/video/589933064_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/589933064_750x500.jpg'
+link: 'https://player.vimeo.com/video/76583722'
+type: corporate
 section-rank: 3
 ---
+For bookings, send us an email or call us at +63 2 4344428
+
+Email: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
