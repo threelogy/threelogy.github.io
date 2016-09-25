@@ -8,6 +8,8 @@ link: 'https://player.vimeo.com/video/121647488'
 type: corporate
 section-rank: 4
 ---
+McDonald's is a regular client of Threelogy. Like them, trust us to produce high quality videos of your company events. Hooray! Call us today! Now let me at that muffin! :)
+
 For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
