@@ -8,7 +8,9 @@ link: 'https://player.vimeo.com/video/76584816'
 type: corporate
 section-rank: 2
 ---
-For bookings, send us an email or call us at +63 2 4344428
+We do videos for TV Commercials too! Call us for inquiries! :)
+
+Landline: +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
 
