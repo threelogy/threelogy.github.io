@@ -8,6 +8,8 @@ link: 'https://player.vimeo.com/video/161175562'
 type: corporate
 section-rank: 9
 ---
+Like Edsa Shangri-La Manila, trust us to produce high quality videos of your company events.:)
+
 For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
