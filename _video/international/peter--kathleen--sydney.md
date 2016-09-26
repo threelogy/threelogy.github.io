@@ -8,10 +8,12 @@ link: 'https://player.vimeo.com/video/129519488'
 type: international
 section-rank: 5
 ---
-Sydney Wedding Highlights. :)
+This is Peter & Kathleen's heartwarming wedding film we shot in Sydney. Their love is just so evident that you can't miss that "in love" spark. We feel blessed to have witnessed such pure love.
+
+To Peter & Kathleen, congratulations!!! Here's wishing you both a lifetime of happiness. :) 
 
 For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
 
-Thank you for watching! :)
+Thank you for watching! 
