@@ -8,7 +8,7 @@ link: 'https://player.vimeo.com/video/70845410'
 type: corporate
 section-rank: 15
 ---
-BMR - Bright Minds Read Program.
+A video about McDonald's BMR - Bright Minds Read Program. :) 
 
 For bookings, send us an email or call us at +63 2 4344428
 
