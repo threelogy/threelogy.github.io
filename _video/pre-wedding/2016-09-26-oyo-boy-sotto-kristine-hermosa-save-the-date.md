@@ -6,7 +6,7 @@ layout: reel
 image-large: 'https://i.vimeocdn.com/video/588724944_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/588724944_750x500.jpg'
 link: 'https://player.vimeo.com/video/180416583'
-type: celebrity
+type: pre-wedding
 section-rank: 2
 ---
 Actor Oyo Boy Sotto & actress Kristine Hermosa’s “The Pre-Wedding” by Threelogy Video. :)
