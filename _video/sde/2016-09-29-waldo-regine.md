@@ -13,6 +13,7 @@ There's always something about the groom getting emotional at his wedding, it ma
 Check out our rockstar President Duterte standing as one of the Principal Sponsors of this very special celebration of love. :)
 
 For bookings, send us an email or call us at +63 2 4344428
+
 Email: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
