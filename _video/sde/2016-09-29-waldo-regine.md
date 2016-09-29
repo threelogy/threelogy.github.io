@@ -5,8 +5,8 @@ layout: reel
 link: 'https://vimeo.com/album/4116543/video/183156260'
 type: sde
 section-rank: 37
-image-large: ''
-image-small: ''
+image-large: 'https://i.vimeocdn.com/video/594375471_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594375471_750x500.jpg'
 ---
 There's always something about the groom getting emotional at his wedding, it makes one tear up too...you cannot not feel the deep love he has for his bride. This is Waldo & Regine for you. :)
 
