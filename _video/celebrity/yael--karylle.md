@@ -3,8 +3,8 @@ published: true
 slugID: 36
 layout: reel
 title: Yael & Karylle
-image-large: 'https://i.vimeocdn.com/video/594412472_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594412472_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594768591_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594768591_750x500.jpg'
 link: 'https://player.vimeo.com/video/89737290'
 type: celebrity
 section-rank: 1
