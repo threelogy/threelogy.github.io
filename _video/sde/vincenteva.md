@@ -3,8 +3,8 @@ published: true
 slugID: 32
 layout: reel
 title: Vincent+Eva
-image-large: 'https://i.vimeocdn.com/video/588966757_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/588966757_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594791445_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594791445_750x500.jpg'
 link: 'https://player.vimeo.com/video/144706825'
 type: sde
 section-rank: 31
