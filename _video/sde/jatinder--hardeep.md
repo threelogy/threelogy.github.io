@@ -3,8 +3,8 @@ published: true
 slugID: 8
 layout: reel
 title: Jatinder & Hardeep
-image-large: 'https://i.vimeocdn.com/video/594418099_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594418099_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594769676_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594769676_750x500.jpg'
 link: 'https://player.vimeo.com/video/92924962'
 type: sde
 section-rank: 7
