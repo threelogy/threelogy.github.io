@@ -3,8 +3,8 @@ published: true
 slugID: 31
 layout: reel
 title: Mike+Karol L.A.
-image-large: 'https://i.vimeocdn.com/video/590303369_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/590303369_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594790986_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594790986_750x500.jpg'
 link: 'https://player.vimeo.com/video/162793355'
 type: sde
 section-rank: 30
