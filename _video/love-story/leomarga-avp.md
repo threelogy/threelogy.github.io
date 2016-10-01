@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: Leo+Marga AVP
-image-large: 'https://i.vimeocdn.com/video/589782402_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/589782402_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594774332_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594774332_750x500.jpg'
 link: 'https://player.vimeo.com/video/164400513'
 type: love-story
 section-rank: 3
