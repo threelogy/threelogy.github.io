@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: Toto & Ging
-image-large: 'https://i.vimeocdn.com/video/589030542_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/589030542_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594788165_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594788165_750x500.jpg'
 link: 'https://player.vimeo.com/video/132092876'
 type: renewalofvows
 section-rank: 2
