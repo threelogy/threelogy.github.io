@@ -3,8 +3,8 @@ published: true
 title: Oyo Boy Sotto & Kristine Hermosa Save the Date
 slugID: 38
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/588724944_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/588724944_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594413458_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594413458_1920x700.jpg'
 link: 'https://player.vimeo.com/video/180416583'
 type: pre-wedding
 section-rank: 2
