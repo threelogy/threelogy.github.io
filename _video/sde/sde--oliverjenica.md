@@ -3,8 +3,8 @@ published: true
 slugID: 18
 layout: reel
 title: 'SDE : Oliver+Jenica'
-image-large: 'https://i.vimeocdn.com/video/588815804_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/588815804_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594776885_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594776885_750x500.jpg'
 link: 'https://player.vimeo.com/video/138508519'
 type: sde
 section-rank: 17
