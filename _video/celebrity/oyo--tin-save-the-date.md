@@ -2,9 +2,9 @@
 published: true
 slugID: 38
 layout: reel
-title: Oyo Boy Sotto & Kristine Hermosa Save the Date
-image-large: 'https://i.vimeocdn.com/video/594428825_750x500.jpg'
-image-small: 'https://i.vimeocdn.com/video/594413458_1920x700.jpg'
+title: Oyo Boy Sotto & Kristine Hermosa Save The Date
+image-large: 'https://i.vimeocdn.com/video/588724944_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594428825_750x500.jpg'
 link: 'https://player.vimeo.com/video/180416583'
 type: celebrity
 section-rank: 2
