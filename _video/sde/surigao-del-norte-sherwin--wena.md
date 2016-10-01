@@ -3,8 +3,8 @@ published: true
 slugID: 33
 layout: reel
 title: 'Surigao del Norte: Sherwin + Wena'
-image-large: 'https://i.vimeocdn.com/video/589193796_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/589193796_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594791986_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594791986_750x500.jpg'
 link: 'https://player.vimeo.com/video/85017511'
 type: sde
 section-rank: 32
