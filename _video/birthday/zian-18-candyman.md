@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: Zian 18 Candyman Music Video
-image-large: 'https://i.vimeocdn.com/video/590412509_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/590412509_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594855253_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594855253_750x500.jpg'
 link: 'https://player.vimeo.com/video/181743141'
 type: birthday
 section-rank: 2
