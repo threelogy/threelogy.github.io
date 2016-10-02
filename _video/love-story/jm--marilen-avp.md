@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: JM & Marilen AVP
-image-large: 'https://i.vimeocdn.com/video/590438667_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/590438667_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594852018_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594852018_750x500.jpg'
 link: 'https://player.vimeo.com/video/181757569'
 type: love-story
 section-rank: 6
