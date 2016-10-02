@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: Water
-image-large: 'https://i.vimeocdn.com/video/589406732_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/589406732_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594853835_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594853835_750x500.jpg'
 link: 'https://player.vimeo.com/video/160706907'
 type: international
 section-rank: 7
