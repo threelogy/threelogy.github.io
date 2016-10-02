@@ -1,9 +1,9 @@
 ---
 published: true
 layout: reel
-title: Bryan & Aizel Save the Date
-image-large: 'https://i.vimeocdn.com/video/589493291_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/589493291_750x500.jpg'
+title: Bryan & Aizel Save The Date
+image-large: 'https://i.vimeocdn.com/video/594849407_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594849407_750x500.jpg'
 link: 'https://player.vimeo.com/video/121437335'
 type: pre-wedding
 section-rank: 4
