@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: Emman & Paula Threelogy's The Love Story
-image-large: 'https://i.vimeocdn.com/video/589834846_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/589834846_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594852281_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594852281_750x500.jpg'
 link: 'https://player.vimeo.com/video/99181529'
 type: love-story
 section-rank: 5
