@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: Banjo & Sarah Save the Date
-image-large: 'https://i.vimeocdn.com/video/589599807_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/589599807_750x500.jpg'
+image-large: 'https://i.vimeocdn.com/video/594848701_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/594848701_750x500.jpg'
 link: 'https://player.vimeo.com/video/181036091'
 type: pre-wedding
 section-rank: 6
