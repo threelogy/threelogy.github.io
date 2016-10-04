@@ -2,7 +2,7 @@
 published: true
 slugID: 5
 layout: reel
-title: Jojo Oconer & Ciara Sotto
+title: 'Jojo Oconer & Ciara Sotto (Marco Polo Club) '
 image-large: 'https://i.vimeocdn.com/video/594415671_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594415671_750x500.jpg'
 link: 'https://player.vimeo.com/video/180418857'
