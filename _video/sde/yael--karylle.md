@@ -2,7 +2,7 @@
 published: true
 slugID: 3
 layout: reel
-title: Yael & Karylle
+title: 'Yael & Karylle (San Antonio de Padua) '
 image-large: 'https://i.vimeocdn.com/video/594768591_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594768591_750x500.jpg'
 link: 'https://player.vimeo.com/video/89737290'
