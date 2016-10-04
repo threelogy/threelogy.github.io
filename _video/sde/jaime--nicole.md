@@ -2,7 +2,7 @@
 published: true
 slugID: 6
 layout: reel
-title: Jaime & Nicole
+title: 'Jaime & Nicole (St. James the Great) '
 image-large: 'https://i.vimeocdn.com/video/594417492_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594417492_750x500.jpg'
 link: 'https://player.vimeo.com/video/181036095'
