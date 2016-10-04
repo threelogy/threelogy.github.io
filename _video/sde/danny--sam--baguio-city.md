@@ -2,7 +2,7 @@
 published: true
 slugid: 37
 layout: reel
-title: 'Danny + Sam : Baguio City'
+title: Danny + Sam (Baguio City)
 image-large: 'https://i.vimeocdn.com/video/594795700_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594795700_750x500.jpg'
 link: 'https://player.vimeo.com/video/149873167'
