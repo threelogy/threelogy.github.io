@@ -2,7 +2,7 @@
 published: true
 slugID: 10
 layout: reel
-title: Justin & Isabel
+title: 'Justin & Isabel (Chapel on the Hill) '
 image-large: 'https://i.vimeocdn.com/video/594421467_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594421467_750x500.jpg'
 link: 'https://player.vimeo.com/video/180399040'
