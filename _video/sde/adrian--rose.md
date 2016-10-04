@@ -2,7 +2,7 @@
 published: true
 slugID: 35
 layout: reel
-title: Adrian & Rose
+title: 'Adrian & Rose (Angel Fields) '
 image-large: 'https://i.vimeocdn.com/video/594795594_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594795594_750x500.jpg'
 link: 'https://player.vimeo.com/video/65567247'
