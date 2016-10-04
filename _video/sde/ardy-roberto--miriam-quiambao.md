@@ -2,7 +2,7 @@
 published: true
 slugID: 2
 layout: reel
-title: Ardy Roberto + Miriam Quiambao
+title: Ardy Roberto + Miriam Quiambao (Ville Sommet)
 image-large: 'https://i.vimeocdn.com/video/594411338_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594411338_750x500.jpg'
 link: 'https://player.vimeo.com/video/90071278'
