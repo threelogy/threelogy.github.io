@@ -2,7 +2,7 @@
 published: true
 slugID: 19
 layout: reel
-title: Edward & Roberta
+title: 'Edward & Roberta (Amanpulo) '
 image-large: 'https://i.vimeocdn.com/video/594776919_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594776919_750x500.jpg'
 link: 'https://player.vimeo.com/video/181036094'
