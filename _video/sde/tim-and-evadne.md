@@ -2,7 +2,7 @@
 published: true
 slugID: 21
 layout: reel
-title: Tim and Evadne
+title: 'Tim and Evadne (United Evangelical Church of Malabon) '
 image-large: 'https://i.vimeocdn.com/video/594787739_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594787739_750x500.jpg'
 link: 'https://player.vimeo.com/video/121169173'
