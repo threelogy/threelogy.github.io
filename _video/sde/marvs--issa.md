@@ -2,7 +2,7 @@
 published: true
 slugID: 14
 layout: reel
-title: Marvs + Issa
+title: 'Marvs + Issa (Punta Fuego) '
 image-large: 'https://i.vimeocdn.com/video/594775935_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594775935_750x500.jpg'
 link: 'https://player.vimeo.com/video/119131580'
