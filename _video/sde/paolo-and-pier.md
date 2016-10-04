@@ -2,7 +2,7 @@
 published: true
 slugID: 17
 layout: reel
-title: Paolo and Pier
+title: 'Paolo and Pier (Santuario de San Antonio) '
 image-large: 'https://i.vimeocdn.com/video/594776813_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594776813_750x500.jpg'
 link: 'https://player.vimeo.com/video/121169172'
