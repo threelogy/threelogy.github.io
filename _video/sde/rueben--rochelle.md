@@ -2,7 +2,7 @@
 published: true
 slugID: 15
 layout: reel
-title: Rueben & Rochelle
+title: 'Rueben & Rochelle (San Agustin Church) '
 image-large: 'https://i.vimeocdn.com/video/594776224_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594776224_750x500.jpg'
 link: 'https://player.vimeo.com/video/129134521'
