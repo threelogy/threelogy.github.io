@@ -2,7 +2,7 @@
 published: true
 slugID: 24
 layout: reel
-title: Mike & Tricia
+title: 'Mike & Tricia (Punta Fuego) '
 image-large: 'https://i.vimeocdn.com/video/594788379_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594788379_750x500.jpg'
 link: 'https://player.vimeo.com/video/180405920'
