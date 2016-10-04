@@ -2,7 +2,7 @@
 published: true
 slugID: 22
 layout: reel
-title: 'Emman & Paula : SDE'
+title: 'Emman & Paula - SDE (Grand Canyon, Clark Field, Pampanga) '
 image-large: 'https://i.vimeocdn.com/video/594787961_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594787961_750x500.jpg'
 link: 'https://player.vimeo.com/video/104519020'
