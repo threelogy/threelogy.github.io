@@ -11,6 +11,7 @@ link: 'https://player.vimeo.com/video/184697721'
 This is just so beautiful, it gave me goosies! ❤ :)
 
 For bookings, send us an email or call us at +63 2 4344428
+
 Email: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
