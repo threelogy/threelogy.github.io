@@ -8,8 +8,10 @@ section-rank: 12
 image-large: 'https://i.vimeocdn.com/video/601401038_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/601401038_750x500.jpg'
 ---
+TV host Mariel Padilla on pregnancy. :) 
+
 For bookings, send us an email or call us at +63 2 4344428
 
 Email: inquiry@threelogyvideo.com
 
-Thank you for watching! :)
+Thank you for watching! 
