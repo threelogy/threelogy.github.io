@@ -1,6 +1,6 @@
 ---
 published: true
-title: Miguel & Melanie - Save the Date
+title: Miguel & Melanie - AVP
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/606413243_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/606413243_750x500.jpg'
