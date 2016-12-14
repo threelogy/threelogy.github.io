@@ -18,6 +18,4 @@ To Mart & Lauren, thank you for choosing us to be a part of your love story! We 
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
-http://www.threelogyvideo.com/
-
 Thank you for watching!
