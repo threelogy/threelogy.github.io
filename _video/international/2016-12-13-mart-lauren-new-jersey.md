@@ -8,10 +8,16 @@ link: 'https://player.vimeo.com/video/195241720'
 type: international
 section-rank: 9
 ---
-Another beautiful wedding full of love & happiness to share with you all. :) 
+A lot of things happened prior to Mart & Lauren’s big day to the point where you feel like you are in a teleserye (tv series) and what’s currently going on is not real.
 
-For bookings, send us an email or call us at +63 2 4344428
+In the end, everything went as planned and the couple & all their friends & family couldn’t be happier. After all, love always wins.
 
-Email: inquiry@threelogyvideo.com
+This is the coldest place we have been to for work, just -2 degrees ;) …but the couple’s love for each other & everyone around is enough to keep us all warm & fuzzy.
 
-Thank you for watching! :)
+To Mart & Lauren, thank you for choosing us to be a part of your love story! We feel so blessed to have covered your special day! Best wishes! <3
+
+For bookings, send us an email at: inquiry@threelogyvideo.com
+
+http://www.threelogyvideo.com/
+
+Thank you for watching!
