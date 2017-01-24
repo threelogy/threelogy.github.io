@@ -8,7 +8,7 @@ link: 'https://player.vimeo.com/video/198481066'
 type: sde
 section-rank: 55
 ---
-To Daniel & KIm, our best wishes! :)
+To Daniel & Kim, our best wishes! :)
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
