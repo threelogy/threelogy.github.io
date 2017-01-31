@@ -2,12 +2,12 @@
 published: true
 slugID: 32
 layout: reel
-title: Vincent+Eva
+title: Vincent and Eva
 image-large: 'https://i.vimeocdn.com/video/594791445_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594791445_750x500.jpg'
 link: 'https://player.vimeo.com/video/144706825'
 type: sde
-section-rank: 31
+section-rank: 28
 ---
 Check out the fun & emotional wedding film of Vincent & Eva. :) 
 
