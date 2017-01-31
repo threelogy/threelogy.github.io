@@ -11,8 +11,8 @@ section-rank: 4
 ---
 Here is Philip & April’s heart-warming wedding video. Their first dance as a married couple is really nice. Check it out. :) 
 
-For bookings, send us an email or call us at +63 2 4344428
+Shot and edited by Threelogy senior cinematographers.
 
-Email: inquiry@threelogyvideo.com
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
