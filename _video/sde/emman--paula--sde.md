@@ -7,7 +7,7 @@ image-large: 'https://i.vimeocdn.com/video/594787961_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594787961_750x500.jpg'
 link: 'https://player.vimeo.com/video/104519020'
 type: sde
-section-rank: 21
+section-rank: 23
 ---
 One thing we learned about this couple is that they don’t like videos. In fact, they don’t like videos so much that they only asked us to make a Save-the-Date, an Engagement and an SDE for their wedding day. Just three. Told you don’t like videos. 😉
 
@@ -17,8 +17,6 @@ Working with these two is an absolute breeze. They know what they want but they 
 
 So, to our beautiful bride Paula and equally handsome balladeer Emman, Congratulations and Best Wishes. Cheers!!! :) 
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
