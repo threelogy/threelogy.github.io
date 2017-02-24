@@ -3,7 +3,7 @@ published: true
 title: 'Bing & Cecille (The Sequel by Threelogy) '
 layout: reel
 type: sequel
-section-rank: 10
+section-rank: 11
 image-large: 'https://i.vimeocdn.com/video/618330959_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/618330959_750x500.jpg'
 link: 'https://player.vimeo.com/video/203756314'
