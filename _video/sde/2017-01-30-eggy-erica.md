@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Eggy & Erica '
+title: 'Eggy & Erica (January 2017) '
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/615339098_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/615339098_750x500.jpg'
