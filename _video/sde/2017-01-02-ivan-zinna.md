@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ivan & Zinna
+title: Ivan & Zinna (Angelfields) December 2016
 layout: reel
 type: sde
 section-rank: 54
