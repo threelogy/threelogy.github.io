@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Reineer & Vanessa '
+title: Reineer & Vanessa (Palazzo Verde) November 2016
 layout: reel
 type: sde
 section-rank: 52
