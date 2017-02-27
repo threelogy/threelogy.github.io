@@ -1,6 +1,6 @@
 ---
 published: true
-title: Peter & Karisia (The Sequel by Threelogy)
+title: Peter & Karisia (The Sequel by Threelogy) Feb.2017
 layout: reel
 type: sequel
 section-rank: 10
@@ -12,4 +12,4 @@ A wedding that is all about love, pure love! :)
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Thank you for watching! 
+Thank you for watching!
