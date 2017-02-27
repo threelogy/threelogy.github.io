@@ -2,7 +2,7 @@
 published: true
 slugID: 9
 layout: reel
-title: 'Paulo & Camille (Acuatico Beach Resort) '
+title: Paulo & Camille (Acuatico Beach Resort) March 2016
 image-large: 'https://i.vimeocdn.com/video/594419308_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594419308_750x500.jpg'
 link: 'https://player.vimeo.com/video/159776544'
