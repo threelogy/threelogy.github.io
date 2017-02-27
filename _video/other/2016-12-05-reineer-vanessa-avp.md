@@ -1,6 +1,6 @@
 ---
 published: true
-title: Reineer & Vanessa AVP
+title: Reineer & Vanessa AVP (Palazzo Verde) November 2016
 layout: reel
 type: other
 section-rank: 5
@@ -10,8 +10,6 @@ link: 'https://player.vimeo.com/video/193221322'
 ---
 Reineer & Vanessa - spreading love around the world! :)
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
