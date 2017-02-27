@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Jules & Yanna (Manila Cathedral/February 2017) '
+title: Jules & Yanna (Manila Cathedral) February 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/620606598_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/620606598_750x500.jpg'
