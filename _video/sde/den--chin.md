@@ -2,7 +2,7 @@
 published: true
 slugID: 13
 layout: reel
-title: 'Den & Chin (Paoay Church, Ilocos Norte) '
+title: 'Den & Chin (Paoay Church, Ilocos Norte) June 2016'
 image-large: 'https://i.vimeocdn.com/video/594425627_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594425627_750x500.jpg'
 link: 'https://player.vimeo.com/video/180726159'
