@@ -8,4 +8,8 @@ link: 'https://player.vimeo.com/video/187115981'
 type: sde
 section-rank: 39
 ---
-Sharing with you all the fun & heartwarming video of Charles & Joanna. :) <3 
+Sharing with you all the fun & heartwarming video of Charles & Joanna.
+
+For bookings, send us an email at: inquiry@threelogyvideo.com
+
+Thank you for watching! :)
