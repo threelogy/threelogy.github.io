@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Mart & Lauren (New Jersey) '
+title: Mart & Lauren (New Jersey) November 2016
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/607613900_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/607613900_750x500.jpg'
