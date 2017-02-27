@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Stan & Cha (Cebu) '
+title: Stan & Cha (Cebu) November 2016
 layout: reel
 type: sde
 section-rank: 50
@@ -15,8 +15,6 @@ A sweet & funny moment for everyone to witness.
 To Stan & Cha, thank you for choosing us to be a part of your wonderful love story!
 We wish you the best in your married life! :)
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
