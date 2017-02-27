@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Danilo & Judith '
+title: Danilo & Judith (St. Joseph Parish) September 2016
 layout: reel
 type: sde
 section-rank: 38
