@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Emmanuel & Guia (The Sequel by Threelogy) '
+title: Emmanuel & Guia (The Sequel by Threelogy) San Antonio de Padua - December 2016
 layout: reel
 type: sequel
 section-rank: 5
