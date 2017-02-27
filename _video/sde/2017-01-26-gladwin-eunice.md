@@ -1,6 +1,6 @@
 ---
 published: true
-title: Gladwin & Eunice
+title: Gladwin & Eunice (Manila Cathedral) December 2016
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/614672097_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/614672097_750x500.jpg'
