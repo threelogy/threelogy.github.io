@@ -1,7 +1,7 @@
 ---
 published: true
 title: >-
-  Bing & Cecille (The Sequel by Threelogy) Fernwood Garden Tagaytay/February
+  Bing & Cecille (The Sequel by Threelogy) Fernwood Garden Tagaytay - February
   2017
 layout: reel
 type: sequel
