@@ -1,7 +1,7 @@
 ---
 published: true
 layout: reel
-title: Mike+Karol L.A.
+title: Mike+Karol (U.S. Wedding) L.A. - February 2016
 image-large: 'https://i.vimeocdn.com/video/594790986_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594790986_750x500.jpg'
 link: 'https://player.vimeo.com/video/162793355'
