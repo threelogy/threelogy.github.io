@@ -2,7 +2,7 @@
 published: true
 slugID: 12
 layout: reel
-title: 'Andrew+Isabella (Santuario de San Antonio) '
+title: 'Andrew+Isabella (Santuario de San Antonio/January 2016) '
 image-large: 'https://i.vimeocdn.com/video/594424679_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594424679_750x500.jpg'
 link: 'https://player.vimeo.com/video/150783344'
