@@ -2,7 +2,7 @@
 published: true
 slugID: 89
 layout: reel
-title: Manuel Co Birthday Party
+title: Manuel Co Birthday Party (Edsa Shangri-La Hotel) August 2016
 image-large: 'https://i.vimeocdn.com/video/594866869_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594866869_750x500.jpg'
 link: 'https://player.vimeo.com/video/180467606'
