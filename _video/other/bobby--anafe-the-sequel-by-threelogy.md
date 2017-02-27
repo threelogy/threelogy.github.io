@@ -9,7 +9,7 @@ link: 'https://player.vimeo.com/video/180467606'
 type: other
 section-rank: 1
 ---
-Mr. Manuel Co's 90th Birthday Party! :) 
+August 8, 2016 Mr. Manuel Co's 90th Birthday Party! :) 
 
 For bookings, send us an email or call us at +63 2 4344428
 
