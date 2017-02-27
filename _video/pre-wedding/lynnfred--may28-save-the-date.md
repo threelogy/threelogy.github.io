@@ -1,7 +1,7 @@
 ---
 published: true
 layout: reel
-title: 'Lynn+Fred : May 28 Save The Date'
+title: 'Lynn+Fred : May 28, 2016 Save The Date'
 image-large: 'https://i.vimeocdn.com/video/594849199_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594849199_750x500.jpg'
 link: 'https://player.vimeo.com/video/159173101'
