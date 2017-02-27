@@ -2,7 +2,7 @@
 published: true
 slugID: 29
 layout: reel
-title: Bryan+Josan May 2016
+title: Bryan+Josan (Palazzo Verde) May 2016
 image-large: 'https://i.vimeocdn.com/video/594790280_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594790280_750x500.jpg'
 link: 'https://player.vimeo.com/video/167778097'
