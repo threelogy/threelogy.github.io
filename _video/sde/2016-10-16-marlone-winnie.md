@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Marlone & Winnie (San Agustin Church) '
+title: Marlone & Winnie (San Agustin Church) October 2016
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/597277464_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/597277464_750x500.jpg'
