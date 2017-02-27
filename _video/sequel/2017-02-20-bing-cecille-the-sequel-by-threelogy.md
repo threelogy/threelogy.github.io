@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Bing & Cecille (The Sequel by Threelogy) '
+title: Bing & Cecille (The Sequel by Threelogy) Jan.2017
 layout: reel
 type: sequel
 section-rank: 11
