@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ed and Nina (The Sequel by Threelogy)
+title: Ed and Nina (The Sequel by Threelogy) Jan.2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/616090883_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/616090883_750x500.jpg'
