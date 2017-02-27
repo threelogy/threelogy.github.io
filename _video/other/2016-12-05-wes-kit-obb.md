@@ -1,6 +1,6 @@
 ---
 published: true
-title: Wes & Kit OBB
+title: Wes & Kit OBB (Mary the Queen) November 2016
 layout: reel
 type: other
 section-rank: 4
@@ -10,8 +10,7 @@ link: 'https://player.vimeo.com/video/193311492'
 ---
 This was played at the reception when Wes & Kit was introduced. :)
 
-To have something like this for your own wedding, call or email us to inquire.
-Landline: +63 2 434 4428
+To have something like this for your own wedding, email us to inquire.
 
 Email: inquiry@threelogyvideo.com
 
