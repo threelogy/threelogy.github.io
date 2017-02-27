@@ -1,7 +1,7 @@
 ---
 published: true
 layout: reel
-title: 'Fred & Lynn in Maldives :)'
+title: 'Fred & Lynn in Maldives (January 2016) '
 image-large: 'https://i.vimeocdn.com/video/594767815_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594767815_750x500.jpg'
 link: 'https://player.vimeo.com/video/180465583'
