@@ -1,6 +1,6 @@
 ---
 published: true
-title: Daniel & Kim (Santuario de San Jose) Jan.2017
+title: Daniel & Kim (Santuario de San Jose) January 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/611515601_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/611515601_750x500.jpg'
