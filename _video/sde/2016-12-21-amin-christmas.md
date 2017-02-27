@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Amin & Christmas '
+title: Amin & Christmas (Ascott BGC) December 2016
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/609080297_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/609080297_750x500.jpg'
