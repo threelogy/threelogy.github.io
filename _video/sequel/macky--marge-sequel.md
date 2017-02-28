@@ -2,7 +2,7 @@
 published: true
 slugID: 34
 layout: reel
-title: Macky & Marge The Sequel by Threelogy
+title: Macky & Marge (The Sequel by Threelogy) January 2015
 image-large: 'https://i.vimeocdn.com/video/594865855_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594865855_750x500.jpg'
 link: 'https://player.vimeo.com/video/180472112'
@@ -13,8 +13,6 @@ You are my answered prayer. I could not imagine growing old with anyone else.  â
 
 A sweet wedding shot & edited by Threelogyâ€™s Senior Cinematographers.
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
