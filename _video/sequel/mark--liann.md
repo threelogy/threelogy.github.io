@@ -2,7 +2,7 @@
 published: true
 slugID: 33
 layout: reel
-title: Mark & Liann The Sequel by Threelogy
+title: Mark & Liann (The Sequel by Threelogy) Our Lady of Lourdes - February 2015
 image-large: 'https://i.vimeocdn.com/video/594865741_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594865741_750x500.jpg'
 link: 'https://player.vimeo.com/video/120993497'
@@ -13,8 +13,6 @@ Another one of them beautiful weddings shot & edited by our Senior Cinematograph
 
 To Mark & Lian, congratulations!!! :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching!
