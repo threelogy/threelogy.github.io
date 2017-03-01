@@ -2,7 +2,7 @@
 published: true
 slugID: 18
 layout: reel
-title: 'SDE : Oliver+Jenica (Tagaytay Highlands helipad) '
+title: 'SDE : Oliver+Jenica (Tagaytay Highlands helipad) September 2015'
 image-large: 'https://i.vimeocdn.com/video/594776885_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594776885_750x500.jpg'
 link: 'https://player.vimeo.com/video/138508519'
@@ -15,8 +15,6 @@ They have been going on endless adventures since the day they met and it’s onl
 
 To Oliver and Jenica, best wishes and may the adventures keep coming. Cheers! :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching! 
