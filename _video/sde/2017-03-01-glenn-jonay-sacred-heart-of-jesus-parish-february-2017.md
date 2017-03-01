@@ -1,6 +1,6 @@
 ---
 published: true
-title: Glenn & Jonay (Sacred Heart of Jesus Parish) February 2017
+title: Glenn & Jonai (Sacred Heart of Jesus Parish) February 2017
 layout: reel
 type: sde
 section-rank: 67
