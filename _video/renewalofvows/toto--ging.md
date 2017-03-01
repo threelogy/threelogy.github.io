@@ -1,7 +1,7 @@
 ---
 published: true
 layout: reel
-title: Toto & Ging
+title: Toto & Ging (San Agustin Church) June 2015
 image-large: 'https://i.vimeocdn.com/video/594788165_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594788165_750x500.jpg'
 link: 'https://player.vimeo.com/video/132092876'
@@ -14,8 +14,6 @@ Toto and Ging's love for one another to me is the purest kind of love there is. 
 
 Go watch & see for yourself. :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching! 
