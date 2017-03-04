@@ -2,7 +2,7 @@
 published: true
 slugID: 8
 layout: reel
-title: Jatinder & Hardeep
+title: Jatinder & Hardeep (Indian Wedding) April 2014
 image-large: 'https://i.vimeocdn.com/video/594769676_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594769676_750x500.jpg'
 link: 'https://player.vimeo.com/video/92924962'
