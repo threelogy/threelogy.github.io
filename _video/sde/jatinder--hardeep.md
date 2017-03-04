@@ -21,8 +21,6 @@ A few things we love about Indian weddings:
 
 So here’s Jatinder and Hardeep’s wedding. Enjoy! :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching! 
