@@ -2,7 +2,7 @@
 published: true
 slugID: 33
 layout: reel
-title: 'Sherwin + Wena (Surigao del Norte) '
+title: Sherwin + Wena (Surigao del Norte) January 2014
 image-large: 'https://i.vimeocdn.com/video/594791986_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594791986_750x500.jpg'
 link: 'https://player.vimeo.com/video/85017511'
@@ -19,8 +19,6 @@ And as you can see in their SDE, Agaton wasn’t enough to rain on Sherwin and W
 
 Congrats Sherwin and Wena!!! And yes, we love our job! :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching!
