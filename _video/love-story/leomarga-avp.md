@@ -1,7 +1,7 @@
 ---
 published: true
 layout: reel
-title: Leo+Marga AVP (Zambales/February 2016)
+title: Leo+Marga AVP (Zambales) February 2016)
 image-large: 'https://i.vimeocdn.com/video/594774332_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594774332_750x500.jpg'
 link: 'https://player.vimeo.com/video/164400513'
@@ -16,8 +16,6 @@ It will make you feel romantic, make you want to hold hands, cuddle and cozy up 
 
 Go watch & fall in love! 
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
