@@ -2,7 +2,7 @@
 published: true
 slugID: 4
 layout: reel
-title: Oyo Sotto & Kristine Hermosa (Club Balai Isabel)
+title: Oyo Sotto & Kristine Hermosa (Club Balai Isabel) January 2011
 image-large: 'https://i.vimeocdn.com/video/594768394_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594768394_750x500.jpg'
 link: 'https://player.vimeo.com/video/180421756'
@@ -19,8 +19,6 @@ Oyo made one request the day before the wedding, that we use Howie Day’s Colli
 
 Tin, on the other hand, wanted the SDE soundbites and vows-free. A bummer for those who weren’t there, the two did exchange some sweet and funny words that day. But like I said, they got exactly what they wanted. :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching! 
