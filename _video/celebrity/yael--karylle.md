@@ -2,15 +2,13 @@
 published: true
 slugID: 36
 layout: reel
-title: Yael & Karylle
+title: Yael & Karylle (San Antonio de Padua) March 2014
 image-large: 'https://i.vimeocdn.com/video/594768591_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594768591_750x500.jpg'
 link: 'https://player.vimeo.com/video/89737290'
 type: celebrity
 section-rank: 1
 ---
-San Antonio de Padua
-
 Angel Fileds
 
 We’ve had our fair share of celebrity weddings in the past, but from the moment we heard of Yael’s plans of having Gary V sing “Sana Maulit Muli” over and over again at the ceremony, we knew we were in for an awesome treat. And as it turned out, Yael and K will probably go down as our coolest and craziest celebrity couple to date.
@@ -23,8 +21,6 @@ I know we’ve done SDEs with the groom or the bride’s original song playing i
 
 Enjoy!!! :)
 
-For bookings, send us an email or call us at +63 2 4344428 
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching!
