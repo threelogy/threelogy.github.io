@@ -2,7 +2,7 @@
 published: true
 slugID: 7
 layout: reel
-title: 'Paolo & Kate (Madre de Dios) '
+title: Paolo & Kate (Madre de Dios) February 2011
 image-large: 'https://i.vimeocdn.com/video/594416901_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594416901_750x500.jpg'
 link: 'https://player.vimeo.com/video/180409109'
@@ -21,8 +21,6 @@ Congratulations Paolo and Kate, and see you in Vietnam soon!
 
 Cheers! :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching!
