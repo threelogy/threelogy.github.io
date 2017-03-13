@@ -2,7 +2,7 @@
 published: true
 slugID: 2
 layout: reel
-title: Ardy Roberto + Miriam Quiambao (Ville Sommet) March 2014
+title: Ardy Roberto & Miriam Quiambao (Ville Sommet) March 2014
 image-large: 'https://i.vimeocdn.com/video/594411338_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594411338_750x500.jpg'
 link: 'https://player.vimeo.com/video/90071278'
@@ -15,8 +15,6 @@ And that magic was very evident when Ardy and Miriam finally tied the knot last 
 
 To Ardy and Miriam, Cheers!!! :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching! 
