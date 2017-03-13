@@ -2,7 +2,7 @@
 published: true
 slugID: 41
 layout: reel
-title: Jaime & Nicole
+title: Jaime Delos Angeles & Nicole Hernandez (St. James) January 2011
 image-large: 'https://i.vimeocdn.com/video/594417492_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594417492_750x500.jpg'
 link: 'https://player.vimeo.com/video/181036095'
@@ -15,8 +15,6 @@ Her wedding video with her handsome groom, Jaime is so cool that it will make yo
 
 We shot & edited this some 5 years ago. It’s a classic!
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching!
