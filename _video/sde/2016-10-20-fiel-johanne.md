@@ -1,6 +1,6 @@
 ---
 published: true
-title: Fiel & Johanne
+title: Fiel & Johanne (Ville Sommet) December 2012
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/597855444_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/597855444_750x500.jpg'
@@ -12,7 +12,6 @@ One cool wedding from year 2012, simply beautiful!
 
 P.S. Ang gwapo ni Papa P.! Haha! Sorry I had to say it, kilig much. :D
 
-For bookings, send us an email or call us at +63 2 4344428
-Email: inquiry@threelogyvideo.com
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Thank you for watching! :)
+Thank you for watching!
