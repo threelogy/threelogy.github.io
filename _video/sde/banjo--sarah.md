@@ -2,15 +2,13 @@
 published: true
 slugID: 16
 layout: reel
-title: 'Banjo & Sarah (Transfiguration Chapel of Caleruega) '
+title: Banjo & Sarah (Transfiguration Chapel of Caleruega) March 2009
 image-large: 'https://i.vimeocdn.com/video/589598563_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/589598563_750x500.jpg'
 link: 'https://player.vimeo.com/video/181036092'
 type: sde
 section-rank: 15
 ---
-The Transfiguration Chapel, Caleruega
-
 Hacienda Isabella
 
 Alright, knowing that these guys head Steak Productions, we kinda expected their wedding to be a bit different than usual. And guess what, we didn’t go home disappointed.
@@ -25,10 +23,8 @@ Their DJ kept the floor full to the brim … groovin’.
 
 And their SDE song, a motown-hit by Stevie Wonder, quite honestly the most difficult song we ever used in an SDE. But based on everyone’s reaction, I think we pulled it off. 😉
 
-Here’s Banjo and Sarah’s wedding – signed, sealed, delivered! :)
+Here’s Banjo and Sarah’s wedding – signed, sealed, delivered! 
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
