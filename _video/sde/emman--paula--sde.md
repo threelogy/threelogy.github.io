@@ -2,7 +2,7 @@
 published: true
 slugID: 22
 layout: reel
-title: 'Emman & Paula - SDE (Grand Canyon, Clark Field, Pampanga) '
+title: 'Emman & Paula - SDE (Grand Canyon, Clark Field, Pampanga) August 2014'
 image-large: 'https://i.vimeocdn.com/video/594787961_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594787961_750x500.jpg'
 link: 'https://player.vimeo.com/video/104519020'
@@ -19,4 +19,4 @@ So, to our beautiful bride Paula and equally handsome balladeer Emman, Congratul
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Thank you for watching! :)
+Thank you for watching! 
