@@ -1,7 +1,7 @@
 ---
 published: true
 layout: reel
-title: Emman and Paula Save The Date
+title: 'Emman and Paula Save The Date (June 2014) '
 image-large: 'https://i.vimeocdn.com/video/594849546_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594849546_750x500.jpg'
 link: 'https://player.vimeo.com/video/100151537'
@@ -16,8 +16,6 @@ Working with these two is an absolute breeze. They know what they want but they 
 
 So, to our beautiful bride Paula and equally handsome balladeer Emman, Congratulations and Best Wishes. Cheers!!! :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching!
