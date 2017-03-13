@@ -2,7 +2,7 @@
 published: true
 slugID: 35
 layout: reel
-title: 'Adrian & Rose (Angel Fields) '
+title: Adrian & Rose (Angel Fields) May 2013
 image-large: 'https://i.vimeocdn.com/video/594795594_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594795594_750x500.jpg'
 link: 'https://player.vimeo.com/video/65567247'
@@ -15,8 +15,6 @@ Rose is one of the finest female videographers around. She’s been with us for 
 
 Their SDE. :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching! 
