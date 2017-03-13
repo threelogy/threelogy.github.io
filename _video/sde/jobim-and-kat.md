@@ -2,7 +2,7 @@
 published: true
 slugID: 27
 layout: reel
-title: 'Jobim and Kat (Santuario de San Antonio) '
+title: Jobim and Kat (Santuario de San Antonio) December 2014
 image-large: 'https://i.vimeocdn.com/video/594789828_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594789828_750x500.jpg'
 link: 'https://player.vimeo.com/video/121096807'
@@ -13,8 +13,6 @@ section-rank: 26
 
 Funny how true this is. But yeah, Bruce Lee couldn’t be more right. And that flame, you’ll never know how it’ll start. It can start catching fire at a coffee shop, in school, a club or the emergency room of the The Medical City. You won’t know! :)
 
-For bookings, send us an email or call us at +63 2 4344428
+For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Email: inquiry@threelogyvideo.com
-
-Thank you for watching! :)
+Thank you for watching!
