@@ -8,7 +8,7 @@ image-large: 'https://i.vimeocdn.com/video/622060484_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/622060484_750x500.jpg'
 link: 'https://player.vimeo.com/video/207074907'
 type: sde
-section-rank: 77
+section-rank: 81
 ---
 Marc and Danica's heartfelt wedding vows made all of us laugh and cry happy tears. It was gorgeous and moving. 😢❤
 
