@@ -1,6 +1,6 @@
 ---
 published: true
-title: Wilson & Michelle (May 2017)
+title: 'Wilson & Michelle (St. MIchael the Archangel Chapel, BGC) May 2017'
 layout: reel
 type: sde
 section-rank: 85
