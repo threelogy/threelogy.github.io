@@ -1,6 +1,6 @@
 ---
 published: true
-title: The Sonogram (A Threelogy Film) June 2017
+title: The Sonogram (New Jersey) May 2017
 layout: reel
 type: other
 section-rank: 10
