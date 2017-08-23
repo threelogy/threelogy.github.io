@@ -8,7 +8,7 @@ link: 'https://player.vimeo.com/video/230562267'
 type: sde
 section-rank: 89
 ---
-Here is Kid and Sandee's wedding with a rock and roll vibe. Love it!
+Here is Kid and Sandee's wedding film with a rock and roll vibe. Love it!
 
 For bookings, email us at: inquiry@threelogyvideo.com
 
