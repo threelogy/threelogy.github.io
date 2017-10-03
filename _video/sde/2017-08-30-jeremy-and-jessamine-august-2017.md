@@ -1,6 +1,6 @@
 ---
 published: true
-title: Jeremy and Jessamine (August 2017)
+title: Jeremy and Jessamine (St. Benedict Parish) August 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/652495131_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/652495131_750x500.jpg'
