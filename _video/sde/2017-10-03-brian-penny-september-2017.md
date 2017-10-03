@@ -1,0 +1,13 @@
+---
+published: true
+title: Brian & Penny (September 2017)
+layout: reel
+image-large: 'https://i.vimeocdn.com/video/658656739_1920x700.jpg'
+image-small: 'https://i.vimeocdn.com/video/658656739_750x500.jpg'
+link: 'https://player.vimeo.com/video/236522026'
+type: sde
+section-rank: 93
+---
+"Just being with you makes me happy already". -Brian to Penny :) 
+
+Email us at: inquiry@threelogyvideo.com
