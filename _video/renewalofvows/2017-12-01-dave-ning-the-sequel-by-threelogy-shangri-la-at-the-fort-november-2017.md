@@ -7,4 +7,6 @@ link: 'https://player.vimeo.com/video/243251984'
 type: renewalofvows
 section-rank: 9
 ---
+I always love to see 2 older people still in love with each other, it just goes to show that true love exist. Here's sharing with you Dave and Ning's wedding renewal SDE. Enjoy! 
+
 Email us at: inquiry@threelogyvideo.com
