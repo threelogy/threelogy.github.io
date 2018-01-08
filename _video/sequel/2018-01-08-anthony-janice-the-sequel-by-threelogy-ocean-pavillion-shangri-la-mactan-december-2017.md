@@ -10,4 +10,6 @@ link: 'https://player.vimeo.com/video/249475872'
 type: sequel
 section-rank: 22
 ---
+Our last couple for the year 2017. The wedding was held on the last day of the year and it was intimate and lovely. We feel honored to have witnessed it and be a part of. 😊❤️
+
 Email us at: inquiry@threelogyvideo.com
