@@ -8,4 +8,9 @@ link: 'https://player.vimeo.com/video/251465656'
 type: sde
 section-rank: 104
 ---
+"I love you because you find joy in everything, you're beautiful, compassionate, hilarious and utterly unpredictable" 
+                                                                                                                                                  -Chris to Dette-
+
+Such sweet words from the groom to his bride. ❤️❤️❤️
+
 Email us at: inquiry@threelogyvideo.com
