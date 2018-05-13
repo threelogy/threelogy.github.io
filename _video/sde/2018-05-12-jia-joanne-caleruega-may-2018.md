@@ -9,5 +9,6 @@ type: sde
 section-rank: 110
 ---
 Check out this beautiful and heartfelt wedding of our Singaporean and Filipina couple, Jia and Joanne.❤️
+A very special and intimate celebration with 22 people in attendance.
 
 Email us at: inquiry@threelogyvideo.com
