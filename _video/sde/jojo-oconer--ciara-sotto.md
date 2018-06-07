@@ -5,7 +5,7 @@ layout: reel
 title: Jojo Oconer & Ciara Sotto (Marco Polo Club) January 2010
 image-large: 'https://i.vimeocdn.com/video/594415671_1920x700.jpg'
 image-small: >-
-  https://res.cloudinary.com/threelogyvideo/image/upload/v1528381384/sde/Ciara.jpg
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528383153/sde/Ciara_2.jpg
 link: tdTc_nQEXTY?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: sde
 section-rank: 4
