@@ -5,7 +5,7 @@ layout: reel
 title: Bryan+Josan (Palazzo Verde) May 2016
 image-large: 'https://i.vimeocdn.com/video/594790280_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594790280_750x500.jpg'
-link: 'https://player.vimeo.com/video/167778097'
+link: '83j18ZJh1d0'
 type: sde
 section-rank: 28
 ---

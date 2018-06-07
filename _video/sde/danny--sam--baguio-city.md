@@ -5,7 +5,7 @@ layout: reel
 title: 'Danny + Sam (Secret Garden Bellhouse, Baguio City) December 2015'
 image-large: 'https://i.vimeocdn.com/video/594795700_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594795700_750x500.jpg'
-link: 'https://player.vimeo.com/video/149873167'
+link: 'tj1EyO-79gs'
 type: sde
 section-rank: 36
 ---

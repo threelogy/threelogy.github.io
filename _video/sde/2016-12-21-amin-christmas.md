@@ -4,7 +4,7 @@ title: Amin & Christmas (Ascott BGC) December 2016
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/609080297_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/609080297_750x500.jpg'
-link: 'https://player.vimeo.com/video/196558213'
+link: 'qrKjGbBfu4M'
 type: sde
 section-rank: 50
 ---

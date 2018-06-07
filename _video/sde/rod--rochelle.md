@@ -5,7 +5,7 @@ layout: reel
 title: Rod & Rochelle (Manila Cathedral) July 2015
 image-large: 'https://i.vimeocdn.com/video/594789572_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594789572_750x500.jpg'
-link: 'https://player.vimeo.com/video/181772911'
+link: 'tAbXc08MkXo'
 type: sde
 section-rank: 25
 ---

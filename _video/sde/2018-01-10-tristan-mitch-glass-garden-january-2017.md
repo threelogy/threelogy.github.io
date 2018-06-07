@@ -4,7 +4,7 @@ title: Tristan & Mitch (Glass Garden) January 2018
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/676461724_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/676461724_750x500.jpg'
-link: 'https://player.vimeo.com/video/250374843'
+link: 'tLfUVOiMtNw'
 type: sde
 section-rank: 102
 ---

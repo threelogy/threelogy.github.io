@@ -5,7 +5,7 @@ layout: reel
 title: Pike & Chelly (Montecito Nuvali) December 2015
 image-large: 'https://i.vimeocdn.com/video/594790073_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594790073_750x500.jpg'
-link: 'https://player.vimeo.com/video/154158323'
+link: 'GX-VdfBwi5o'
 type: sde
 section-rank: 27
 ---

@@ -6,7 +6,7 @@ type: sde
 section-rank: 85
 image-large: 'https://i.vimeocdn.com/video/642767480_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/642767480_750x500.jpg'
-link: 'https://player.vimeo.com/video/223727766'
+link: '0kaZNSZoKZQ'
 ---
 Email us at: inquiry@threelogyvideo.com
 

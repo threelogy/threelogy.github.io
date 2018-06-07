@@ -5,7 +5,7 @@ layout: reel
 title: 'SDE : Oliver+Jenica (Tagaytay Highlands helipad) September 2015'
 image-large: 'https://i.vimeocdn.com/video/594776885_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594776885_750x500.jpg'
-link: 'https://player.vimeo.com/video/138508519'
+link: 'VU8_WTjsRu4'
 type: sde
 section-rank: 17
 ---

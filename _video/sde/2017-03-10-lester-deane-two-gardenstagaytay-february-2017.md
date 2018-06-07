@@ -4,7 +4,7 @@ title: Lester & Deane (Two GardensTagaytay) February 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/622905756_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/622905756_750x500.jpg'
-link: 'https://player.vimeo.com/video/206361750'
+link: 'oM2I3OhNj5M'
 type: sde
 section-rank: 78
 ---
