@@ -5,8 +5,9 @@ layout: reel
 type: sde
 section-rank: 67
 image-large: 'https://i.vimeocdn.com/video/621110412_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/621110412_750x500.jpg'
-link: 'KTpk6KCUjv0'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528389410/sde/glenn_a.jpg
+link: KTpk6KCUjv0
 ---
 Stunning! :)
 
