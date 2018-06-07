@@ -5,8 +5,9 @@ layout: reel
 type: sde
 section-rank: 50
 image-large: 'https://i.vimeocdn.com/video/603096373_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/603096373_750x500.jpg'
-link: 'nL4XtQzHBkI'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528376467/sde/Cha_a.jpg
+link: nL4XtQzHBkI
 ---
 Too much love can be seen & felt in this wedding video, the couple just can't seem to contain their excitement & happiness that they already kissed even before the announcement was made that they are now husband & wife.
 
