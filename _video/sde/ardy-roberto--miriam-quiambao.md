@@ -4,8 +4,9 @@ slugID: 2
 layout: reel
 title: Ardy Roberto & Miriam Quiambao (Ville Sommet) March 2014
 image-large: 'https://i.vimeocdn.com/video/594411338_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594411338_750x500.jpg'
-link: 'L5cB_65NtOs?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528380061/sde/Miriam.jpg
+link: L5cB_65NtOs?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: sde
 section-rank: 1
 ---
@@ -17,4 +18,4 @@ To Ardy and Miriam, Cheers!!! :)
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Thank you for watching! 
+Thank you for watching!

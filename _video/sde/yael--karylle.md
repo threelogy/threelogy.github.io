@@ -4,8 +4,9 @@ slugID: 3
 layout: reel
 title: Yael & Karylle (San Antonio de Padua) March 2014
 image-large: 'https://i.vimeocdn.com/video/594768591_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594768591_750x500.jpg'
-link: 'DnSux2P_BJI?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528380560/sde/Karylle_1.jpg
+link: DnSux2P_BJI?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: sde
 section-rank: 2
 featured: true
