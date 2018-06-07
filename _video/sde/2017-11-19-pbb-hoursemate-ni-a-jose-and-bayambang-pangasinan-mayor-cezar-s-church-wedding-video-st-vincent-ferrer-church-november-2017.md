@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: >-
   PBB housemate Niña Jose and Bayambang Pangasinan Mayor Cezar’s Church Wedding
   Video (St. Vincent Ferrer Church) November 2017
