@@ -3,8 +3,9 @@ published: true
 title: Jules & Yanna (Manila Cathedral) February 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/620606598_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/620606598_750x500.jpg'
-link: 'N_bf8ZEHEjo'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528389242/sde/jules_a.jpg
+link: N_bf8ZEHEjo
 type: sde
 section-rank: 64
 ---
