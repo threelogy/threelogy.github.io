@@ -1,13 +1,18 @@
 <div id="reel-specific">
     <div id="video" class="container-fluid no-gutter">
-            <div id="video-bg" style="background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url('{{ page.image-large }}')">
-                <div class="video-button-container">
-                    <img id="play-button" class="video-button center-block" src="/img/assets/video-button.png"/>
-                </div>
-            </div>
-            <div class="iframe-video-container">
+            <!--<div id="video-bg" style="background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url('{{ page.image-large }}')">-->
+                <!--<div class="video-button-container">-->
+                    <!--<img id="play-button" class="video-button center-block" src="/img/assets/video-button.png"/>-->
+                <!--</div>-->
+            <!--</div>-->
+            <!--<div class="iframe-video-container">-->
                 <!--<iframe id="vimeo-video" class="iframe-video" src='https://player.vimeo.com/video/{{ page.vimeo-id }}/' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>-->
-            </div>
+            <!--</div>-->
+
+        <div class="iframe-video-container">
+            <iframe src="//www.youtube.com/embed/{{ page.link }}" frameborder="0" width="100%" height="100%"></iframe>
+        </div>
+
     </div>
 
     <div class="video-description-container container">
