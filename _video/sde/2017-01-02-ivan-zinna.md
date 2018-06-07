@@ -5,8 +5,9 @@ layout: reel
 type: sde
 section-rank: 54
 image-large: 'https://i.vimeocdn.com/video/610543675_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/610543675_750x500.jpg'
-link: 'dRDPAa0PtyQ'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528388489/sde/ivan.jpg
+link: dRDPAa0PtyQ
 ---
 Ivan & Zinna's vow touched my heart & made me cry. I felt the sincerity & was moved by it. Do watch & feel the love! 
 
