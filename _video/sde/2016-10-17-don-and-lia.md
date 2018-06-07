@@ -1,10 +1,11 @@
 ---
 published: true
-title: Don and Lia (St. Alphonsus Mary de Liguori Parish) June 2016
+title: Don & Lia (St. Alphonsus Mary de Liguori Parish) June 2016
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/597380364_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/597380364_750x500.jpg'
-link: 'SSlZgegHJSI'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528387275/sde/Don_a.jpg
+link: SSlZgegHJSI
 type: sde
 section-rank: 41
 ---
