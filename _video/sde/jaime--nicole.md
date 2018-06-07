@@ -5,7 +5,7 @@ layout: reel
 title: Jaime & Nicole (St. James the Great) January 2011
 image-large: 'https://i.vimeocdn.com/video/594417492_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594417492_750x500.jpg'
-link: 'https://player.vimeo.com/video/181036095'
+link: 'pDsIjlrgSqg?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
 type: sde
 section-rank: 5
 ---

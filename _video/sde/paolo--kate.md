@@ -5,7 +5,7 @@ layout: reel
 title: Paolo & Kate (Madre de Dios) February 2011
 image-large: 'https://i.vimeocdn.com/video/594416901_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594416901_750x500.jpg'
-link: 'https://player.vimeo.com/video/180409109'
+link: '_doJc9QAJ2Y'
 type: sde
 section-rank: 6
 featured: true
