@@ -3,8 +3,9 @@ published: true
 title: Tristan & Mitch (Glass Garden) January 2018
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/676461724_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/676461724_750x500.jpg'
-link: 'tLfUVOiMtNw'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528392928/sde/tristan_a.jpg
+link: tLfUVOiMtNw
 type: sde
 section-rank: 102
 ---
