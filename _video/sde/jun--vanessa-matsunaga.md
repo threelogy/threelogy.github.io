@@ -4,8 +4,9 @@ slugID: 11
 layout: reel
 title: Jun Sunga & Vanessa Matsunaga (Bellarocca) November 2010
 image-large: 'https://i.vimeocdn.com/video/594423362_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594423362_750x500.jpg'
-link: 'HuGyv0y0Glk'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528383438/sde/Jun_1.jpg
+link: HuGyv0y0Glk
 type: sde
 section-rank: 10
 ---
