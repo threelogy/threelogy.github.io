@@ -5,7 +5,7 @@ layout: reel
 title: Banjo & Sarah Save The Date
 image-large: 'https://i.vimeocdn.com/video/594848701_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594848701_750x500.jpg'
-link: 'https://player.vimeo.com/video/181036091'
+link: '2nuuWWTMjC8?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
 type: celebrity
 section-rank: 7
 ---

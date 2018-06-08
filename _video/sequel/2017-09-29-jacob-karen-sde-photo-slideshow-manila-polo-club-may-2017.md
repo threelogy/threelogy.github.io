@@ -4,7 +4,7 @@ title: Jacob & Karen (SDE Photo Slideshow) Manila Polo Club - May 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/657788858_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/657788858_750x500.jpg'
-link: 'https://player.vimeo.com/video/235696901'
+link: 'X5puhQmIc50'
 type: sequel
 section-rank: 14
 ---

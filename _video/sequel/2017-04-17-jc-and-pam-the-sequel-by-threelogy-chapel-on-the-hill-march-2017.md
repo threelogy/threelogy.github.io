@@ -4,7 +4,7 @@ title: JC and Pam (The Sequel by Threelogy) Chapel on the Hill - March 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/629530863_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/629530863_750x500.jpg'
-link: 'https://player.vimeo.com/video/213198653'
+link: 'ECms0EGbCmc'
 type: sequel
 section-rank: 12
 ---

@@ -6,7 +6,7 @@ title: >-
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/697162577_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/697162577_750x500.jpg'
-link: 'https://player.vimeo.com/video/266732971'
+link: 'Jisjki7E-SA'
 type: sequel
 section-rank: 24
 ---

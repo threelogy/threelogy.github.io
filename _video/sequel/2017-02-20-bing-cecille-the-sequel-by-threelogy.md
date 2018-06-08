@@ -8,7 +8,7 @@ type: sequel
 section-rank: 11
 image-large: 'https://i.vimeocdn.com/video/618330959_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/618330959_750x500.jpg'
-link: 'https://player.vimeo.com/video/203756314'
+link: 'v9ejVIetaRk'
 ---
 A beautiful wedding shot & edited by our The Sequel team.
 

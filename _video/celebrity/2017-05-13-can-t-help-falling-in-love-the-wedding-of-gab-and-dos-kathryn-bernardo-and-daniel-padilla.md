@@ -4,7 +4,7 @@ title: >-
   Can’t Help Falling In Love (The wedding of Gab and Dos) Kathryn Bernardo and
   Daniel Padilla
 layout: reel
-link: 'https://player.vimeo.com/video/210226750'
+link: 'rBolBrVi7vk?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
 type: celebrity
 section-rank: 14
 image-large: 'https://i.vimeocdn.com/video/634676628_1920x700.jpg'

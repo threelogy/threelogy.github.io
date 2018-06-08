@@ -4,7 +4,7 @@ title: Ed and Nina (The Sequel by Threelogy) Santuario de San Jose - January 201
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/616090883_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/616090883_750x500.jpg'
-link: 'https://player.vimeo.com/video/202077172'
+link: 'NLaeIhvOqxM'
 type: sequel
 section-rank: 9
 ---

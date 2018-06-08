@@ -4,7 +4,7 @@ title: David & Rani (The Sequel by Threelogy) BNS Chapel Phil.Marines - April 20
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/697537128_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/697537128_750x500.jpg'
-link: 'https://player.vimeo.com/video/267078843'
+link: 'docW31azBuY'
 type: sequel
 section-rank: 25
 ---
