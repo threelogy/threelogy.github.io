@@ -2,10 +2,11 @@
 published: true
 slugid: 37
 layout: reel
-title: 'Danny + Sam (Secret Garden Bellhouse, Baguio City) December 2015'
+title: 'Danny & Sam (Secret Garden Bellhouse, Baguio City) December 2015'
 image-large: 'https://i.vimeocdn.com/video/594795700_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594795700_750x500.jpg'
-link: 'tj1EyO-79gs'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528393125/sde/danny_a.jpg
+link: tj1EyO-79gs
 type: sde
 section-rank: 36
 ---
@@ -21,4 +22,4 @@ Again, congrats Danny and Sam! See you in Baguio, or anywhere, soon. :)
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Thank you for watching! 
+Thank you for watching!

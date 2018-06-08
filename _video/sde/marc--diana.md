@@ -4,8 +4,9 @@ slugID: 30
 layout: reel
 title: Marc & Diana (Balesin Island) July 2016
 image-large: 'https://i.vimeocdn.com/video/594790491_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594790491_750x500.jpg'
-link: 'h5Z_vUlEWWA'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528386082/sde/marc_1.jpg
+link: h5Z_vUlEWWA
 type: sde
 section-rank: 29
 ---

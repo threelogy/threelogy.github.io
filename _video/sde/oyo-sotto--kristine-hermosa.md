@@ -4,8 +4,9 @@ slugID: 4
 layout: reel
 title: Oyo Sotto & Kristine Hermosa (Club Balai Isabel) January 2011
 image-large: 'https://i.vimeocdn.com/video/594768394_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594768394_750x500.jpg'
-link: 'Wbg0m8lCYng?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528380807/sde/Kristine_1.jpg
+link: Wbg0m8lCYng?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: sde
 section-rank: 3
 ---
@@ -21,4 +22,4 @@ Tin, on the other hand, wanted the SDE soundbites and vows-free. A bummer for th
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Thank you for watching! 
+Thank you for watching!

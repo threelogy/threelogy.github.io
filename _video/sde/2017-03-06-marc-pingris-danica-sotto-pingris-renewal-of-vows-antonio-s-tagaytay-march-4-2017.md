@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: >-
   Marc Pingris & Danica Sotto-Pingris Renewal of Vows (Antonio’s Tagaytay) March
   4, 2017

@@ -2,10 +2,11 @@
 published: true
 slugID: 29
 layout: reel
-title: Bryan+Josan (Palazzo Verde) May 2016
+title: Bryan & Josan (Palazzo Verde) May 2016
 image-large: 'https://i.vimeocdn.com/video/594790280_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594790280_750x500.jpg'
-link: '83j18ZJh1d0'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528385691/sde/bryan_a.jpg
+link: 83j18ZJh1d0
 type: sde
 section-rank: 28
 ---

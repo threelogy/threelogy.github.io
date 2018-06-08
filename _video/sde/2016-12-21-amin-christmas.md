@@ -3,8 +3,9 @@ published: true
 title: Amin & Christmas (Ascott BGC) December 2016
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/609080297_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/609080297_750x500.jpg'
-link: 'qrKjGbBfu4M'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528388367/sde/Amin_a.jpg
+link: qrKjGbBfu4M
 type: sde
 section-rank: 50
 ---

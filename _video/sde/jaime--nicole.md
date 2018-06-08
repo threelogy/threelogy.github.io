@@ -4,8 +4,9 @@ slugID: 6
 layout: reel
 title: Jaime & Nicole (St. James the Great) January 2011
 image-large: 'https://i.vimeocdn.com/video/594417492_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594417492_750x500.jpg'
-link: 'pDsIjlrgSqg?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528381635/sde/Nicole_a.jpg
+link: pDsIjlrgSqg?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: sde
 section-rank: 5
 ---
@@ -17,4 +18,4 @@ We shot & edited this some 5 years ago. It’s a classic!
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Thank you for watching! 
+Thank you for watching!
