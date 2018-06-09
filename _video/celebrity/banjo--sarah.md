@@ -2,10 +2,12 @@
 published: true
 slugID: 46
 layout: reel
-title: Banjo & Sarah
+title: >-
+  Banjo Albano & MTV VJ Sarah Meier (Transfiguration Chapel of Caleruega) March
+  2009
 image-large: 'https://i.vimeocdn.com/video/589598563_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/589598563_750x500.jpg'
-link: 'SqMIfdLiP_A?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
+link: SqMIfdLiP_A?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: celebrity
 section-rank: 8
 ---
@@ -29,6 +31,6 @@ Here’s Banjo and Sarah’s wedding – signed, sealed, delivered! :)
 
 For bookings, send us an email or call us at +63 2 4344428
 
-Email: inquiry@threelogyvideo.com
+Email us at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
