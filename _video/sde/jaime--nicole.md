@@ -2,10 +2,10 @@
 published: true
 slugID: 6
 layout: reel
-title: Jaime & Nicole (St. James the Great) January 2011
+title: Jaime Delos Angeles & Nicole Hernandez  (St. James the Great) January 2011
 image-large: 'https://i.vimeocdn.com/video/594417492_1920x700.jpg'
 image-small: >-
-  https://res.cloudinary.com/threelogyvideo/image/upload/v1528381635/sde/Nicole_a.jpg
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528574950/Nicole_2.jpg
 link: pDsIjlrgSqg?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: sde
 section-rank: 5
