@@ -2,10 +2,10 @@
 published: true
 slugID: 45
 layout: reel
-title: Banjo & Sarah Save The Date
+title: Banjo Albano & MTV VJ Sarah Meier Save The Date
 image-large: 'https://i.vimeocdn.com/video/594848701_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594848701_750x500.jpg'
-link: '2nuuWWTMjC8?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
+link: 2nuuWWTMjC8?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: celebrity
 section-rank: 7
 ---
@@ -13,8 +13,6 @@ Yep, they’re getting married on the third day of the third month this year, an
 
 But in the meantime, enjoy this special “Save-The-Date” video we did for them. :)
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+Email us at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
