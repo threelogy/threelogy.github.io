@@ -3,8 +3,8 @@ published: true
 layout: reel
 title: Leo & Marga AVP (Zambales) February 2016
 image-large: 'https://i.vimeocdn.com/video/594774332_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594774332_750x500.jpg'
-link: 'https://player.vimeo.com/video/164400513'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528569800/leo.jpg'
+link: ufjWHzYTn40
 type: love-story
 section-rank: 3
 featured: true
