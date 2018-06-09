@@ -4,8 +4,9 @@ slugID: 41
 layout: reel
 title: Jaime Delos Angeles & Nicole Hernandez (St. James) January 2011
 image-large: 'https://i.vimeocdn.com/video/594417492_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594417492_750x500.jpg'
-link: 'pDsIjlrgSqg?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528574950/Nicole_2.jpg
+link: pDsIjlrgSqg?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: celebrity
 section-rank: 6
 ---
