@@ -2,10 +2,12 @@
 published: true
 slugID: 16
 layout: reel
-title: Banjo & Sarah (Transfiguration Chapel of Caleruega) March 2009
+title: >-
+  Banjo Albano & MTV VJ Sarah Meier (Transfiguration Chapel of Caleruega) March
+  2009
 image-large: 'https://i.vimeocdn.com/video/589598563_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/589598563_750x500.jpg'
-link: 'SqMIfdLiP_A'
+link: SqMIfdLiP_A
 type: sde
 section-rank: 15
 ---
