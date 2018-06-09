@@ -4,8 +4,8 @@ slugID: 39
 layout: reel
 title: Jojo Oconer & Ciara Sotto (Manila Polo Club) January 2010
 image-large: 'https://i.vimeocdn.com/video/594415671_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594415671_750x500.jpg'
-link: 'tdTc_nQEXTY?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528572022/ciara_1.jpg'
+link: tdTc_nQEXTY?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: celebrity
 section-rank: 4
 ---
