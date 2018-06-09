@@ -1,10 +1,10 @@
 ---
 published: true
 layout: reel
-title: Fred & Lynn in Maldives (January 2016)
+title: Fred & Lynn (Maldives) January 2016
 image-large: 'https://i.vimeocdn.com/video/594767815_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594767815_750x500.jpg'
-link: 'https://player.vimeo.com/video/180465583'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528568829/Fred.jpg'
+link: jHtVQ339Y8g
 type: international
 section-rank: 2
 ---
