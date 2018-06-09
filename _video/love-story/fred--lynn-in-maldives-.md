@@ -3,8 +3,8 @@ published: true
 layout: reel
 title: Fred & Lynn (Maldives) January 2016
 image-large: 'https://i.vimeocdn.com/video/594767815_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594767815_750x500.jpg'
-link: 'https://player.vimeo.com/video/180465583'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528568829/Fred.jpg'
+link: jHtVQ339Y8g
 type: love-story
 section-rank: 2
 featured: true
@@ -20,8 +20,6 @@ How beautiful it turned out to be! Now, they have something that will always rem
 
 To Fred & Lyn, thank you for the trust. Here’s wishing you a lifetime of marital bliss!!! :)
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+Email us at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
