@@ -4,7 +4,8 @@ slugID: 37
 layout: reel
 title: Oyo Sotto & Kristine Hermosa (Club Balai Isabel) January 2011
 image-large: 'https://i.vimeocdn.com/video/594768394_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594768394_750x500.jpg'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528531309/Kristine_2ab.jpg
 link: Wbg0m8lCYng?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
 type: celebrity
 section-rank: 3
