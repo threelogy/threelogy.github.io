@@ -3,7 +3,7 @@ published: true
 title: The Aqua Beach Club (Pampanga) January 2017
 image-large: 'https://i.vimeocdn.com/video/611044327_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/611044327_750x500.jpg'
-link: 'https://player.vimeo.com/video/198138136'
+link: H_8R3hZnDtQ
 type: corporate
 section-rank: 17
 layout: reel
