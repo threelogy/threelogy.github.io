@@ -7,9 +7,8 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528387275/sde/Don_a.jpg
 link: SSlZgegHJSI
 type: sde
-section-rank: 41
+section-rank: 42
 ---
 A lovely wedding we cannot not share. One of the coolest 1st dances we have witnessed. Check it out. :)
 
-For bookings, send us a PM or call us at +63 2 4344428
-Email: inquiry@threelogyvideo.com :)
+Email us at: inquiry@threelogyvideo.com :)
