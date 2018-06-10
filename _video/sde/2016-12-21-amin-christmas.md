@@ -7,7 +7,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528388367/sde/Amin_a.jpg
 link: qrKjGbBfu4M
 type: sde
-section-rank: 50
+section-rank: 48
 ---
 "Amin is the kindest person one can ever meet. He may not look it because of his looks but he really has a heart gold., Persian gold. :D" -Christmas to Amin-
 
