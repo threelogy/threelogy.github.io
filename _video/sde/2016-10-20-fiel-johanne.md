@@ -7,11 +7,9 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528384854/sde/Fiel_a.jpg
 link: wuhp3_DDYL0
 type: sde
-section-rank: 19
+section-rank: 17
 ---
 One cool wedding from year 2012, simply beautiful!  
-
-P.S. Ang gwapo ni Papa P.! Haha! Sorry I had to say it, kilig much. :D
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
