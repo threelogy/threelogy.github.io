@@ -1,6 +1,6 @@
 ---
 published: true
-title: Dale and Mase (Christ the King) October 2016
+title: Dale & Mase (Christ the King) October 2016
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/597426216_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/597426216_750x500.jpg'
