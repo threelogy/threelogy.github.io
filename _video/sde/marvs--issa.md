@@ -2,12 +2,12 @@
 published: true
 slugID: 14
 layout: reel
-title: 'Marvs + Issa (Lady of Guadalupe, Punta Fuego) February 2015'
+title: 'Marvs & Issa (Lady of Guadalupe, Punta Fuego) February 2015'
 image-large: 'https://i.vimeocdn.com/video/594775935_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594775935_750x500.jpg'
 link: 'https://player.vimeo.com/video/119131580'
 type: sde
-section-rank: 13
+section-rank: 11
 ---
 Marvs + Issa are two pretty cool people. Check out their first dance to get what I mean. :) 
 
