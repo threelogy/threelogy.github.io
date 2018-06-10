@@ -5,7 +5,8 @@ title: >-
   4, 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/622060484_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/622060484_750x500.jpg'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528391883/sde/marc_danica_a.jpg
 link: lznirWZFfJA?list=PLcosaUcuCQ6EllF2MNXOj3vzwfhTtFz7R
 type: renewalofvows
 section-rank: 7
