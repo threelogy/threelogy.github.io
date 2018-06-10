@@ -4,7 +4,7 @@ title: ' Jeremy & Rachel Ting Hun (The Sequel by Threelogy) Legazpi City - May 2
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/700592166_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/700592166_750x500.jpg'
-link: 'https://player.vimeo.com/video/269622707'
+link: 24lePfG5nCI
 type: sequel
 section-rank: 27
 ---
