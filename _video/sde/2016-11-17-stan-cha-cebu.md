@@ -3,7 +3,7 @@ published: true
 title: Stan & Cha (Cebu) November 2016
 layout: reel
 type: sde
-section-rank: 50
+section-rank: 49
 image-large: 'https://i.vimeocdn.com/video/603096373_1920x700.jpg'
 image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528376467/sde/Cha_a.jpg
