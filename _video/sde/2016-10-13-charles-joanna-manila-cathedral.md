@@ -7,7 +7,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528387015/sde/charles_a.jpg
 link: sdmxkZ-tjEw
 type: sde
-section-rank: 39
+section-rank: 40
 ---
 Sharing with you all the fun & heartwarming video of Charles & Joanna.
 
