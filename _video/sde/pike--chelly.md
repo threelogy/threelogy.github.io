@@ -8,7 +8,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528385388/sde/pike_a.jpg
 link: GX-VdfBwi5o
 type: sde
-section-rank: 27
+section-rank: 26
 ---
 Check out our bride’s cool pink gown! Lovely! :)
 
