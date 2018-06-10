@@ -7,12 +7,10 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528391675/sde/jeffrey_a.jpg
 link: h622kDNNJt0
 type: sde
-section-rank: 80
+section-rank: 63
 ---
 Our gorgeous couple's gorgeous wedding! Everything looks so perfect!
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
-
-threelogyvideo.com/
 
 Thank you for watching! 🙂
