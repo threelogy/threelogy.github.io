@@ -2,12 +2,12 @@
 published: true
 slugID: 27
 layout: reel
-title: Jobim and Kat (Santuario de San Antonio) December 2014
+title: Jobim & Kat (Santuario de San Antonio) December 2014
 image-large: 'https://i.vimeocdn.com/video/594789828_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594789828_750x500.jpg'
 link: 'https://player.vimeo.com/video/121096807'
 type: sde
-section-rank: 26
+section-rank: 25
 ---
 “Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable.” – Bruce Lee
 
