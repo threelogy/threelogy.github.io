@@ -2,12 +2,12 @@
 published: true
 slugID: 33
 layout: reel
-title: Sherwin + Wena (Surigao del Norte) January 2014
+title: Sherwin & Wena (Surigao del Norte) January 2014
 image-large: 'https://i.vimeocdn.com/video/594791986_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594791986_750x500.jpg'
 link: 'https://player.vimeo.com/video/85017511'
 type: sde
-section-rank: 32
+section-rank: 33
 ---
 Sherwin and Wena were set to tie the knot last January 18, 2014 in Surigao del Norte. Headed by Jon, our team was upbeat about the trip because it was our first time in the province. And by some twist of fate, the first typhoon to visit our country this year, named Agaton, dropped by Surigao at the exact same time. And getting there turned out to be a 20-hour tour around the country.
 
