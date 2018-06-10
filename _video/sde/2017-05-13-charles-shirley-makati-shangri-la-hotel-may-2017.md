@@ -7,8 +7,8 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528392634/sde/shirley_a.jpg
 link: YhzQ2IQ12TE
 type: sde
-section-rank: 83
+section-rank: 64
 ---
-Email: inquiry@threelogyvideo.com
+Email us at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
