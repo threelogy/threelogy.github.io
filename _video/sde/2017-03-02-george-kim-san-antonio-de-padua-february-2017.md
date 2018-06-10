@@ -7,7 +7,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528391233/sde/george_a.jpg
 link: YYYqaV_BLiE
 type: sde
-section-rank: 76
+section-rank: 60
 ---
 Sharing with you all, our gorgeous couple, George & Kim's wedding video SDE. :)
 
