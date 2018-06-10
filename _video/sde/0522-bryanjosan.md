@@ -20,8 +20,6 @@ Similar interests drew them together, they became friends, fell in love & not lo
 
 To Josan & Bryan, Congratulations!!! Here’s to more years of Facebooking & loving one another deeply! :)
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+Email us at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
