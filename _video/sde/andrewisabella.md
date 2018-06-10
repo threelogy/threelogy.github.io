@@ -16,8 +16,6 @@ I love how the bride & groom delivered their vows with so much warmth & tenderne
 
 This will definitely make you want to fall in love & stay in love. :)
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+Email us at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
