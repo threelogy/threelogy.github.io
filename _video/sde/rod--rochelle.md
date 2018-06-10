@@ -8,7 +8,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528385168/sde/Rod_a.jpg
 link: tAbXc08MkXo
 type: sde
-section-rank: 25
+section-rank: 24
 ---
 This is Rod & Rochelle's road to forever. :)
 
