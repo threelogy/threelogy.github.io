@@ -7,7 +7,7 @@ image-large: 'https://i.vimeocdn.com/video/594788379_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594788379_750x500.jpg'
 link: 'https://player.vimeo.com/video/180405920'
 type: sde
-section-rank: 22
+section-rank: 20
 ---
 One hot but windy afternoon.
 
