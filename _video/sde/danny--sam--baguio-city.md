@@ -8,7 +8,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528393125/sde/danny_a.jpg
 link: tj1EyO-79gs
 type: sde
-section-rank: 36
+section-rank: 35
 ---
 I think we can all agree that this is possibly the warmest December ever. The cool December breeze that signals the incoming Christmas season just wasn’t there. I personally like that. That “Ang lamig no!” conversations with fellow suppliers and couples were few and far in between, mostly in Tagaytay or when the hotel’s AC is freezing up the joint. December was cool, but it wasn’t cold like we’ve been accustomed to. So Baguio-based Danny and Sam’s wedding in Baguio is just what we needed to get that Christmas spirit going. It’s Baguio, for crying out loud. It’s cold. And we loved it.
 
