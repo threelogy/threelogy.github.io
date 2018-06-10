@@ -3,7 +3,7 @@ published: true
 title: 'Disney Avengers Fan Event Video (SM Megamall) April 2018 '
 image-large: 'https://i.vimeocdn.com/video/697158333_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/697158333_750x500.jpg'
-link: 'https://player.vimeo.com/video/266723702'
+link: O5-A0oa2qPY?list=PLcosaUcuCQ6GH8K_GuJ25yDyOcfBsdJpG
 type: corporate
 section-rank: 27
 layout: reel
