@@ -6,7 +6,7 @@ image-large: 'https://i.vimeocdn.com/video/615339098_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/615339098_750x500.jpg'
 link: 'https://player.vimeo.com/video/201523081'
 type: sde
-section-rank: 60
+section-rank: 56
 ---
 Our sweet & funny couple’s great wedding ceremony in Antipolo.  Check out Eggy before they first kissed.   :) 
 
