@@ -7,7 +7,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528389242/sde/jules_a.jpg
 link: N_bf8ZEHEjo
 type: sde
-section-rank: 64
+section-rank: 58
 ---
 Jules was overcome with emotions while reading his bride’s letter to him before their wedding ceremony. This love is real. :’) ❤
 
