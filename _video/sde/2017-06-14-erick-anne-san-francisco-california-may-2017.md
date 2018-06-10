@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: 'Erick & Anne (San Francisco, California) May 2017'
 layout: reel
 type: sde
