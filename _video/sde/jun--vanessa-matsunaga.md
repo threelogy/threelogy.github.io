@@ -8,7 +8,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528383438/sde/Jun_1.jpg
 link: HuGyv0y0Glk
 type: sde
-section-rank: 10
+section-rank: 8
 ---
 Wedding SDE of Brazilian Japanese model Vanessa to businessman Jun.
 
