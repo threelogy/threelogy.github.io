@@ -8,7 +8,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528384155/sde/Den_a.jpg
 link: QV8S2tdhUF4
 type: sde
-section-rank: 10
+section-rank: 13
 ---
 We felt honoured to cover the Filipiniana themed wedding of prominent architect Jun Palafox’s daughter Chin to Dennis in Sitio Remedios, a heritage site in the beautiful province of Ilocos.
 
@@ -18,8 +18,6 @@ Do watch & feel the incredible vibe!
 
 I wanna get married again!!! Hehe.;) ❤
 
-For bookings, send us an email or call us at +63 2 4344428
-
-Email: inquiry@threelogyvideo.com
+Email us at: inquiry@threelogyvideo.com
 
 Thank you for watching! :)
