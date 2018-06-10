@@ -8,7 +8,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528383667/sde/Isabella.jpg
 link: cbjiqF_rXiU
 type: sde
-section-rank: 11
+section-rank: 9
 ---
 To be honest, I’m not a fan of hearing lengthy vows in a wedding video SDE (Same Day Edit), I feel like it makes the video boring to watch but this is an exception. I was even grinning from ear to ear! :)
 
