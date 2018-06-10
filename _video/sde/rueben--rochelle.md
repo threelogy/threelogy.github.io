@@ -7,7 +7,7 @@ image-large: 'https://i.vimeocdn.com/video/594776224_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594776224_750x500.jpg'
 link: 'https://player.vimeo.com/video/129134521'
 type: sde
-section-rank: 12
+section-rank: 11
 ---
 A beautiful wedding you must see. :)
 
