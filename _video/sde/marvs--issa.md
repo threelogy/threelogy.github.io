@@ -7,7 +7,7 @@ image-large: 'https://i.vimeocdn.com/video/594775935_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594775935_750x500.jpg'
 link: 'https://player.vimeo.com/video/119131580'
 type: sde
-section-rank: 11
+section-rank: 12
 ---
 Marvs + Issa are two pretty cool people. Check out their first dance to get what I mean. :) 
 
