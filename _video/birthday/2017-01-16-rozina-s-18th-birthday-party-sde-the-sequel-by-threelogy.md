@@ -2,7 +2,7 @@
 published: true
 title: Rozina’s 18th Birthday Party SDE (The Sequel by Threelogy) January 2017
 image-large: 'https://i.vimeocdn.com/video/612830276_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/612830276_750x500.jpg'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528728498/rozina.jpg'
 link: EEuUg7fVPxU
 type: birthday
 section-rank: 10
