@@ -3,8 +3,9 @@ published: true
 layout: reel
 title: The Coffee Bean & Tea Leaf FROTHE
 image-large: 'https://i.vimeocdn.com/video/594869064_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594869064_750x500.jpg'
-link: 'https://player.vimeo.com/video/181752296'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1528640026/Frothe_ws.jpg
+link: I8Dej2_Vn2A
 type: corporate
 section-rank: 13
 ---
