@@ -5,7 +5,7 @@ layout: reel
 title: Arvin & Grace (Notre Dame de Vie Chapel) June 2016
 image-large: 'https://i.vimeocdn.com/video/588814599_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/588814599_750x500.jpg'
-link: 'https://player.vimeo.com/video/173121545'
+link: NqO0tz-CAX4
 type: sde
 section-rank: 34
 ---
