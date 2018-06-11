@@ -4,8 +4,8 @@ title: >-
   Dino & Aileen(The Sequel by Threelogy)Immaculate Conception Cathedral -
   January 2017
 image-large: 'https://i.vimeocdn.com/video/615634239_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/615634239_750x500.jpg'
-link: 'TL4Oi6WUlyQ'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528729228/dino.jpg'
+link: TL4Oi6WUlyQ
 type: sequel
 section-rank: 8
 layout: reel
