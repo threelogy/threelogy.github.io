@@ -7,8 +7,8 @@ layout: reel
 type: sequel
 section-rank: 11
 image-large: 'https://i.vimeocdn.com/video/618330959_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/618330959_750x500.jpg'
-link: 'v9ejVIetaRk'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528731017/bing.jpg'
+link: v9ejVIetaRk
 ---
 A beautiful wedding shot & edited by our The Sequel team.
 
