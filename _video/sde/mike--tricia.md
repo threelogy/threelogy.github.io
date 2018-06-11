@@ -2,10 +2,10 @@
 published: true
 slugID: 24
 layout: reel
-title: Mike & Tricia (Punta Fuego) April 2010
+title: 'Mike & Tricia (Our Lady of Guadalupe, Punta Fuego) April 2010'
 image-large: 'https://i.vimeocdn.com/video/594788379_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594788379_750x500.jpg'
-link: 'https://player.vimeo.com/video/180405920'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528724775/Mike_ws.jpg'
+link: mK6JoaBF9mk
 type: sde
 section-rank: 20
 ---
