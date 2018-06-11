@@ -3,8 +3,8 @@ published: true
 layout: reel
 title: Toto & Ging (San Agustin Church) June 2015
 image-large: 'https://i.vimeocdn.com/video/594788165_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594788165_750x500.jpg'
-link: 'https://player.vimeo.com/video/132092876'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528725275/toto_ws.jpg'
+link: 5ux-kKnpDBs
 type: renewalofvows
 section-rank: 2
 ---
@@ -16,4 +16,4 @@ Go watch & see for yourself. :)
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Thank you for watching! 
+Thank you for watching!
