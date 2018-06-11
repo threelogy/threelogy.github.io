@@ -5,8 +5,8 @@ layout: reel
 type: other
 section-rank: 12
 image-large: 'https://i.vimeocdn.com/video/679546349_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/679546349_750x500.jpg'
-link: 'https://player.vimeo.com/video/252710618'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528726186/Don_ws.jpg'
+link: jBIWXVuBohI
 ---
 In celebration of Don’s 50th birthday, his family described in this video we made how great a man he is and how lucky they are to have him in their lives.
 
