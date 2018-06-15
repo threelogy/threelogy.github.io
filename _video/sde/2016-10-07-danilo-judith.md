@@ -5,8 +5,9 @@ layout: reel
 type: sde
 section-rank: 39
 image-large: 'https://i.vimeocdn.com/video/595884807_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/595884807_750x500.jpg'
-link: 'https://player.vimeo.com/video/184697721'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1529061554/Danilo_ws.jpg
+link: OSJyzJ4IX0E
 ---
 This is just so beautiful, it gave me goosies! ❤ :)
 
