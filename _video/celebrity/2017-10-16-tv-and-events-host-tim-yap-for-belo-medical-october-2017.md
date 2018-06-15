@@ -2,7 +2,7 @@
 published: true
 title: 'TV and Events host, Tim Yap for Belo Medical (October 2017) '
 layout: reel
-link: 'https://player.vimeo.com/video/238335912'
+link: EE5oOekviiA
 type: celebrity
 section-rank: 15
 image-large: 'https://i.vimeocdn.com/video/661014854_1920x700.jpg'
