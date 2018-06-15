@@ -7,8 +7,9 @@ layout: reel
 type: sequel
 section-rank: 10
 image-large: 'https://i.vimeocdn.com/video/620313686_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/620313686_750x500.jpg'
-link: 'https://player.vimeo.com/video/203747579'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1529062295/Peter_ws.jpg
+link: HKJzczQfFfQ
 ---
 A wedding that is all about love, pure love! :)
 
