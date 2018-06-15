@@ -5,8 +5,9 @@ layout: reel
 type: sde
 section-rank: 44
 image-large: 'https://i.vimeocdn.com/video/598057536_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/598057536_750x500.jpg'
-link: 'https://player.vimeo.com/video/176557277'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1529061879/Jason_ws.jpg
+link: s_BI2MJVE54
 ---
 Deep & heart touching, that's Jason & Miya's love captured in this sweet video we made. Watch & fall in love! :)
 
