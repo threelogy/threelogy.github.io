@@ -42,5 +42,3 @@ fields:
   type: datetime
   hidden: false
   default: ''
-pages:
-- _video/sequel/test.md
