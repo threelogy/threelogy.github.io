@@ -4,8 +4,7 @@ title: Seph & Vicky (Madre de Dios) June 2018
 layout: reel
 link: ymKIvvhBBCQ
 type: sde
-section-rank: 88
-image-large: ''
+section-rank: 89
 image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528398417/sde/Seph_a.jpg
 ---
