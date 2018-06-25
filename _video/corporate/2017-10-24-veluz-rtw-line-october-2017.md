@@ -3,7 +3,7 @@ published: true
 title: Veluz RTW line (October 2017)
 image-large: 'https://i.vimeocdn.com/video/662350116_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/662350116_750x500.jpg'
-link: 'https://player.vimeo.com/video/238013468'
+link: HTW72UMNLRI
 type: corporate
 section-rank: 23
 layout: reel
