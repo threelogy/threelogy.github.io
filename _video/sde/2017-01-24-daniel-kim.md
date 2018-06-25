@@ -3,8 +3,8 @@ published: true
 title: Daniel & Kim (Santuario de San Jose) January 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/611515601_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/611515601_750x500.jpg'
-link: 'https://player.vimeo.com/video/198481066'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1529917324/Daniel.jpg'
+link: l76dIA4c2rI
 type: sde
 section-rank: 52
 ---
