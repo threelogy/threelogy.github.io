@@ -2,7 +2,7 @@
 published: true
 title: 'Actor, Dancer and Singer, Derrick Monasterio for Belo Medical (October 2017)'
 layout: reel
-link: 'https://player.vimeo.com/video/238334518'
+link: r5znvjcUKPc
 type: celebrity
 section-rank: 19
 image-large: 'https://i.vimeocdn.com/video/661697174_1920x700.jpg'
