@@ -7,8 +7,8 @@ layout: reel
 type: other
 section-rank: 8
 image-large: 'https://i.vimeocdn.com/video/631353868_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/631353868_750x500.jpg'
-link: 'https://player.vimeo.com/video/213436618'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1529916598/unveil.jpg'
+link: wtkj26-zd0A
 ---
 Get to know some of the country's top event stylists at The Edsa Shangri-La Hotel Manila's Unveil 2017.
 
