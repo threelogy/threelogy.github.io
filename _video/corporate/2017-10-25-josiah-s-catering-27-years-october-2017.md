@@ -3,7 +3,7 @@ published: true
 title: Josiah’s Catering 27 Years (October 2017)
 image-large: 'https://i.vimeocdn.com/video/662878388_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/662878388_750x500.jpg'
-link: 'https://player.vimeo.com/video/239750790'
+link: 00Jc6ac_HT4
 type: corporate
 section-rank: 24
 layout: reel
