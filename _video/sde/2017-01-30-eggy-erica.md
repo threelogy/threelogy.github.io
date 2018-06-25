@@ -3,8 +3,8 @@ published: true
 title: Eggy & Erica (Immaculate Heart of Mary) January 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/615339098_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/615339098_750x500.jpg'
-link: 'https://player.vimeo.com/video/201523081'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1529920257/Eggy.jpg'
+link: mm2gGT-bm_o
 type: sde
 section-rank: 56
 ---
