@@ -7,7 +7,7 @@ image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528392928/sde/tristan_a.jpg
 link: tLfUVOiMtNw
 type: sde
-section-rank: 77
+section-rank: 78
 ---
 This quote from Loretta Young perfectly sums up Mitch and Tristan’s love story –
 
