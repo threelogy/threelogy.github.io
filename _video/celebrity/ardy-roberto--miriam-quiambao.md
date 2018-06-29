@@ -6,7 +6,7 @@ title: Ardy Roberto & Miriam Quiambao (Ville Sommet) March 2014
 image-large: 'https://i.vimeocdn.com/video/594411338_1920x700.jpg'
 image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528380061/sde/Miriam.jpg
-link: L5cB_65NtOs?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
+link: L5cB_65NtOs
 type: celebrity
 section-rank: 9
 ---

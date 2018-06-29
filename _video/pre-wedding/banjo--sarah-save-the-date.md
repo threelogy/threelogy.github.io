@@ -4,7 +4,7 @@ layout: reel
 title: Banjo Albano & MTV VJ Sarah Meier Save The Date
 image-large: 'https://i.vimeocdn.com/video/594848701_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594848701_750x500.jpg'
-link: 2nuuWWTMjC8?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
+link: 2nuuWWTMjC8
 type: pre-wedding
 section-rank: 6
 ---

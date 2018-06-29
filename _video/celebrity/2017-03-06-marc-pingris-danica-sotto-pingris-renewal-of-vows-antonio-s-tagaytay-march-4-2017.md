@@ -7,7 +7,7 @@ layout: reel
 image-large: 'https://i.vimeocdn.com/video/622060484_1920x700.jpg'
 image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528391883/sde/marc_danica_a.jpg
-link: lznirWZFfJA?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
+link: lznirWZFfJA
 type: celebrity
 section-rank: 13
 ---

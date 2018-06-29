@@ -6,7 +6,7 @@ section-rank: 21
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/661696166_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/661696166_750x500.jpg'
-link: JoNS7ZkiCdk?list=PLcosaUcuCQ6GH8K_GuJ25yDyOcfBsdJpG
+link: JoNS7ZkiCdk
 ---
 Lovely Lovi for Belo Beauty. :) 
 

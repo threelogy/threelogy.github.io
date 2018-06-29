@@ -6,7 +6,7 @@ title: Jaime Delos Angeles & Nicole Hernandez  (St. James the Great) January 201
 image-large: 'https://i.vimeocdn.com/video/594417492_1920x700.jpg'
 image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528574950/Nicole_2.jpg
-link: pDsIjlrgSqg?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
+link: pDsIjlrgSqg
 type: sde
 section-rank: 5
 ---

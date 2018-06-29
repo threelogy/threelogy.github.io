@@ -6,7 +6,7 @@ title: Jun Sunga & Vanessa Matsunaga (Bellarocca) November 2010
 image-large: 'https://i.vimeocdn.com/video/594423362_1920x700.jpg'
 image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1528383438/sde/Jun_1.jpg
-link: HuGyv0y0Glk?list=PLcosaUcuCQ6F78T1frRFZqZr79qmMRPIl
+link: HuGyv0y0Glk
 type: celebrity
 section-rank: 5
 ---
