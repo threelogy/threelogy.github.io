@@ -4,7 +4,7 @@ layout: reel
 title: Shirlyn @18 Music Video (December 2015)
 image-large: 'https://i.vimeocdn.com/video/594856057_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594856057_750x500.jpg'
-link: 'https://player.vimeo.com/video/180458791'
+link: 42PdpIDWsfQ
 type: birthday
 section-rank: 8
 ---
