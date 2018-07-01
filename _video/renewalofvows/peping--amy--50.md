@@ -1,10 +1,10 @@
 ---
 published: true
 layout: reel
-title: 'Peping + Amy (St. James Parish, Santiago City) December 2015'
+title: 'Peping & Amy (St. James Parish, Santiago City) December 2015'
 image-large: 'https://i.vimeocdn.com/video/594862342_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594862342_750x500.jpg'
-link: 'https://player.vimeo.com/video/149891087'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1530423894/Peping.jpg'
+link: shXuf0lJA7M
 type: renewalofvows
 section-rank: 1
 ---
@@ -16,4 +16,4 @@ Such sweet words from the groom to his bride. #RelatonshipGoals :)
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Thank you for watching! 
+Thank you for watching!
