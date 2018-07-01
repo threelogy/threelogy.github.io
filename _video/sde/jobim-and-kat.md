@@ -4,8 +4,8 @@ slugID: 27
 layout: reel
 title: Jobim & Kat (Santuario de San Antonio) December 2014
 image-large: 'https://i.vimeocdn.com/video/594789828_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594789828_750x500.jpg'
-link: 'https://player.vimeo.com/video/121096807'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1530423720/Jobim.jpg'
+link: RsEDERRa3Ds
 type: sde
 section-rank: 25
 ---
