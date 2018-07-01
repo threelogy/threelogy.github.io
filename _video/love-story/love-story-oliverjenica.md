@@ -1,10 +1,10 @@
 ---
 published: true
 layout: reel
-title: 'Love Story: Oliver+Jenica (July 2015) '
+title: 'Oliver & Jenica (The Love Story) July 2015 '
 image-large: 'https://i.vimeocdn.com/video/594849874_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594849874_750x500.jpg'
-link: 'https://player.vimeo.com/video/137722538'
+link: UzJ4gC4yEoc
 type: love-story
 section-rank: 1
 ---
@@ -18,4 +18,4 @@ This is their love story. :)
 
 For bookings, send us an email at: inquiry@threelogyvideo.com
 
-Thank you for watching! 
+Thank you for watching!
