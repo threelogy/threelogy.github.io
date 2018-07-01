@@ -4,8 +4,8 @@ slugID: 35
 layout: reel
 title: Phillip & April (The Sequel by Threelogy) St. Alphonsus - December 2015
 image-large: 'https://i.vimeocdn.com/video/594865988_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594865988_750x500.jpg'
-link: 'https://player.vimeo.com/video/153886416'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1530425250/Phillip.jpg'
+link: aGAdogIvLco
 type: sequel
 section-rank: 4
 ---
