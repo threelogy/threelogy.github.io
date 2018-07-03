@@ -3,7 +3,7 @@ published: true
 title: Jod & Krish (St. Michael the Archangel) December 2017
 layout: reel
 type: sde
-section-rank: 77
+section-rank: 78
 image-large: 'https://i.vimeocdn.com/video/671325141_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/671325141_750x500.jpg'
 link: 5jXkQ_k1vw0
