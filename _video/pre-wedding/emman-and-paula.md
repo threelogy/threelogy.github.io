@@ -1,10 +1,11 @@
 ---
 published: true
 layout: reel
-title: 'Emman and Paula Save The Date (June 2014) '
+title: 'Emman & Paula Save The Date (June 2014) '
 image-large: 'https://i.vimeocdn.com/video/594849546_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594849546_750x500.jpg'
-link: 'https://player.vimeo.com/video/100151537'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1531220664/Emman_Save_TD.jpg
+link: zDxsQ3zVHv0
 type: pre-wedding
 section-rank: 5
 ---
