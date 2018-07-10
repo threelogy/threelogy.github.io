@@ -2,7 +2,7 @@
 published: true
 slugID: 5
 layout: reel
-title: Jojo Oconer & Ciara Sotto (Marco Polo Club) January 2010
+title: Jojo Oconer & Ciara Sotto (Manila Polo Club) January 2010
 image-large: 'https://i.vimeocdn.com/video/594415671_1920x700.jpg'
 image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1528572022/ciara_1.jpg'
 link: tdTc_nQEXTY
