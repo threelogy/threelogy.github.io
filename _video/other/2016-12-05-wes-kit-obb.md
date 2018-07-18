@@ -5,8 +5,9 @@ layout: reel
 type: other
 section-rank: 4
 image-large: 'https://i.vimeocdn.com/video/606208728_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/606208728_750x500.jpg'
-link: 'https://player.vimeo.com/video/193311492'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1531917247/Untitledz_ws.jpg
+link: Afhqs_WuBlM
 ---
 This was played at the reception when Wes & Kit was introduced. :)
 
