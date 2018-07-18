@@ -3,7 +3,8 @@ published: true
 title: Janus & Jheng (St. Francis Xavier Church) October 2016
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/598312907_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/598312907_750x500.jpg'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1531897989/Untitleds_ws.jpg
 link: 'https://player.vimeo.com/video/188270534'
 type: sde
 section-rank: 45
