@@ -2,7 +2,7 @@
 published: true
 title: 'Mariel Rodriguez-Padilla on Pregnancy (October 2016) '
 layout: reel
-link: 'https://player.vimeo.com/video/188813291'
+link: Td_xGr7Quok
 type: celebrity
 section-rank: 12
 image-large: 'https://i.vimeocdn.com/video/601401038_1920x700.jpg'
