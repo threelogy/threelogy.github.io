@@ -4,7 +4,7 @@ title: VJ and Romlind (Los Angeles) October 2017
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/666866938_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/666866938_750x500.jpg'
-link: 'https://player.vimeo.com/video/242335898'
+link: 0Bw0IX4MOGU
 type: international
 section-rank: 13
 ---
