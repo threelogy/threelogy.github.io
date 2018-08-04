@@ -6,7 +6,7 @@ section-rank: 25
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/688115288_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/688115288_750x500.jpg'
-link: 'https://player.vimeo.com/video/255892761'
+link: l9jZXjC3xWE
 ---
 Probio-White Product Information Video
 
