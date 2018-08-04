@@ -1,12 +1,12 @@
 ---
 published: true
-title: Nikko+Reg _ Instagram Video
+title: 'Nikko and Reg (Video for Instagram) '
 layout: reel
 type: other
 section-rank: 15
 image-large: 'https://i.vimeocdn.com/video/681358357_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/681358357_750x500.jpg'
-link: 'https://player.vimeo.com/video/254242304'
+link: MCY2dELAOJM
 ---
 The walk. ❤️
 
