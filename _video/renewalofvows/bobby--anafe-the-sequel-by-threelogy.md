@@ -5,7 +5,7 @@ title: Bobby & Anafe (The Sequel by Threelogy) Santuario de San Antonio - June 2
 image-large: 'https://i.vimeocdn.com/video/594862572_1920x700.jpg'
 image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1531893149/588702034_750x500a.jpg
-link: 'https://player.vimeo.com/video/180460110'
+link: fZsQzUleK0w
 type: renewalofvows
 section-rank: 4
 ---
