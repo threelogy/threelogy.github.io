@@ -5,8 +5,9 @@ layout: reel
 type: other
 section-rank: 7
 image-large: 'https://player.vimeo.com/video/212079747'
-image-small: 'https://i.vimeocdn.com/video/628544002_750x500.jpg'
-link: 'https://player.vimeo.com/video/212079747'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1533616576/Unveil_2017_Threelogy-01-01.jpg
+link: Fad742gREn0
 ---
 Threelogy's Unveil 2017 video for The Edsa Shangri La Hotel Manila's Bridal Fair presented at the Isla Ballroom on 8-9 of April 2017.
 
