@@ -9,16 +9,25 @@ javascript: >
         var feed = new Instafeed({
             get: 'user',
             userId: '599621353',
-            clientId: '0cd51b94022a49f0be1e4b114f24a9ea',
             accessToken: '599621353.1677ed0.f7ac3231da8e4347b1a9620182782a04',
-            sortBy: 'most-recent',
             limit: 6,
-            template: '<div class="col-md-4 col-sm-4 col-xs-6"><a class="image-link" href="{{ link }}" target="_blank"> <img class="img-responsive center-block" src="{{image}}" /></a></div>',
-            resolution: 'standard_resolution'
+            sortBy: 'most-recent',
+            orientation: 'square',
+            template: '<a href="{{link}}" target="_blank" class="col-md-2 col-sm-2 col-xs-6"><img src="{{image}}" /></a>',
+            resolution: 'standard_resolution',
+            success: function(feed){
+                var data = feed.data.reverse();
+                $('.placeholder').each(function(index, placeholder){
+                    var model = data.pop();
+                    $(placeholder).html(
+                        '<a class="image-link" href="'+ model.link +'" target="_blank">'
+                        + '<img src="'+ model.images.standard_resolution.url +'" />'
+                        + '</a>').hide().fadeIn();
+                });
+            }
 
         });
         feed.run();
-
 
         $(function(){
             if( window.pageYOffset > 50 && $(document).width() >= 992){
