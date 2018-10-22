@@ -3,7 +3,23 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
-collections: 
+sections:
+- type: jekyll-posts
+  label: Posts
+  create: all
+- type: directory
+  path: _video
+  label: Video
+  create: all
+  match: "**/*"
+- type: jekyll-pages
+  label: Pages
+  create: all
+- type: directory
+  path: _data
+  label: Data
+  create: none
+  match: "**/*.{json,yaml,yml}"
 upload_dir: ''
 public_path: https://res.cloudinary.com/threelogyvideo
 front_matter_path: ''
