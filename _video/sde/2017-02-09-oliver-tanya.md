@@ -3,8 +3,9 @@ published: true
 title: Oliver & Tanya (Santuario de San Antonio) November 2012
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/617446338_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/617446338_750x500.jpg'
-link: 'https://player.vimeo.com/video/55246661'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1541558458/Tanya_b-01ab.jpg
+link: JcmICEo_x6k
 type: sde
 section-rank: 27
 ---
