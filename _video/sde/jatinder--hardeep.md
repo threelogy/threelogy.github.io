@@ -6,7 +6,7 @@ title: Jatinder & Hardeep (Indian Wedding) April 2014
 image-large: 'https://i.vimeocdn.com/video/594769676_1920x700.jpg'
 image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1531895450/594418099_1920x700a-01ws.jpg
-link: 'https://player.vimeo.com/video/92924962'
+link: oXOnFsCiBh4
 type: sde
 section-rank: 7
 featured: true
