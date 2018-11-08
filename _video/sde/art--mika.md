@@ -4,8 +4,8 @@ slugID: 20
 layout: reel
 title: Art & Mika (Madre de Dios) February 2015
 image-large: 'https://i.vimeocdn.com/video/589509674_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/589509674_750x500.jpg'
-link: 'https://player.vimeo.com/video/120040905'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1541648067/Art_c.jpg'
+link: s9sJpcYwMNg
 type: sde
 section-rank: 19
 ---
