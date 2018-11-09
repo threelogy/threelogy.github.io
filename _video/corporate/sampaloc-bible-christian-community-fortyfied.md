@@ -3,8 +3,8 @@ published: true
 layout: reel
 title: Sampaloc Bible Christian Community FORTYFIED
 image-large: 'https://i.vimeocdn.com/video/594869089_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594869089_750x500.jpg'
-link: 'https://player.vimeo.com/video/83212988'
+image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1541754031/SBCC_ab.jpg'
+link: 2dqK1OVR2aA
 type: corporate
 section-rank: 14
 ---
