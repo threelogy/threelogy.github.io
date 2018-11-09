@@ -1,10 +1,10 @@
 ---
 published: true
 layout: reel
-title: McDonald's Egg McMuffin
+title: McDonald's Egg McMuffin Product Video
 image-large: 'https://i.vimeocdn.com/video/594867853_1920x700.jpg'
 image-small: 'https://i.vimeocdn.com/video/594867853_750x500.jpg'
-link: 'https://player.vimeo.com/video/121282433'
+link: xEEEIzMUIzQ
 type: corporate
 section-rank: 11
 ---
