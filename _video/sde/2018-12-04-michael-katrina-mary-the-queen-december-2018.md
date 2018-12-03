@@ -1,0 +1,15 @@
+---
+published: true
+title: Michael & Katrina (Mary the Queen) December 2018
+layout: reel
+link: jcvpEApt7Cs
+type: sde
+section-rank: 99
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1543854994/Katrina-02a.jpg
+---
+The wedding of Michael & Katrina.💕 
+
+Email us at: inquiry@threelogyvideo.com 
+
+#Threelogy #BeThreelogy #WeddingVideo #SDE
