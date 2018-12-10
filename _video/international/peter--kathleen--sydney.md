@@ -1,10 +1,11 @@
 ---
 published: true
 layout: reel
-title: Peter + Kathleen Wedding Highlights (Sydney)
+title: 'Peter & Kathleen Wedding Highlights (Sydney, Australia)'
 image-large: 'https://i.vimeocdn.com/video/594853722_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594853722_750x500.jpg'
-link: 'https://player.vimeo.com/video/129519488'
+image-small: >-
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1544425815/Kath-01a.jpg
+link: m-TJsgLskaQ
 type: international
 section-rank: 5
 ---
