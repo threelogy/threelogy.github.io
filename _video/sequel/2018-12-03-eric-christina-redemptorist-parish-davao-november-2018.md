@@ -1,6 +1,8 @@
 ---
 published: true
-title: 'Eric & Christina (Redemptorist Parish, Davao) November 2018'
+title: >-
+  Eric & Christina (The Sequel by Threelogy) Redemptorist Parish, Davao -
+  November 2018
 layout: reel
 link: DyVj_aR6S_U
 type: sequel
