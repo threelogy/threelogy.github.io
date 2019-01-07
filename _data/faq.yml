@@ -1,23 +1,34 @@
+---
 - id: 1
   header: When did you start?
-  description: It all started way back in 2004 when three college buddies decided to get together and put up a billiard joint. Yep, a billiard joint. Well, that never took off but the three found themselves shooting a high school prom just a couple of months later, and the rest, as they say, is history.
-
+  description: "Threelogy Video was founded 14 years ago by 3 college buddies. \n\nIn
+    college, when out of town with their friends, they usually have a handycam ready
+    to capture everything that is happening candidly for fun and edits the footage
+    at the end of the trip. They will then watch it all together to relieve the moment.
+    \n\nYears after that, in April of 2004, they shot their first paid event and not
+    long after, celebrities and high profile clients started booking them to cover
+    their own special events. They became known thru word of mouth and the rest as
+    they say is history. \n\nThreelogy’s expertise lies in capturing the event as
+    it naturally happens, showcasing the unique personalities of each couple without
+    making them act out of their way to create an amazing video. They have always
+    been on the natural, candid and real side of covering an event."
 - id: 2
   header: Is there a time limit to your services during a wedding?
-  description: We normally arrive four (4) hours before the ceremony and leave an hour or two after the fun and excitement of the reception program is over.
-
+  description: We normally arrive four (4) hours before the ceremony and leave an
+    hour or two after the fun and excitement of the reception program is over.
 - id: 3
   header: Do you shoot weddings outside of the Philippines?
-  description: As a matter of fact we do, we just don’t like putting the words “international” and “worldwide” before or after our name. Because if we’re being honest, we think that’s just a lot of marketing bull****. You can check some of our “international” shoots in the Videos page.
-
+  description: As a matter of fact we do, we just don’t like putting the words “international”
+    and “worldwide” before or after our name. Because if we’re being honest, we think
+    that’s just a lot of marketing bull****. You can check some of our “international”
+    shoots in the Videos page.
 - id: 4
   header: Do we have to feed you on our wedding day?
   description: We won’t oblige you to, but would highly appreciate it if you do.
-
 - id: 5
   header: What’s your take on same-sex marriage?
-  description: Nah, no one actually asks this question, but we’ve covered one already and we won’t mind doing it again. Love always wins, after all.
-
+  description: Nah, no one actually asks this question, but we’ve covered one already
+    and we won’t mind doing it again. Love always wins, after all.
 - id: 6
   header: If we book you, what should we expect?
   description: Expect to be blown away by our awesomeness. ‘Nuff said.
