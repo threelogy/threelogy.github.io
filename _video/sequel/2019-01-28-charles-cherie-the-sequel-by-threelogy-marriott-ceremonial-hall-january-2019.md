@@ -8,7 +8,7 @@ link: ZBICWTYLSG4
 type: sequel
 section-rank: 42
 image-small: >-
-  https://res.cloudinary.com/threelogyvideo/image/upload/v1548621373/Cherie-01a.jpg
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1548840175/Cherie-03a.jpg
 ---
 The wedding of Charles & Cherie. 😊❤
 
