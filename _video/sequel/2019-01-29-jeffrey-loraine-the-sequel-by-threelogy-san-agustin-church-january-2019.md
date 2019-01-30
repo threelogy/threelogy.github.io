@@ -6,7 +6,7 @@ link: _-Cxjg4HFVo
 type: sequel
 section-rank: 43
 image-small: >-
-  https://res.cloudinary.com/threelogyvideo/image/upload/v1548765293/27_Sequel-01a.jpg
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1548840985/Loraine-02a.jpg
 ---
 The wedding of Jeffrey & Loraine.💕 
 
