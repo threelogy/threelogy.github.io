@@ -6,7 +6,7 @@ type: other
 section-rank: 22
 link: a1ignacOtDI
 image-small: >-
-  https://res.cloudinary.com/threelogyvideo/image/upload/v1549827193/MICP9402-01_ws.jpg
+  https://res.cloudinary.com/threelogyvideo/image/upload/v1549874473/MICP9402-01a.jpg
 ---
 The fabulous birthday celebration of MGD @21. ✨😍💕
 
