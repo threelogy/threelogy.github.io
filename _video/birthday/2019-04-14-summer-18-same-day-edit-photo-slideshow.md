@@ -4,7 +4,7 @@ title: Summer@18 Same Day Edit Photo Slideshow (April 2019)
 image-large: 'https://i.vimeocdn.com/video/612830276_1920x700.jpg'
 link: v45VL5ojzRo
 type: birthday
-section-rank: 12
+section-rank: 13
 layout: reel
 image-small: >-
   https://res.cloudinary.com/dyhs9kt7b/image/upload/v1555245404/IMG_9385-01a_yt.jpg
