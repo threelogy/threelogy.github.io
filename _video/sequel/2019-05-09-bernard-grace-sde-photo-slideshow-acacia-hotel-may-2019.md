@@ -2,7 +2,7 @@
 published: true
 title: Bernard & Grace (SDE Photo Slideshow) Acacia Hotel - May 2019
 layout: reel
-link: 8pV0vQVQguw
+link: V3P12Rdod7I
 type: sequel
 section-rank: 47
 image-small: >-
