@@ -1,95 +1,80 @@
-- id: 1
+---
+- id: "1"
   title: The Threelogy
-  price: "PHP 130,000"
+  price: PHP 130,000
   package:
-    - package-name: Three HD cameras
-    - package-name: Same Day Edit
-    - package-name: Cinematic Highlights Edit
-    - package-name: Raw Footage
-    - package-name: Use of Drone
-    - package-name: Output on Disc and USB Drive
-
-- id: 2
+  - package-name: Three HD cameras
+  - package-name: Same Day Edit
+  - package-name: Cinematic Highlights Edit
+  - package-name: Raw Footage
+  - package-name: Use of Drone
+  - package-name: Output on Disc and USB Drive
+- id: "2"
   title: The Trio
-  price: "PHP 75,000"
+  price: PHP 75,000
   package:
-    - package-name: Three HD cameras
-    - package-name: Same Day Edit
-    - package-name: Raw Footage
-    - package-name: Output on Disc
-
-
-- id: 3
+  - package-name: Three HD cameras
+  - package-name: Same Day Edit
+  - package-name: Raw Footage
+  - package-name: Output on Disc & USB Drive
+- id: "3"
   title: The Sequel
-  price: "PHP 65,000"
+  price: PHP 65,000
   package:
-    - package-name: Three HD cameras
-    - package-name: Same Day Edit
-    - package-name: Cinematic Highlights Edit
-    - package-name: Raw Footage
-    - package-name: Shot by Threelogy senior cinematographers
-    - package-name: Output on Disc
-
-
-- id: 4
+  - package-name: Three HD cameras
+  - package-name: Same Day Edit
+  - package-name: Cinematic Highlights Edit
+  - package-name: Raw Footage
+  - package-name: Shot by Threelogy senior cinematographers
+  - package-name: Output on Disc
+- id: "4"
   title: The Pre-Wedding
-  price: "PHP 55,000"
+  price: PHP 55,000
   package:
-    - package-name: Save The Date
-    - package-name: Engagement
-    - package-name: Teaser
-    - package-name: OBB
-
-
-- id: 5
+  - package-name: Save The Date
+  - package-name: Engagement
+  - package-name: Teaser
+  - package-name: OBB
+- id: "5"
   title: The Love Story
-  price: "PHP 75,000"
+  price: PHP 75,000
   package:
-    - package-name: Your love story told the Threelogy way.
-
-- id: 6
+  - package-name: Your love story told the Threelogy way.
+- id: "6"
   title: The International
-  price: "Starts at USD 6,000"
+  price: Starts at USD 6,000
   package:
-    - package-name: Depends on location and scope of shoot
-
-- id: 7
+  - package-name: Depends on location and scope of shoot
+- id: "7"
   title: The Corporate
   package:
-    - package-name: Call or email us for a quotation
-
-- id: 8
+  - package-name: Call or email us for a quotation
+- id: "8"
   title: Fees for out of town shoots
   package:
-    - package-price: "PHP 5,000"
-      package-destination:
-        - destination: "Tagaytay"
-        - destination: "Bulacan"
-
-    - package-price: "PHP 7,500"
-      package-destination:
-        - destination: "Clark"
-        - destination: "Pampanga"
-        - destination: "San Pablo"
-
-    - package-price: "PHP 10,000"
-      package-destination:
-        - destination: "Batangas"
-        - destination: "Quezon"
-        - destination: "Subic"
-
-    - package-price: "PHP 15,000 + accommodation"
-      package-destination:
-        - destination: "Baguio"
-        - destination: "Pangasinan"
-
-    - package-price: "PHP 25,000 + airfare + land transfers + accommodation"
-      package-destination:
-        - destination: "Naga"
-        - destination: "Ilocos"
-        - destination: "Boracay"
-        - destination: "Cebu"
-        - destination: "Batanes"
-        - destination: "Visayas & Mindanao"
-
-
+  - package-price: PHP 5,000
+    package-destination:
+    - destination: Tagaytay
+    - destination: Bulacan
+  - package-price: PHP 7,500
+    package-destination:
+    - destination: Clark
+    - destination: Pampanga
+    - destination: San Pablo
+  - package-price: PHP 10,000
+    package-destination:
+    - destination: Batangas
+    - destination: Quezon
+    - destination: Subic
+  - package-price: PHP 15,000 + accommodation
+    package-destination:
+    - destination: Baguio
+    - destination: Pangasinan
+  - package-price: PHP 25,000 + airfare + land transfers + accommodation
+    package-destination:
+    - destination: Naga
+    - destination: Ilocos
+    - destination: Boracay
+    - destination: Cebu
+    - destination: Batanes
+    - destination: Visayas & Mindanao
