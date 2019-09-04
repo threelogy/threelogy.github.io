@@ -6,7 +6,7 @@ link: yymiax77lz8
 type: birthday
 section-rank: 15
 layout: reel
-image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1567391492/k-anne-02ab.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1567561412/IMG_9357.jpg'
 ---
 K-Anne's 18th Birthday Party celebration. 💕
 
