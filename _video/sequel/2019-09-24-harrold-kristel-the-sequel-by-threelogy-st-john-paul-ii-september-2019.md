@@ -5,8 +5,7 @@ layout: reel
 link: Avk-gD9zLzA
 type: sequel
 section-rank: 51
-image-small: >-
-  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1569300666/IMG_7497-01ab.jpg
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1569340149/2_yt.jpg'
 ---
 The heartwarming wedding of Harrold & Kristel.❤️
 
