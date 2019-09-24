@@ -4,7 +4,7 @@ title: Harrold & Kristel (The Sequel by Threelogy) St. John Paul II - September 
 layout: reel
 link: Avk-gD9zLzA
 type: sequel
-section-rank: 52
+section-rank: 51
 image-small: >-
   https://res.cloudinary.com/dyhs9kt7b/image/upload/v1569300666/IMG_7497-01ab.jpg
 ---
