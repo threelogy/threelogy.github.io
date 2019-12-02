@@ -6,7 +6,7 @@ link: DEnaC1JcBcM
 type: sde
 section-rank: 121
 image-small: >-
-  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1575194831/Vhong_Tanya-02ab.jpg
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1575270535/vhong_10a-01a-01-02.jpg
 ---
 Vhong & Tanya’s wedding was full of genuine raw emotions which made their special day beyond beautiful, it was perfect. Watch to see what true love is. 😭❤️❤️❤️     
 
