@@ -1,6 +1,6 @@
 ---
 published: true
-title: '#GreySeñatomy Prenup Video (The Love Story) December 2019Untitled'
+title: '#GreySeñatomy Prenup Video (The Love Story) December 2019'
 layout: reel
 link: 6y7bkfsLGpI
 type: love-story
