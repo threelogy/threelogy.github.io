@@ -12,4 +12,6 @@ image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1580852332/Mich
 The beautiful wedding of Michael & Amaina.😭❤
 *watch it in HD
 
+*Video is done ultra-wide as requested by the couple to fit their video wall.
+
 #Threelogy #BeThreelogy #SDE #SameDayEdit #WeddingFilm #WeddingVideo #WeddingVideographer #EventsVideographer  #ThreelogyVideo
