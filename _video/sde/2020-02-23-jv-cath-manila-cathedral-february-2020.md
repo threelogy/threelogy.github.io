@@ -8,5 +8,6 @@ section-rank: 135
 image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1582448254/2c-01a.jpg'
 ---
 The beautiful wedding of JV and Cath. 😭😍💕
+*watch it in HD
 
 #Threelogy #BeThreelogy #SDE #WeddingFilm #WeddingVideo #ThreelogyVideo
