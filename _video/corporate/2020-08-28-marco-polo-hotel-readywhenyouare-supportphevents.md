@@ -1,7 +1,6 @@
 ---
 published: true
-title: 'Marco Polo Hotel #ReadyWhenYouAre #SupportPHEvents'
-image-large: ''
+title: 'Marco Polo Hotel #ReadyWhenYouAre #SupportPHEvents (August 2020) '
 image-small: >-
   https://res.cloudinary.com/dyhs9kt7b/image/upload/v1598615916/Marco_Polo-02a.jpg
 link: FrMjxX7RNVA
