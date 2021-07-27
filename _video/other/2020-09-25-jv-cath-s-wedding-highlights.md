@@ -1,6 +1,6 @@
 ---
 published: true
-title: JV & Cath's Wedding Highlights
+title: JV & Cath's Wedding Highlights (Manila Cathedral) February 2020
 layout: reel
 type: other
 section-rank: 24
