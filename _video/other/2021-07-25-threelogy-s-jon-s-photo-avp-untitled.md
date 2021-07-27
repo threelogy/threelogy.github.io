@@ -4,7 +4,7 @@ title: 'Threelogy''s Jon''s Photo AVP '
 layout: reel
 type: other
 section-rank: 25
-link: g_55BxtxkXo
+link: bcpwoE7NHDU
 image-small: >-
   https://res.cloudinary.com/dyhs9kt7b/image/upload/v1627389008/Labsie_Photo_AVP_Cover-01a-01ab.jpg
 ---
