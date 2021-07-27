@@ -1,6 +1,6 @@
 ---
 published: true
-title: Threelogy's Jon's Photo AVP ✨Untitled
+title: 'Threelogy''s Jon''s Photo AVP '
 layout: reel
 type: other
 section-rank: 25
