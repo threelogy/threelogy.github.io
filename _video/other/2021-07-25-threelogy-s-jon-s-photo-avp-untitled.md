@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Threelogy''s Jon''s Photo AVP '
+title: Threelogy's Jon's Photo AVP (May 2021)
 layout: reel
 type: other
 section-rank: 25
