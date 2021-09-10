@@ -1,6 +1,6 @@
 ---
 published: true
-title: Tim and Candice (July 2021)
+title: Tim & Candice (Santuario de San Jose) July 2021
 layout: reel
 link: 4MIhL6OnSNs
 type: sde
