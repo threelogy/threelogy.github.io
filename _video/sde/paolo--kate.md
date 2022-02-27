@@ -3,9 +3,9 @@ published: true
 slugID: 7
 layout: reel
 title: Paolo & Kate (Madre de Dios) February 2011
-image-large: 'https://i.vimeocdn.com/video/594416901_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594416901_750x500.jpg'
-link: '_doJc9QAJ2Y'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1645979291/sddefault.webp'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1645979291/sddefault.webp'
+link: _doJc9QAJ2Y
 type: sde
 section-rank: 6
 featured: true
