@@ -2,8 +2,10 @@
 published: true
 title: Kid & Sandee (Madre De Dios) August 2017
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/651336746_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/651336746_750x500.jpg'
+image-large: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646207040/kid_and_sandee.jpg
+image-small: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646207040/kid_and_sandee.jpg
 link: PrAmaSSeQdU
 type: sde
 section-rank: 68
