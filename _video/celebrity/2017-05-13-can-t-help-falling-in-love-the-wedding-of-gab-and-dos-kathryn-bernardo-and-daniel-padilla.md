@@ -7,8 +7,8 @@ layout: reel
 link: rBolBrVi7vk
 type: celebrity
 section-rank: 14
-image-large: 'https://i.vimeocdn.com/video/634676628_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/634676628_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646214571/Gab_Dos.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646214571/Gab_Dos.jpg'
 ---
 "I, Jose Ibarra Gonzales Jr., take you, Gabriela Dela Cuesta, for my lawful wife, pigain mo man ang apdo ko..." -Dos to Gab- :)
 
