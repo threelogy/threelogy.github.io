@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: 'Zian''s 18th Birthday Candyman Music Video '
-image-large: 'https://i.vimeocdn.com/video/594855253_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594855253_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646223757/Zian.webp'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646223757/Zian.webp'
 link: NJHOpIf8-EE
 type: birthday
 section-rank: 2
