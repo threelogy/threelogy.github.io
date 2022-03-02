@@ -2,8 +2,10 @@
 published: false
 title: Dave & Ning (The Sequel by Threelogy) Shangri-La At the Fort - November 2017
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/669950145_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/669950145_750x500.jpg'
+image-large: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646211621/dave_and_ning.jpg
+image-small: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646211621/dave_and_ning.jpg
 link: V-FItsaHW6s
 type: sequel
 section-rank: 17
