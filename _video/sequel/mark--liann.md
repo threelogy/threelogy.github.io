@@ -2,7 +2,7 @@
 published: true
 slugID: 33
 layout: reel
-title: Mark & Liann (The Sequel by Threelogy) Our Lady of Lourdes - February 2015
+title: Mark & Liann (Sequel) Our Lady of Lourdes - February 2015
 image-large: 'https://i.vimeocdn.com/video/594865741_1920x700.jpg'
 image-small: >-
   https://res.cloudinary.com/threelogyvideo/image/upload/v1531901271/589507774_750x500ab-01.jpg
