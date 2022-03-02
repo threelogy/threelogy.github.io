@@ -1,6 +1,6 @@
 ---
 published: true
-title: Rohit & Denise (The Sequel by Threelogy) Don Bosco Makati - February 2019
+title: Rohit & Denise (Sequel) Don Bosco Makati - February 2019
 layout: reel
 link: oKbVPQ81svs
 type: sequel
@@ -10,4 +10,4 @@ image-small: >-
 ---
 The wedding of Rohit & Denise.😊💕
 
-#Threelogy #BeThreelogy #SDE #SameDayEdit #WeddingFilm #WeddingVideo 
+#Threelogy #BeThreelogy #SDE #SameDayEdit #WeddingFilm #WeddingVideo
