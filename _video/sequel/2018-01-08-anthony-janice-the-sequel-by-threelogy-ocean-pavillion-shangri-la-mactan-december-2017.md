@@ -4,9 +4,11 @@ title: >-
   Anthony & Janice (The Sequel by Threelogy) Ocean Pavillion Shangri-La Mactan -
   December 2017
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/676053082_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/676053082_750x500.jpg'
-link: 'FL3iBdQx3zk'
+image-large: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212290/Anthony_Janice.jpg
+image-small: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212290/Anthony_Janice.jpg
+link: FL3iBdQx3zk
 type: sequel
 section-rank: 22
 ---
