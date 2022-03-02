@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: Peter & April (Threelogy's The Love Story)
-image-large: 'https://i.vimeocdn.com/video/590431387_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/590431387_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646221884/Peter_TLS.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646221884/Peter_TLS.jpg'
 link: emFkZRA6jOk
 type: love-story
 section-rank: 5
