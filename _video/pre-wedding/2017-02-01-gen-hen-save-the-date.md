@@ -2,8 +2,8 @@
 published: true
 title: Gen & Hen Save The Date (Balesin) November 2016
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/615926118_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/615926118_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646221442/Gen_Hen_STD.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646221442/Gen_Hen_STD.jpg'
 link: Dij8o7ugf38
 type: pre-wedding
 section-rank: 8
