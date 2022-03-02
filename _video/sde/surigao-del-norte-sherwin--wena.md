@@ -3,8 +3,8 @@ published: true
 slugID: 33
 layout: reel
 title: Sherwin & Wena (Surigao del Norte) January 2014
-image-large: 'https://i.vimeocdn.com/video/594791986_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594791986_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646205786/Wena.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646205786/Wena.jpg'
 link: 2I8cU4CIvlQ
 type: sde
 section-rank: 33
