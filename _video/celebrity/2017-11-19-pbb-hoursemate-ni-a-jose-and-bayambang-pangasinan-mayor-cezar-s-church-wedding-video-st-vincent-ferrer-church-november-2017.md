@@ -7,8 +7,8 @@ layout: reel
 link: HPFMd28hYKM
 type: celebrity
 section-rank: 20
-image-large: 'https://i.vimeocdn.com/video/667659018_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/667659018_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646215159/Nina_Jose.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646215159/Nina_Jose.jpg'
 ---
 Here's sharing with you all, Bayambang, Pangasinan's Mayor Cezar and his beautiful wife, actress and model, Niña Jose's wedding SDE.
 
