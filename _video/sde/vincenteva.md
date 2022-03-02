@@ -3,8 +3,8 @@ published: true
 slugID: 32
 layout: reel
 title: Vincent & Eva (St. Benedict) October 2015
-image-large: 'https://i.vimeocdn.com/video/594791445_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594791445_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646205345/Eva_Vincent.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646205345/Eva_Vincent.jpg'
 link: BqdwnFPzUDw
 type: sde
 section-rank: 29
