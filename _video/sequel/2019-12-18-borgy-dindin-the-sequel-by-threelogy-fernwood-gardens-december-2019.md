@@ -1,6 +1,6 @@
 ---
 published: true
-title: Borgy & Dindin (The Sequel by Threelogy) Fernwood Gardens - December 2019
+title: Borgy & Dindin (Sequel) Fernwood Gardens - December 2019
 layout: reel
 link: pXux7Cjgyug
 type: sequel
