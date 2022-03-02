@@ -4,8 +4,8 @@ title: 'Mariel Rodriguez-Padilla on Pregnancy (October 2016) '
 layout: reel
 type: other
 section-rank: 2
-image-large: 'https://i.vimeocdn.com/video/601401038_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/601401038_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646214121/mariel.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646214121/mariel.jpg'
 link: Td_xGr7Quok
 ---
 TV host Mariel Padilla on pregnancy. 
