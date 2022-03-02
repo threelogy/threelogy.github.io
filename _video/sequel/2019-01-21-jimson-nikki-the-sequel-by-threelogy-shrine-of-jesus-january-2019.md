@@ -1,6 +1,6 @@
 ---
 published: true
-title: Jimson & Nikki (The Sequel by Threelogy) Shrine of Jesus - January 2019
+title: Jimson & Nikki (Sequel) Shrine of Jesus - January 2019
 layout: reel
 link: K4n1aC8Kuq8
 type: sequel
