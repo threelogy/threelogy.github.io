@@ -1,6 +1,6 @@
 ---
 published: true
-title: Alvin & Rem (The Sequel by Threelogy) Santuario de San Jose - January 2020
+title: Alvin & Rem (Sequel) Santuario de San Jose - January 2020
 layout: reel
 link: pQwQRjraktg
 type: sequel
