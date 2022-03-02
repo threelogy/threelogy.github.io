@@ -3,8 +3,8 @@ published: true
 slugID: 34
 layout: reel
 title: Arvin & Grace (Notre Dame de Vie Chapel) June 2016
-image-large: 'https://i.vimeocdn.com/video/588814599_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/588814599_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646205957/Arvin_Grace.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646205957/Arvin_Grace.jpg'
 link: NqO0tz-CAX4
 type: sde
 section-rank: 34
