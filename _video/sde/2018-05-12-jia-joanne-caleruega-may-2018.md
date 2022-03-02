@@ -2,8 +2,8 @@
 published: true
 title: 'Jia Jun & Joanne (Caleruega) May 2018 '
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/700231164_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/700231164_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210512/Jia_Jun.webp'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210512/Jia_Jun.webp'
 link: B6gq57RWnWM
 type: sde
 section-rank: 87
