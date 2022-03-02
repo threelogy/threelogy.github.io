@@ -4,8 +4,8 @@ title: 'Actress and Recording Artist, Gabbi Garcia for Belo Medical (October 201
 type: corporate
 section-rank: 19
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/661019430_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/661019430_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646214913/Gabbi.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646214913/Gabbi.jpg'
 link: 0KsFZPIrpxQ
 ---
 Pretty Gabbi for Belo Beauty. :) 
