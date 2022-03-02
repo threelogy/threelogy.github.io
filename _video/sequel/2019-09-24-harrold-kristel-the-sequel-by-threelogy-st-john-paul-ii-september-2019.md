@@ -1,6 +1,6 @@
 ---
 published: true
-title: Harrold & Kristel (The Sequel by Threelogy) St. John Paul II - September 2019
+title: Harrold & Kristel (Sequel) St. John Paul II - September 2019
 layout: reel
 link: Avk-gD9zLzA
 type: sequel
