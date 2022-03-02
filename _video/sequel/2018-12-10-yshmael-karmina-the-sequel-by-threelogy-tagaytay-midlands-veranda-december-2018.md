@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Yshmael & Karmina (The Sequel by Threelogy) Tagaytay Midlands Veranda -
-  December 2018
+title: Yshmael & Karmina (Sequel) Tagaytay Midlands Veranda - December 2018
 layout: reel
 link: AYCT5jyMzp8
 type: sequel
