@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ernie & Dana (The Sequel by Threelogy) Our Lady of Light - December 2017
+title: Ernie & Dana (Sequel) Our Lady of Light - December 2017
 layout: reel
 image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212084/Ernie_Dana.jpg'
 image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212084/Ernie_Dana.jpg'
