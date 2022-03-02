@@ -2,8 +2,8 @@
 published: true
 title: Waldo & Regine (San Agustin Church) September 2016
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/594388347_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594388347_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646206311/Waldo_Regine.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646206311/Waldo_Regine.jpg'
 link: ckWibrrBzzI
 type: sde
 section-rank: 38
