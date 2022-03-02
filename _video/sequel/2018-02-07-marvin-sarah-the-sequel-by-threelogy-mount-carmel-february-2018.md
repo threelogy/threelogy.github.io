@@ -2,8 +2,8 @@
 published: true
 title: Marvin & Sarah (The Sequel by Threelogy) Mount Carmel - February 2018
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/681819638_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/681819638_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212388/Marvin_sara.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212388/Marvin_sara.jpg'
 link: hFLx_qpCuc0
 type: sequel
 section-rank: 23
