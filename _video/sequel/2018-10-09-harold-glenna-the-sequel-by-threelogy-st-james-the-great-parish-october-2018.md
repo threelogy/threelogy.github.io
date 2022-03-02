@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Harold & Glenna (The Sequel by Threelogy) St. James the Great Parish - October
-  2018
+title: Harold & Glenna (Sequel) St. James the Great Parish - October 2018
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/700592166_1920x700.jpg'
 link: RL9oUj7g7oQ
