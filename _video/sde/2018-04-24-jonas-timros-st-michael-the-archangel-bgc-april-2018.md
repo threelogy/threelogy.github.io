@@ -2,8 +2,8 @@
 published: true
 title: 'Jonas & Timros (St.Michael The Archangel, BGC) April 2018'
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/696489903_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/696489903_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210299/jonas_timros.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210299/jonas_timros.jpg'
 link: pXy_5yAcpps
 type: sde
 section-rank: 85
