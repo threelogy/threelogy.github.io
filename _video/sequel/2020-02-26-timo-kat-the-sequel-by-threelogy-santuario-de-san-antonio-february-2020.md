@@ -1,6 +1,6 @@
 ---
 published: true
-title: Timo & Kat (The Sequel by Threelogy) Santuario de San Antonio - February 2020
+title: Timo & Kat (Sequel) Santuario de San Antonio - February 2020
 layout: reel
 link: d5DkpxjRvbA
 type: sequel
