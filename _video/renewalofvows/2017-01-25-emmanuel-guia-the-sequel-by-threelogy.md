@@ -2,8 +2,10 @@
 published: true
 title: Emmanuel & Guia (The Sequel by Threelogy) San Antonio de Padua - December 2016
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/614554815_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/614554815_750x500.jpg'
+image-large: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210765/emmanuel_guia.jpg
+image-small: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210765/emmanuel_guia.jpg
 link: pBF0JRMMzFA
 type: renewalofvows
 section-rank: 5
