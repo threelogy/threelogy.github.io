@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Charles & Cherie (The Sequel by Threelogy) Marriott Ceremonial Hall - January
-  2019
+title: Charles & Cherie (Sequel) Marriott Ceremonial Hall - January 2019
 layout: reel
 link: ZBICWTYLSG4
 type: sequel
