@@ -1,6 +1,6 @@
 ---
 published: true
-title: Emmanuel & Guia (The Sequel by Threelogy) San Antonio de Padua - December 2016
+title: Emmanuel & Guia (Sequel) San Antonio de Padua - December 2016
 layout: reel
 image-large: >-
   https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210765/emmanuel_guia.jpg
