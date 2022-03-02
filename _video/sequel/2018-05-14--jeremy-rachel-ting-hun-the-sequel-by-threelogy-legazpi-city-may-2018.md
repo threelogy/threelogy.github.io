@@ -1,6 +1,6 @@
 ---
 published: true
-title: ' Jeremy & Rachel Ting Hun (The Sequel by Threelogy) Legazpi City - May 2018 '
+title: ' Jeremy & Rachel Ting Hun (Sequel) Legazpi City - May 2018 '
 layout: reel
 image-large: >-
   https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212868/Jeremy_Ting_Hun.jpg
