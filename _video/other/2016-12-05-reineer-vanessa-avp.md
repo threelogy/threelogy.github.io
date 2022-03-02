@@ -4,8 +4,8 @@ title: Reineer & Vanessa AVP (Palazzo Verde) November 2016
 layout: reel
 type: other
 section-rank: 5
-image-large: 'https://i.vimeocdn.com/video/606207714_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/606207714_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646224261/Reineer_AVP.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646224261/Reineer_AVP.jpg'
 link: kAOg5WIfDTQ
 ---
 Reineer & Vanessa - spreading love around the world! :)
