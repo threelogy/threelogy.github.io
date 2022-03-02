@@ -1,6 +1,6 @@
 ---
 published: true
-title: Jester & Michelle (The Sequel by Threelogy) San Agustin Church - October 2018
+title: Jester & Michelle (Sequel) San Agustin Church - October 2018
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/700592166_1920x700.jpg'
 link: FAF1UA5pwiY
