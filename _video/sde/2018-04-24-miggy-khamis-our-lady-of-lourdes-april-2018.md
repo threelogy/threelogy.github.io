@@ -2,8 +2,8 @@
 published: true
 title: 'Miggy & Khamis (Our Lady of Lourdes) April 2018 '
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/695813599_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/695813599_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210401/miggy_khamis.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210401/miggy_khamis.jpg'
 link: 2xPHksvsjWc
 type: sde
 section-rank: 86
