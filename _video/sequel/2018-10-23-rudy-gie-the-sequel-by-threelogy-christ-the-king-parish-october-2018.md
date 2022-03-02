@@ -1,6 +1,6 @@
 ---
 published: true
-title: Rudy & Gie (The Sequel by Threelogy) Christ the King Parish - October 2018
+title: Rudy & Gie (Sequel) Christ the King Parish - October 2018
 type: renewalofvows
 section-rank: 13
 link: yZntv78Vjus
