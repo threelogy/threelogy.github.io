@@ -1,6 +1,6 @@
 ---
 published: true
-title: Dave & Ning (The Sequel by Threelogy) Shangri-La At the Fort - November 2017
+title: Dave & Ning (Sequel) Shangri-La At the Fort - November 2017
 type: renewalofvows
 section-rank: 9
 image-large: >-
