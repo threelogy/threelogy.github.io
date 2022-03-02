@@ -3,8 +3,8 @@ published: true
 slugID: 18
 layout: reel
 title: Oliver & Jenica (Tagaytay Highlands helipad) September 2015
-image-large: 'https://i.vimeocdn.com/video/594776885_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594776885_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646204629/sddefault_a.webp'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646204629/sddefault_a.webp'
 link: VU8_WTjsRu4
 type: sde
 section-rank: 16
