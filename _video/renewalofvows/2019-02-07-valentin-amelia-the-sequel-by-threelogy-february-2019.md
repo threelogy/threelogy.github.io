@@ -1,6 +1,6 @@
 ---
 published: true
-title: Valentin & Amelia (The Sequel by Threelogy) February 2019
+title: Valentin & Amelia (Sequel) February 2019
 type: renewalofvows
 section-rank: 14
 link: vM6csy6TPOk
