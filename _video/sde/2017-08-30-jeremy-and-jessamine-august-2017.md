@@ -2,8 +2,10 @@
 published: true
 title: Jeremy & Jessamine (St. Benedict Parish) August 2017
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/652495131_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/652495131_750x500.jpg'
+image-large: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646207190/Jeremy_Jessamine.jpg
+image-small: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646207190/Jeremy_Jessamine.jpg
 link: O_QvW6_VrqQ
 type: sde
 section-rank: 69
