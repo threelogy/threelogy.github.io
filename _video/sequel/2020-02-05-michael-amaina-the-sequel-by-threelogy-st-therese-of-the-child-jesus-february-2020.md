@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Michael & Amaina (The Sequel by Threelogy) St. Therese of the Child Jesus -
-  February 2020
+title: Michael & Amaina (Sequel) St. Therese of the Child Jesus - February 2020
 layout: reel
 link: 0USE5V0HxUQ
 type: sequel
