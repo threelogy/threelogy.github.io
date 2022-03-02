@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Anthony & Janice (The Sequel by Threelogy) Ocean Pavillion Shangri-La Mactan -
-  December 2017
+title: Anthony & Janice (Sequel) Ocean Pavillion Shangri-La Mactan - December 2017
 layout: reel
 image-large: >-
   https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212290/Anthony_Janice.jpg
