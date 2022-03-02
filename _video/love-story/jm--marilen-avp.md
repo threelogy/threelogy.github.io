@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: 'JM & Marilen''s Prenup Video '
-image-large: 'https://i.vimeocdn.com/video/594852018_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594852018_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646223563/JM_TLS.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646223563/JM_TLS.jpg'
 link: m1piaU1JhUo
 type: love-story
 section-rank: 6
