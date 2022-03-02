@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Eugenio & Mercedes (The Sequel by Threelogy) Chapel of the Forgiving Lord -
-  July 2018
+title: Eugenio & Mercedes (Sequel) Chapel of the Forgiving Lord - July 2018
 type: renewalofvows
 section-rank: 12
 link: w_zY4U5ECf0
