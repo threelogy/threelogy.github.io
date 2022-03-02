@@ -2,9 +2,9 @@
 published: true
 title: Ernie & Dana (The Sequel by Threelogy) Our Lady of Light - December 2017
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/673135168_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/673135168_750x500.jpg'
-link: 'GVWhEdVhtpM'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212084/Ernie_Dana.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212084/Ernie_Dana.jpg'
+link: GVWhEdVhtpM
 type: sequel
 section-rank: 18
 ---
