@@ -1,6 +1,6 @@
 ---
 published: true
-title: Jomar & Joyce (The Sequel by Threlogy) Narra Hill - December 2018
+title: Jomar & Joyce (Sequel) Narra Hill - December 2018
 layout: reel
 link: 40OkfYZN2g0
 type: sequel
