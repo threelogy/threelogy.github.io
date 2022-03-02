@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Michael Cedrik & Uzzle (The Sequel by Threelogy) St. John the Baptist Church -
-  December 2018
+title: Michael Cedrik & Uzzle (Sequel) St. John the Baptist Church - December 2018
 layout: reel
 link: E2mQGEhWgKs
 type: sequel
