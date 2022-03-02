@@ -4,8 +4,10 @@ title: Emmanuel & Guia (The Sequel by Threelogy) San Antonio de Padua - December
 layout: reel
 type: sequel
 section-rank: 5
-image-large: 'https://i.vimeocdn.com/video/614554815_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/614554815_750x500.jpg'
+image-large: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210765/emmanuel_guia.jpg
+image-small: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646210765/emmanuel_guia.jpg
 link: 'https://player.vimeo.com/video/200775155'
 ---
 Golden wedding anniversary of Emmanuel & Guia. We feel so blessed to have been a part of their forever love.
