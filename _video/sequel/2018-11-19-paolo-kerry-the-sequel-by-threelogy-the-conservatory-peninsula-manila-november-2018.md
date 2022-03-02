@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Paolo & Kerry (The Sequel by Threelogy) The Conservatory, Peninsula Manila -
-  November 2018
+title: 'Paolo & Kerry (Sequel) The Conservatory, Peninsula Manila - November 2018'
 layout: reel
 link: jd0LFRUSDSU
 type: sequel
