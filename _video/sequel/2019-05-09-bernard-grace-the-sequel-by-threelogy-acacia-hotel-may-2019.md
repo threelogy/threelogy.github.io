@@ -1,6 +1,6 @@
 ---
 published: true
-title: Bernard & Grace (The Sequel by Threelogy) Acacia Hotel - May 2019
+title: Bernard & Grace (Sequel) Acacia Hotel - May 2019
 layout: reel
 link: 8pV0vQVQguw
 type: sequel
