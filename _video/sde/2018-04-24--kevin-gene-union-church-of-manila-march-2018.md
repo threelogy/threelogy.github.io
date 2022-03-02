@@ -5,7 +5,7 @@ layout: reel
 link: 490A9r1AOmA
 type: sde
 section-rank: 84
-image-large: 'https://i.vimeocdn.com/video/688361096_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/688361096_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646208932/kevin_gene.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646208932/kevin_gene.jpg'
 ---
 Email us at: inquiry@threelogyvideo.com
