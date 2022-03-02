@@ -3,8 +3,10 @@ published: true
 slugID: 17
 layout: reel
 title: Paolo & Pier (Santuario de San Antonio) January 2015
-image-large: 'https://i.vimeocdn.com/video/594776813_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594776813_750x500.jpg'
+image-large: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646204152/maxresdefault_c.jpg
+image-small: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646204152/maxresdefault_c.jpg
 link: _6hZGrb1O5c
 type: sde
 section-rank: 15
