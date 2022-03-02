@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Arti & Vernice (The Sequel by Threelogy) Immaculate Conception Cathedral -
-  June 2018
+title: Arti & Vernice (Sequel) Immaculate Conception Cathedral - June 2018
 layout: reel
 image-large: 'https://i.vimeocdn.com/video/700592166_1920x700.jpg'
 image-small: 'https://res.cloudinary.com/threelogyvideo/image/upload/v1530192034/2.jpg'
