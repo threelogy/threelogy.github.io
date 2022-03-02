@@ -1,6 +1,6 @@
 ---
 published: true
-title: Jack & Alex (The Sequel by Threelogy) Santuario de San Antonio - April 2019
+title: Jack & Alex (Sequel) Santuario de San Antonio - April 2019
 layout: reel
 link: ECVw25LYwqY
 type: sequel
