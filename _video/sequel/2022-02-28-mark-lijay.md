@@ -1,6 +1,6 @@
 ---
 published: true
-title: Mark & Lijay (The Sequel by Threelogy)
+title: Mark & Lijay (Sequel) November 2021
 layout: reel
 link: 9E5mHXxweWw
 type: sequel
