@@ -3,8 +3,8 @@ published: true
 slugID: 25
 layout: reel
 title: Morny & Mai (Santuario de San Antonio) December 2014
-image-large: 'https://i.vimeocdn.com/video/594788889_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594788889_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646206148/morny_mai.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646206148/morny_mai.jpg'
 link: R3kquxCWW6s
 type: sde
 section-rank: 37
