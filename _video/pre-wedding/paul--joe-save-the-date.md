@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: Paul & Joe Save The Date
-image-large: 'https://i.vimeocdn.com/video/594849308_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594849308_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646221262/Paul_Joe.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646221262/Paul_Joe.jpg'
 link: gGjiRwGrqCY
 type: pre-wedding
 section-rank: 3
