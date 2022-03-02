@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: 'Oliver & Jenica (The Love Story) July 2015 '
-image-large: 'https://i.vimeocdn.com/video/594849874_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594849874_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646221703/Oliver_TLS.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646221703/Oliver_TLS.jpg'
 link: UzJ4gC4yEoc
 type: love-story
 section-rank: 1
