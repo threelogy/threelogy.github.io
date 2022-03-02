@@ -2,8 +2,8 @@
 published: true
 title: 'Andrew & Andrea (Villa Nonita, Tagaytay) September 2017'
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/658656003_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/658656003_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646221555/Andrew_STD.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646221555/Andrew_STD.jpg'
 link: wmFeEgHNFU4
 type: pre-wedding
 section-rank: 9
