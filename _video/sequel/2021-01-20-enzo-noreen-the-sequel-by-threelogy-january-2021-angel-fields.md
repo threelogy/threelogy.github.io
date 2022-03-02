@@ -1,6 +1,6 @@
 ---
 published: true
-title: Enzo & Noreen (The Sequel by Threelogy) January 2021- Angel Fields
+title: Enzo & Noreen (Sequel) January 2021- Angel Fields
 layout: reel
 link: nLcZ5ED-R-0
 type: sequel
