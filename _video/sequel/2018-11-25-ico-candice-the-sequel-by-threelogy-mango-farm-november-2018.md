@@ -1,6 +1,6 @@
 ---
 published: true
-title: Ico & Candice (The Sequel by Threelogy) Mango Farm-November 2018
+title: Ico & Candice (Sequel) Mango Farm-November 2018
 layout: reel
 link: pPjFp1bAEa8
 type: sequel
