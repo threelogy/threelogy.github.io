@@ -1,6 +1,6 @@
 ---
 published: true
-title: Marvin & Sarah (The Sequel by Threelogy) Mount Carmel - February 2018
+title: Marvin & Sarah (Sequel) Mount Carmel - February 2018
 layout: reel
 image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212388/Marvin_sara.jpg'
 image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212388/Marvin_sara.jpg'
