@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Se Hun Kim & Xi Li Chen (The Sequel by Threelogy) Sofitel Manila - November
-  2018
+title: Se Hun Kim & Xi Li Chen (Sequel) Sofitel Manila - November 2018
 layout: reel
 link: Rs1b0iCASfY
 type: sequel
