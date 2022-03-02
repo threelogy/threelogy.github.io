@@ -5,8 +5,8 @@ layout: reel
 link: EE5oOekviiA
 type: celebrity
 section-rank: 15
-image-large: 'https://i.vimeocdn.com/video/661014854_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/661014854_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646214785/Tim_Yap.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646214785/Tim_Yap.jpg'
 ---
 Had so much fun doing this project for Belo Beauty.
 
