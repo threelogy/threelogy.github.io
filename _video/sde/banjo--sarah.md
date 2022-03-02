@@ -5,8 +5,10 @@ layout: reel
 title: >-
   Banjo Albano & MTV VJ Sarah Meier (Transfiguration Chapel of Caleruega) March
   2009
-image-large: 'https://i.vimeocdn.com/video/589598563_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/589598563_750x500.jpg'
+image-large: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646203641/maxresdefault_b.jpg
+image-small: >-
+  https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646203641/maxresdefault_b.jpg
 link: SqMIfdLiP_A
 type: sde
 section-rank: 14
