@@ -1,6 +1,6 @@
 ---
 published: true
-title: Jeffrey & Loraine (The Sequel by Threelogy) San Agustin Church - January 2019
+title: Jeffrey & Loraine (Sequel) San Agustin Church - January 2019
 layout: reel
 link: _-Cxjg4HFVo
 type: sequel
