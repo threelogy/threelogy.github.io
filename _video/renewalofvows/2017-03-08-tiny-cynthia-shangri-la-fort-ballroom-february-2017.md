@@ -2,8 +2,9 @@
 published: true
 title: Tiny & Cynthia (Shangri-La Fort Ballroom) February 2017
 layout: reel
-image-large: 'https://i.vimeocdn.com/video/621782032_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/621782032_750x500.jpg'
+image-large: >-
+  hthttps://res.cloudinary.com/dyhs9kt7b/image/upload/v1646211333/tiny_Cynthia.jpg
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646211333/tiny_Cynthia.jpg'
 link: 'https://player.vimeo.com/video/206349542'
 type: renewalofvows
 section-rank: 8
