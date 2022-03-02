@@ -1,6 +1,6 @@
 ---
 published: true
-title: Clinton & Kirsten (The Sequel by Threelogy) Mary the Queen - April 2018
+title: Clinton & Kirsten (Sequel) Mary the Queen - April 2018
 layout: reel
 image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212753/Kirsten.jpg'
 image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646212753/Kirsten.jpg'
