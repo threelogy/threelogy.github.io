@@ -1,8 +1,6 @@
 ---
 published: true
-title: >-
-  Peter & Karisia (The Sequel by Threelogy) Santuario de San Antonio - February
-  2017
+title: Peter & Karisia (Sequel) Santuario de San Antonio - February 2017
 layout: reel
 type: sequel
 section-rank: 10
