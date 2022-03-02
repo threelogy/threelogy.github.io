@@ -1,6 +1,6 @@
 ---
 published: true
-title: Rey Benedict & Maizah Jane (The Sequel by Threelogy) Narra Hill - January 2019
+title: Rey Benedict & Maizah Jane (Sequel) Narra Hill - January 2019
 layout: reel
 link: HPNoYx3RE78
 type: sequel
