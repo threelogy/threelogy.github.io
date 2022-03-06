@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: 'Mike & Karol (Beverly Hills, USA) February 2016'
-image-large: 'https://i.vimeocdn.com/video/594790986_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594790986_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646566073/mike.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646566073/mike.jpg'
 link: YAXsnPghwYc
 type: international
 section-rank: 4
