@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: SM Babies Exclusives Infomercial
-image-large: 'https://i.vimeocdn.com/video/594867783_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594867783_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646566681/sm_babies.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646566681/sm_babies.jpg'
 link: blocr_Ytln4
 type: corporate
 section-rank: 1
