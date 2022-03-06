@@ -5,8 +5,8 @@ layout: reel
 link: S-MOB11GsCQ
 type: celebrity
 section-rank: 17
-image-large: 'https://i.vimeocdn.com/video/661020156_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/661020156_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646567708/Cuerva.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646567708/Cuerva.jpg'
 ---
 Hunky Gil for Belo Beauty. :)
 
