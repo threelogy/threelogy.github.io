@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: Edsa Shangri-La Manila Unveil Chefs AVP (March 2016)
-image-large: 'https://i.vimeocdn.com/video/594869120_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594869120_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646566981/Edsa_Shang.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646566981/Edsa_Shang.jpg'
 link: qF-v12nEJdE
 type: corporate
 section-rank: 9
