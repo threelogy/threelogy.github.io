@@ -1,8 +1,8 @@
 ---
 published: true
 title: 'Actor and International Model, Gil Cuerva for Belo Medical (October 2017) '
-image-large: 'https://i.vimeocdn.com/video/661020156_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/661020156_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646567708/Cuerva.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646567708/Cuerva.jpg'
 link: S-MOB11GsCQ
 type: corporate
 section-rank: 20
