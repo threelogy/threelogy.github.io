@@ -2,8 +2,8 @@
 published: true
 layout: reel
 title: Bureau of Internal Revenue
-image-large: 'https://i.vimeocdn.com/video/594868173_1920x700.jpg'
-image-small: 'https://i.vimeocdn.com/video/594868173_750x500.jpg'
+image-large: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646566851/BIR.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1646566851/BIR.jpg'
 link: TmgdCzSUct8
 type: corporate
 section-rank: 7
