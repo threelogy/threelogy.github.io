@@ -5,6 +5,6 @@ layout: reel
 link: KuQtuVGt6Mw
 type: sde
 section-rank: 147
-image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1670846521/BJ_2.jpg'
+image-small: 'https://res.cloudinary.com/dyhs9kt7b/image/upload/v1670847035/BJ.jpg'
 ---
 Bj & Vic Wedding Film SDE 💖✨
